@@ -25,7 +25,19 @@ To enhance your learning experience, we will leverage ChatGPT as your personal s
 
 #### Using GitHub for Our Class
 
-We will use this GitHub repository to manage our course materials and assignments. Each student will fork (make a copy of) the main course repository to their personal GitHub profile and use that fork to track their weekly assignments. Each week, you will edit the weekly project file (e.g., week_1.md) in your forked repository and add a checkmark when you have completed each task. Occasionally, you will need to pull in changes from the main course repository to keep your fork updated. We will cover how to do this during our setup class. This approach will help you build familiarity with GitHub, an essential tool in the developer and data analytics community. Additionally, using GitHub will allow you to showcase your work and track your progress. By contributing regularly to the repository, you will add daily squares to your GitHub contribution graph, providing a visual representation of your learning streak and progress throughout the course.
+We will use this GitHub repository to manage our course materials and assignments. Each student will fork (make a copy of) the main course repository to their personal GitHub profile and use that fork to track their weekly assignments. Each week, you will edit the weekly project file (e.g., week_1.md) in your forked repository and add a checkmark when you have completed each task. Occasionally, you will need to pull in changes from the main course repository to keep your fork updated. 
+
+To do this, you will: 
+
+1) Click "sync fork" at the top of your forked repository.
+
+<img width="912" alt="Screenshot_2024-08-03_at_4_01_08_AM" src="https://github.com/user-attachments/assets/98a9602b-dbed-4fc1-9f32-500e3ae9165f">
+
+2) Then "update branch" to pull in the changes from this repo.
+
+<img width="319" alt="Screenshot_2024-08-03_at_4_01_30_AM" src="https://github.com/user-attachments/assets/5af0368f-f125-4279-b433-92e76aae72bf">
+
+This approach will help you build familiarity with GitHub, an essential tool in the developer and data analytics community. Additionally, using GitHub will allow you to showcase your work and track your progress. By regularly updating your repository, you will add daily squares to your GitHub contribution graph, providing a visual representation of your learning streak and progress throughout the course.
 
 #### Capstone Project
 
