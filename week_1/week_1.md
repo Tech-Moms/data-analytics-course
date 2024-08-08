@@ -2,7 +2,7 @@
 
 Learning Outcomes:  
 
-- [ ]  Data import and cleaning 
+- [x]  Data import and cleaning 
 - [ ] Basic functions and formulas
 - [ ]  Exploratory Data Analysis (EDA)
 - [ ] Creating pivot tables
