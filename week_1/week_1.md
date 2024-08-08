@@ -18,7 +18,7 @@ Task: Using the Tech Moms (anonymized) applicant data, create an aesthetic dashb
 
 <img width="1501" alt="Screenshot 2024-08-05 at 10 51 06 AM" src="https://github.com/user-attachments/assets/da042de3-4716-4c3c-ae33-e3acb50058ec">
 
-Download the [google sheet here](https://docs.google.com/spreadsheets/d/1O73iyLmc6-A_IgK8dKeYFN1rm_50VDns3lq_LBlLbCo/edit?usp=sharing) and follow the instructions in the README.
+### Open the [google sheet](https://docs.google.com/spreadsheets/d/1O73iyLmc6-A_IgK8dKeYFN1rm_50VDns3lq_LBlLbCo/edit?usp=sharing) and follow the instructions in the README.
 
 ## Excel and Google Sheets Learning Resources
 
