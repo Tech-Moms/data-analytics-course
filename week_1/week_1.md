@@ -1,4 +1,6 @@
-# Week 1: Intro to Excel/Google Sheets 
+# Week 1: Intro to Data Analysis & Excel/Google Sheets 
+
+![iStock-1500461725](https://github.com/user-attachments/assets/b79a68f3-b90c-44d3-8a0b-e917a8b91f8a)
 
 Learning Outcomes:  
 
