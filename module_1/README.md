@@ -99,4 +99,4 @@ To provide an overview of data analytics, introduce different roles within the d
 - [ ] **Open Floor for Questions:**
   - Address any questions or concerns from participants.
   
-- [ ] **Closing Remarks**
+- [ ] **Closing Remarks:**
