@@ -2,4 +2,4 @@
 is really really cool. My Project has a subdir named myLib, see below.
 
 ## myLib documentation
-see documentation [here](myLib/2sequence_test.md)
+see documentation [here](prep-work/2sequence_test.md)
