@@ -2,7 +2,7 @@
 
 Successfully prepare for the Tech Moms' 2.0 Data Analytics Course by completing this section before Module 1. It includes orientation videos & your first assignments. 
 
-- [ ] Tech Moms 2.0 Data Analytics Course Orientation [slides](https://docs.google.com/presentation/d/1ttR8RHF_bvDvXxFFcWyrDF-R8yrwz2Nv7C52DkT7wmA/edit#slide=id.g2f12d79c799_0_94) | [video](https://www.youtube.com/watch?v=IaiKZy1j0gs&list=PLvJhtbaWAuW2TzL4FLUfOvJay7SwvgBSf&index=1) 
+- [X] Tech Moms 2.0 Data Analytics Course Orientation [slides](https://docs.google.com/presentation/d/1ttR8RHF_bvDvXxFFcWyrDF-R8yrwz2Nv7C52DkT7wmA/edit#slide=id.g2f12d79c799_0_94) | [video](https://www.youtube.com/watch?v=IaiKZy1j0gs&list=PLvJhtbaWAuW2TzL4FLUfOvJay7SwvgBSf&index=1) 
 - [ ] [Tech Moms Community Slack Guidelines](https://docs.google.com/document/d/1g7nEFyEZe8AvSan-bbYAuvJorYvHSdoX55urAGQO_iI/edit)
 
 ## Prep Work Assignments
