@@ -41,6 +41,10 @@ _click on the image above to access slides for this module_
 
 ---
 
+## Lunch Break 🌮 (45 minutes)
+
+---
+
 ## 3. Roles in the Data Field (45 minutes)
 
 - [ ] **Overview of Key Roles:**
