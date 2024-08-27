@@ -1,11 +1,11 @@
-# Week 1: Intro to Data Analysis & Excel/Google Sheets 
+# Module 2: Excel/Google Sheets 
 
 ![iStock-1500461725](https://github.com/user-attachments/assets/b79a68f3-b90c-44d3-8a0b-e917a8b91f8a)
 
 Learning Outcomes:  
 
-- [x]  Data import and cleaning 
-- [x] Basic functions and formulas
+- [ ]  Data import and cleaning 
+- [ ] Basic functions and formulas
 - [ ]  Exploratory Data Analysis (EDA)
 - [ ] Creating pivot tables
 - [ ] Creating charts
