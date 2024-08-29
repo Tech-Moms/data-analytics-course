@@ -16,6 +16,7 @@
     <img src="https://github.com/user-attachments/assets/34d1accf-fb2d-4390-a4de-86654217d10f" alt="Cleaning Data" width="500">
 </a>
 
+
 - [ ] Watch video and mark when complete
 
 2) Functions and Formulas
