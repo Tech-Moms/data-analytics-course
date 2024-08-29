@@ -8,7 +8,7 @@ In this hands-on project, you will help Tech Moms analyze their applicant and st
 
 ## Project Overview
 
-The Leadership team is preparing to release their 2024 Tech Moms Annual Report. Annual reports are typically data-driven. They are important for non-profits because they provide transparency and demonstrate impact, which are crucial for sustaining donor support. The team needs to know the updated numbers for their student demographic data as of June 30th, 2024. They share a .csv file titled “Tech_Moms_Applicant_Data_ANON_8.29.24.csv”. The team asks that you analyze the data and provide them with insights into the updated student demographic numbers.
+The Leadership team is preparing to release their 2024 Tech Moms Annual Report. Annual reports are typically data-driven. They are important for non-profits because they provide transparency and demonstrate impact, which are crucial for sustaining donor support. The team needs to know the updated numbers for their student demographic data as of July 31th, 2024. They share a .csv file titled “Tech_Moms_Applicant_Data_ANON_8.29.24.csv”. The team asks that you analyze the data and provide them with insights into the updated student demographic numbers.
 
 Your deliverable will be a “Student Demographic” Dashboard built in the spreadsheet software of your choice - Excel or Google Sheets.
 
