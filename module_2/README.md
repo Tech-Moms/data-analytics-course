@@ -8,6 +8,17 @@ The module will cover essential functions and formulas that automate calculation
 
 By the end of this section, students will be proficient in using Excel and Google Sheets as foundational tools for data analysis, equipping them with the skills needed to handle and interpret data effectively in any professional setting.
 
+----
+
+What is Excel/Google Sheets?
+
+
+* Excel is a spreadsheet program developed by Microsoft.
+* Google Sheets is a similar web-based application by Google.
+* Both tools are used for organizing, analyzing, and storing data.
+
+Video examples in the section are in Excel and Assignment #1 will be shown in Google Docs, however, you can choose either Excel or Google Sheets to complete the analysis based on what is available to you, your personal preference or which tool you use at your current role.
+
 ## Learning Outcomes:  
 
 1)  Data cleaning 
@@ -17,6 +28,8 @@ By the end of this section, students will be proficient in using Excel and Googl
 5) Creating a spreadsheet dashboard 
 
 ## Course Materials 
+
+_Watch the videos below, edit the markdown file with an x in the checkbox when complete, then commit changes._
 
 <a href="https://youtu.be/PSNXoAs2FtQ?si=VzYJ0MCf5Uj7P-2G&t=22498" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/user-attachments/assets/34d1accf-fb2d-4390-a4de-86654217d10f" alt="Cleaning Data" width="500">
