@@ -1,5 +1,14 @@
 # Module 2: Excel and Google Sheets 
 
+### Do Before Class:  
+
+_Edit the markdown file with an x in the checkbox when complete, then commit changes._
+
+- [ ] Watch this 1-minute [video](https://app.screencastify.com/v3/watch/XJp2UYdVvVnFIFr2CjeA) about the next step
+- [ ] Make a copy of the [Pre-Course Checklist Google Doc](https://docs.google.com/document/u/1/d/1DvkYSFrZkkCpClqdR6HO3zsEFOUPDAoqZliurV4QkzA/copy?usp=sharing) and complete
+- [ ] Reflect and contribute to this [discussion](https://github.com/michellehawkins/data-analytics-course/discussions/1#discussion-7106244) about guest speakers
+- [ ] Overview, Outcomes, and Video Lessons below
+
 ## Overview:
 
 This section serves as a comprehensive introduction to Excel and Google Sheets, two of the most widely used tools in data analytics. Designed for beginners, this module will guide students through the basics of these powerful spreadsheet applications, providing a solid foundation for data manipulation, analysis, and visualization.
@@ -30,6 +39,8 @@ Video examples in the section are in Excel and Assignment #1 will be shown in Go
 ## Video Lessons - complete by Wednesday, September 4th
 
 _Watch the videos below, edit the markdown file with an x in the checkbox when complete, then commit changes._
+
+>_Tip: Make timestamped comments as you watch—it’s like the video version of writing notes in the margins of a book._
 
 _Estimated total time to complete: 4 hours_
 
