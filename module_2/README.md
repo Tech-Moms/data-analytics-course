@@ -16,7 +16,7 @@ By the end of this section, students will be proficient in using Excel and Googl
 2) Basic functions and formulas
 3) Creating pivot tables
 4)  Creating charts
-5) Creating s spreadsheet dashboard 
+5) Creating a spreadsheet dashboard 
 
 ## Course Materials 
 
@@ -28,7 +28,7 @@ _Est. Time to Complete: (20 mins)_
 
 In this section, you will learn the importance of data cleaning as a foundational step in the data analysis process. We will cover techniques to identify and correct errors, handle missing values, standardize data formats, and remove duplicates. By mastering these skills, students will ensure their data is accurate and ready for analysis, setting the stage for meaningful insights.
 
-- [ ] Watch video and mark when complete
+- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=VzYJ0MCf5Uj7P-2G&t=22498) and mark when complete
 ---
 <img width="500" alt="Screenshot 2024-08-28 at 3 34 17 PM" src="https://github.com/user-attachments/assets/ecd71d2a-d435-44d8-be97-c8baad80300a">
 
@@ -40,17 +40,23 @@ This section introduces essential functions and formulas in Excel and Google She
 
 <img width="500" alt="Screenshot 2024-08-28 at 3 35 02 PM" src="https://github.com/user-attachments/assets/c6895615-c093-4779-bde7-4d52bd74226a">
 
+Pivot tables are powerful tools for summarizing, analyzing, and exploring data. In this section, students will learn how to create pivot tables to quickly extract key insights from large datasets. We will cover how to group, filter, and sort data, as well as how to customize the layout to answer specific business questions.
+
 - [ ] Watch video and mark when complete
 
 ---
 
 <img width="500" alt="Screenshot 2024-08-28 at 3 34 39 PM" src="https://github.com/user-attachments/assets/b755d9fa-1b6e-443c-bce1-ab57d2a85d88">
 
+Visualizing data is a critical skill in data analytics. This section will guide students through the process of creating various types of charts, such as bar, line, and pie charts, to represent data clearly and effectively. Students will learn best practices for selecting the right chart type and formatting it to communicate their findings visually.
+
 - [ ] Watch video and mark when complete
 
 ---
 
 <img width="500" alt="Screenshot 2024-08-28 at 3 35 15 PM" src="https://github.com/user-attachments/assets/f5c9f15f-8631-41c7-b644-520372ad35a8">
+
+In the final section, students will learn how to bring together all the skills they've acquired to create an interactive and aesthetic spreadsheet dashboard. This dashboard will serve as a dynamic tool for presenting data insights, including charts, pivot tables, and key metrics. Students will focus on layout, design principles, and interactivity to ensure their dashboards are both functional and visually appealing.
 
 - [ ] Watch video and mark when complete
 
