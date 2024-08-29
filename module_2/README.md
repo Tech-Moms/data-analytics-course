@@ -8,13 +8,13 @@
 2) Basic functions and formulas
 3) Creating pivot tables
 4)  Creating charts
-5) Creating A spreadsheet dashboard 
+5) Creating s spreadsheet dashboard 
 
 ## Course Materials 
 
-1) Data Cleaning
-   
-<img width="1001" alt="Screenshot 2024-08-28 at 3 34 06 PM" src="https://github.com/user-attachments/assets/34d1accf-fb2d-4390-a4de-86654217d10f">
+<a href="https://youtu.be/PSNXoAs2FtQ?si=VzYJ0MCf5Uj7P-2G&t=22498" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/34d1accf-fb2d-4390-a4de-86654217d10f" alt="Cleaning Data" width="500">
+</a>
 
 - [ ] Watch video and mark when complete
 
