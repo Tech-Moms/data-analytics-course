@@ -27,9 +27,11 @@ Video examples in the section are in Excel and Assignment #1 will be shown in Go
 4)  Creating charts
 5) Creating a spreadsheet dashboard 
 
-## Course Materials 
+## Course Materials - complete by Wednesday, September 4th
 
 _Watch the videos below, edit the markdown file with an x in the checkbox when complete, then commit changes._
+
+_Estimated total time to complete: 4 hours_
 
 <a href="https://youtu.be/PSNXoAs2FtQ?si=VzYJ0MCf5Uj7P-2G&t=22498" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/user-attachments/assets/34d1accf-fb2d-4390-a4de-86654217d10f" alt="Cleaning Data" width="500">
