@@ -25,7 +25,7 @@ To enhance your learning experience, we will leverage ChatGPT as your personal s
 
 #### Using GitHub for Our Class
 
-We will use this GitHub repository to manage our course materials and assignments. Each student will fork (make a copy of) the main course repository to their personal GitHub profile and use that fork to track their weekly assignments. Each week, you will edit the weekly project file (e.g., week_1.md) in your forked repository and add a checkmark when you have completed each task. Occasionally, you will need to pull in changes from the main course repository to keep your fork updated. 
+We will use this GitHub repository to manage our course materials and assignments. Each student will fork (make a copy of) the main course repository to their personal GitHub profile and use that fork to track their weekly assignments. Each week, you will edit the Module README (e.g., Module_1/README.md) in your forked repository and add a checkmark when you have completed each task. Occasionally, you will need to pull in changes from the main course repository to keep your fork updated. 
 
 To do this, you will: 
 

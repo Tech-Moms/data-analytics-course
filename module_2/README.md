@@ -1,57 +1,95 @@
-# Module 2: Excel/Google Sheets 
+# Module 2: Excel and Google Sheets 
 
-![iStock-1500461725](https://github.com/user-attachments/assets/b79a68f3-b90c-44d3-8a0b-e917a8b91f8a)
+## Overview:
 
-Learning Outcomes:  
+This section serves as a comprehensive introduction to Excel and Google Sheets, two of the most widely used tools in data analytics. Designed for beginners, this module will guide students through the basics of these powerful spreadsheet applications, providing a solid foundation for data manipulation, analysis, and visualization.
 
-- [ ]  Data import and cleaning 
-- [ ] Basic functions and formulas
-- [ ]  Exploratory Data Analysis (EDA)
-- [ ] Creating pivot tables
-- [ ] Creating charts
-- [ ]  Creating an aesthetic spreadsheet dashboard 
+The module will cover essential functions and formulas that automate calculations and streamline data workflows. Additionally, students will learn how to create pivot tables for summarizing data and various charts for visualizing insights. The module will culminate with a hands-on project on building an aesthetic spreadsheet dashboard, combining all the skills learned into a practical, real-world application.
 
-## Week 1 Project: 
+By the end of this section, students will be proficient in using Excel and Google Sheets as foundational tools for data analysis, equipping them with the skills needed to handle and interpret data effectively in any professional setting.
 
-Task: Using the Tech Moms (anonymized) applicant data, create an aesthetic dashboard displaying student demographics.
+----
 
-<img width="1721" alt="Screenshot 2024-08-05 at 10 50 49 AM" src="https://github.com/user-attachments/assets/92c0e6c5-b561-47ac-ba75-c4a80a8e64bd">
+What is Excel/Google Sheets?
 
 
-<img width="1501" alt="Screenshot 2024-08-05 at 10 51 06 AM" src="https://github.com/user-attachments/assets/da042de3-4716-4c3c-ae33-e3acb50058ec">
+* Excel is a spreadsheet program developed by Microsoft.
+* Google Sheets is a similar web-based application by Google.
+* Both tools are used for organizing, analyzing, and storing data.
 
-### Open the [google sheet](https://docs.google.com/spreadsheets/d/1O73iyLmc6-A_IgK8dKeYFN1rm_50VDns3lq_LBlLbCo/edit?usp=sharing) and follow the instructions in the README.
+Video examples in the section are in Excel and Assignment #1 will be shown in Google Docs, however, you can choose either Excel or Google Sheets to complete the analysis based on what is available to you, your personal preference or which tool you use at your current role.
 
-## Excel and Google Sheets Learning Resources
+## Learning Outcomes:  
 
-### Excel Resources
+1)  Data cleaning 
+2) Basic functions and formulas
+3) Creating pivot tables
+4)  Creating charts
+5) Creating a spreadsheet dashboard 
 
-1. **[The Ultimate Excel Tutorial - Beginner to Advanced - 5 Hours](https://www.youtube.com/watch?v=TpOIGij43AA)**
-   - This comprehensive tutorial by Simon Sez IT covers everything from beginner to advanced Excel topics in one extensive video. It's perfect for building a strong foundation in Excel.
+## Video Lessons - complete by Wednesday, September 4th
 
-2. **[Microsoft Excel Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=Vl0H-qTclOg)**
-   - This full course on YouTube by Learnit Training is designed for beginners and covers practical projects to help you learn Excel step by step.
+_Watch the videos below, edit the markdown file with an x in the checkbox when complete, then commit changes._
 
-3. **[Excel for Beginners - The Complete Course](https://www.youtube.com/watch?v=wbJcJCkBcMg)**
-   - This video by Technology for Teachers and Students offers a complete course for Excel beginners, focusing on essential skills and practical applications.
+_Estimated total time to complete: 4 hours_
 
-### Google Sheets Resources
+<a href="https://youtu.be/PSNXoAs2FtQ?si=VzYJ0MCf5Uj7P-2G&t=22498" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/34d1accf-fb2d-4390-a4de-86654217d10f" alt="Cleaning Data" width="500">
+</a>
 
-4. **[Google Sheets - Full Course](https://www.youtube.com/watch?v=N2opj8XzYBY)**
-   - A comprehensive YouTube course that covers everything you need to know about Google Sheets, from basics to more advanced functions.
+_Est. Time to Complete: (20 mins)_
 
-5. **[Google Sheets Tutorial for Beginners // Learn how to start using Google Sheets](https://www.youtube.com/watch?v=cVLXkMC8-x8)**
-   - This beginner tutorial provides a step-by-step guide on how to start using Google Sheets, including creating your first spreadsheet and basic data manipulation.
+In this section, you will learn the importance of data cleaning as a foundational step in the data analysis process. We will cover techniques to identify and correct errors, handle missing values, standardize data formats, and remove duplicates. By mastering these skills, students will ensure their data is accurate and ready for analysis, setting the stage for meaningful insights.
 
-6. **[Google Sheets Tutorial For Beginners | Step by Step](https://www.youtube.com/watch?v=I3Gt851p__o)**
-   - This video tutorial covers all the essential steps for beginners to get started with Google Sheets, including basic functions and features.
+- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=VzYJ0MCf5Uj7P-2G&t=22498) and mark when complete
+---
+<img width="500" alt="Screenshot 2024-08-28 at 3 34 17 PM" src="https://github.com/user-attachments/assets/ecd71d2a-d435-44d8-be97-c8baad80300a">
 
-7. **[Beginner’s tutorial for Google Sheets](https://www.spreadsheetclass.com/google-sheets-tutorial-beginners/)**
-   - An online article that covers important Google Sheets concepts from basic formatting to using formulas, making it a great resource for beginners.
+_Est. Time to Complete: (30 mins)_
 
-8. **[Google Sheets Tutorials [Beginner to Advanced]](https://www.kierandixon.com/google-sheets-tutorials/)**
-   - A comprehensive set of tutorials ranging from beginner to advanced levels, including practical tips and detailed explanations of various Google Sheets functions.
+This section introduces essential functions and formulas in Excel and Google Sheets that are crucial for data manipulation and analysis. Students will learn how to use functions such as SUM, AVERAGE, COUNT, AND IF statements. By the end of this section, students will be comfortable using these tools to perform calculations and automate repetitive tasks.
 
+- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=0orU_bNAOQuc64fi&t=17175) and mark when complete
+
+---
+
+<img width="500" alt="Screenshot 2024-08-28 at 3 35 02 PM" src="https://github.com/user-attachments/assets/c6895615-c093-4779-bde7-4d52bd74226a">
+
+_Est. Time to Complete: (15 mins)_
+
+Pivot tables are powerful tools for summarizing, analyzing, and exploring data. In this section, students will learn how to create pivot tables to quickly extract key insights from large datasets. We will cover how to group, filter, and sort data, as well as how to customize the layout to answer specific business questions.
+
+- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=HXkI655b-v2RuNvo&t=15881) and mark when complete
+
+---
+
+<img width="500" alt="Screenshot 2024-08-28 at 3 34 39 PM" src="https://github.com/user-attachments/assets/b755d9fa-1b6e-443c-bce1-ab57d2a85d88">
+
+_Est. Time to Complete: (15 mins)_
+
+Visualizing data is a critical skill in data analytics. This section will guide students through the process of creating various types of charts, such as bar, line, and pie charts, to represent data clearly and effectively. Students will learn best practices for selecting the right chart type and formatting it to communicate their findings visually.
+
+- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=HXkI655b-v2RuNvo&t=21589) and mark when complete
+
+---
+
+<img width="500" alt="Screenshot 2024-08-28 at 3 35 15 PM" src="https://github.com/user-attachments/assets/f5c9f15f-8631-41c7-b644-520372ad35a8">
+
+_Est. Time to Complete: (45 mins)_
+
+In the final section, students will learn how to bring together all the skills they've acquired to create an interactive and aesthetic spreadsheet dashboard. This dashboard will serve as a dynamic tool for presenting data insights, including charts, pivot tables, and key metrics. Students will focus on layout, design principles, and interactivity to ensure their dashboards are both functional and visually appealing.
+
+- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=HXkI655b-v2RuNvo&t=15881) and mark when complete
+
+## Assignment #1 - complete by Saturday, September 7th
+
+In this hands-on project, you will help Tech Moms analyze their applicant and student data in order to complete their annual non-profit report. 
+
+_Estimated Time to Complete: 6 hours_
+
+<img width="1552" alt="Screenshot 2024-07-28 at 2 16 17 AM" src="https://github.com/user-attachments/assets/7f6d2d76-29a5-4cff-aec6-cd9ea680d4c3">
+
+- [ ] Complete [Assignment 1](https://docs.google.com/document/d/1mCWKiYH2ECsEWKuqoyuWFXsW-023crRAwwxGYzpZg4E/edit?usp=sharing) and mark when complete 
 
 
 
