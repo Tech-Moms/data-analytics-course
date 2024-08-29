@@ -6,8 +6,6 @@ Successfully prepare for the Tech Moms' 2.0 Data Analytics Course by completing 
 
 - [ ] Attend or watch Tech Moms 2.0 Data Analytics Course Orientation [slides](https://docs.google.com/presentation/d/1ttR8RHF_bvDvXxFFcWyrDF-R8yrwz2Nv7C52DkT7wmA/edit#slide=id.g2f12d79c799_0_94) | [video](https://www.youtube.com/watch?v=IaiKZy1j0gs&list=PLvJhtbaWAuW2TzL4FLUfOvJay7SwvgBSf&index=1) 
 
-{google_docs}[document_url](https://docs.google.com/document/d/1KKLA97bBPNHAKQkuEMDNhSWP5o5dGrS_eBCy5rMzEO0/edit?usp=sharing)|lang:system{/google_docs}
-
 ## Prep Work Assignments
 
 - [ ] Assignment #1: Create your own data analytics resources repo (see orientation video/slides)
