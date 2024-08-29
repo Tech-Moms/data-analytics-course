@@ -27,7 +27,7 @@ Video examples in the section are in Excel and Assignment #1 will be shown in Go
 4)  Creating charts
 5) Creating a spreadsheet dashboard 
 
-## Course Materials - complete by Wednesday, September 4th
+## Video Lessons - complete by Wednesday, September 4th
 
 _Watch the videos below, edit the markdown file with an x in the checkbox when complete, then commit changes._
 
@@ -80,5 +80,15 @@ _Est. Time to Complete: (45 mins)_
 In the final section, students will learn how to bring together all the skills they've acquired to create an interactive and aesthetic spreadsheet dashboard. This dashboard will serve as a dynamic tool for presenting data insights, including charts, pivot tables, and key metrics. Students will focus on layout, design principles, and interactivity to ensure their dashboards are both functional and visually appealing.
 
 - [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=HXkI655b-v2RuNvo&t=15881) and mark when complete
+
+## Assignment #1 - complete by Saturday, September 7th
+
+In this hands-on project, you will help Tech Moms analyze their applicant and student data in order to complete their annual non-profit report. 
+
+<img width="1552" alt="Screenshot 2024-07-28 at 2 16 17 AM" src="https://github.com/user-attachments/assets/7f6d2d76-29a5-4cff-aec6-cd9ea680d4c3">
+
+- [ ] Complete [Assignment 1](https://docs.google.com/document/d/1mCWKiYH2ECsEWKuqoyuWFXsW-023crRAwwxGYzpZg4E/edit?usp=sharing) and mark when complete 
+
+
 
 
