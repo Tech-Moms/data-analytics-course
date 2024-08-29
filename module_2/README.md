@@ -85,6 +85,8 @@ In the final section, students will learn how to bring together all the skills t
 
 In this hands-on project, you will help Tech Moms analyze their applicant and student data in order to complete their annual non-profit report. 
 
+_Estimated Time to Complete: 6 hours_
+
 <img width="1552" alt="Screenshot 2024-07-28 at 2 16 17 AM" src="https://github.com/user-attachments/assets/7f6d2d76-29a5-4cff-aec6-cd9ea680d4c3">
 
 - [ ] Complete [Assignment 1](https://docs.google.com/document/d/1mCWKiYH2ECsEWKuqoyuWFXsW-023crRAwwxGYzpZg4E/edit?usp=sharing) and mark when complete 
