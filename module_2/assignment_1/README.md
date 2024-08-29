@@ -26,23 +26,23 @@ Your deliverable will be a “Student Demographic” Dashboard built in the spre
 
 ### Step Two: Clean the Data
 
-- [ ] You know that you only want data as of July 31th, 2024, so you will make a copy of the “raw” data by duplicating the tab & rename it to “Analysis”. Rename the original tab to “raw”.
-- [ ] In the “Analysis” tab, review the data in the “Create Date” column. Sort it from oldest to newest. Scroll to the bottom of the spreadsheet and delete any rows with the creation date after July 31st, 2024.
-- [ ] Check for duplicates and erase any duplicate data.
+- [x] You know that you only want data as of July 31th, 2024, so you will make a copy of the “raw” data by duplicating the tab & rename it to “Analysis”. Rename the original tab to “raw”.
+- [x] In the “Analysis” tab, review the data in the “Create Date” column. Sort it from oldest to newest. Scroll to the bottom of the spreadsheet and delete any rows with the creation date after July 31st, 2024.
+- [x] Check for duplicates and erase any duplicate data.
 
 ### Step Three: Start Analyzing (aka Asking Questions of the Data)
 
 The leadership team has asked you to answer the following questions:
 
-- How many total applicants are there?
-- How many applicants were assigned a cohort?
-- What is the number of total children of all applicants?
-- What percentage of applicants are veterans?
-- What percentage of applicants identify as LGBTQ+?
-- What percentage of applicants do not have laptops?
-- What is the most number of children of any applicant?
-- What is the average number of children among all applicants?
-- What is the average number of children of applicants that were assigned a cohort?
+- [ ] How many total applicants are there?
+- [ ] How many applicants were assigned a cohort?
+- [ ] What is the number of total children of all applicants?
+- [ ] What percentage of applicants are veterans?
+- [ ] What percentage of applicants identify as LGBTQ+?
+- [ ] What percentage of applicants do not have laptops?
+- [ ] What is the most number of children of any applicant?
+- [ ] What is the average number of children among all applicants?
+- [ ] What is the average number of children of applicants that were assigned a cohort?
 
 Create a new tab titled “Functions”. Paste the questions above and answer them using the applicable spreadsheet functions - `COUNT`, `COUNTIF`, `SUM`, `SUMIF`, `MAX`, `MAXIF`, `AVERAGE`, `AVERAGEIF`.
 
