@@ -16,6 +16,7 @@
     <img src="https://github.com/user-attachments/assets/34d1accf-fb2d-4390-a4de-86654217d10f" alt="Cleaning Data" width="500">
 </a>
 
+In this section, you will learn the importance of data cleaning as a foundational step in the data analysis process. We will cover techniques to identify and correct errors, handle missing values, standardize data formats, and remove duplicates. By mastering these skills, students will ensure their data is accurate and ready for analysis, setting the stage for meaningful insights.
 
 - [ ] Watch video and mark when complete
 
