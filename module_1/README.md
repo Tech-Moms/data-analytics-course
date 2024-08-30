@@ -20,14 +20,31 @@ _click on the image above to access slides for this module_
   - Brief introduction to the course and its goals.
   - Acknowledge the unique position of moms returning to work or changing careers and the value of upskilling in data analytics.
   - Setting yourself up for success - Tech Moms Co-founders 
-  - GitHub Orientation 
+  
 
 - [ ] **Icebreaker Activity:**
   - Participants introduce themselves and share why they are interested in learning about data analytics.
 
 ---
 
-## 2. What is Data Analytics? (30 minutes)
+## 2. GitHub Orientation (30 mins)
+
+- [ ] Loren Ipsom
+- [ ] Loren Ipson
+
+----
+
+## 3. Slack Overview (15 mins)
+
+- [ ]
+
+-----
+
+## Lunch Break 🌮 (30 minutes)
+
+---
+
+## 4. What is Data Analytics? (15 minutes)
 
 - [ ] **Definition of Data Analytics:**
   - Explanation of data analytics as the process of examining data sets to draw conclusions about the information they contain.
@@ -41,11 +58,7 @@ _click on the image above to access slides for this module_
 
 ---
 
-## Lunch Break 🌮 (45 minutes)
-
----
-
-## 3. Roles in the Data Field (45 minutes)
+## 5. Roles in the Data Field (15 minutes)
 
 - [ ] **Overview of Key Roles:**
   - **Data Analyst:** Focuses on interpreting data, analyzing results, and generating reports to help businesses make informed decisions.
@@ -59,19 +72,7 @@ _click on the image above to access slides for this module_
 
 ---
 
-## 4. The Ubiquity of Data (20 minutes)
-
-- [ ] **Data is Everywhere:**
-  - Discuss how data is used by everyone, from individuals to large corporations.
-  - Examples of data-driven decisions in daily life: grocery shopping based on budget data, choosing a family vacation spot based on past experiences, etc.
-
-- [ ] **Asking the Right Questions:**
-  - Introduce the concept of asking the right questions to analyze data effectively.
-  - Example: Analyzing family spending to identify areas where money can be saved.
-
----
-
-## 5. Introduction to Data Visualizations (45 minutes)
+## 6. Introduction to Data Visualizations (30 minutes)
 
 - [ ] **Overview of Common Visualizations:**
   - **Pie Chart:** Best for showing proportions or percentages of a whole.
