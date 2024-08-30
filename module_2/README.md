@@ -1,13 +1,12 @@
 # Module 2: Excel and Google Sheets 
 
-### Do Before Class:  
+### Do Before Wed. Sept. 4 Class:  
 
 _Edit the markdown file with an x in the checkbox when complete, then commit changes._
 
 - [ ] Watch this 1-minute [video](https://app.screencastify.com/v3/watch/XJp2UYdVvVnFIFr2CjeA) about the next step
 - [ ] Make a copy of the [Pre-Course Checklist Google Doc](https://docs.google.com/document/u/1/d/1DvkYSFrZkkCpClqdR6HO3zsEFOUPDAoqZliurV4QkzA/copy?usp=sharing) and complete
-- [ ] Reflect and contribute to this [discussion](https://github.com/michellehawkins/data-analytics-course/discussions/1#discussion-7106244) about guest speakers
-- [ ] Overview, Outcomes, and Video Lessons below
+- [ ] Overview, Outcomes, and Video Lessons below (≈4 hours)
 
 ## Overview:
 
@@ -92,15 +91,21 @@ In the final section, students will learn how to bring together all the skills t
 
 - [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=HXkI655b-v2RuNvo&t=15881) and mark when complete
 
-## Assignment #1 - complete by Saturday, September 7th
+---
+
+### Do Before Sat. Sept. 7 Class:  
+
+_Edit the markdown file with an x in the checkbox when complete, then commit changes._
+
+- [ ] Complete [Assignment 1](https://docs.google.com/document/d/1mCWKiYH2ECsEWKuqoyuWFXsW-023crRAwwxGYzpZg4E/edit?usp=sharing) and mark when complete (≈6 hours)
+
+## Assignment #1
 
 In this hands-on project, you will help Tech Moms analyze their applicant and student data in order to complete their annual non-profit report. 
 
 _Estimated Time to Complete: 6 hours_
 
 <img width="1552" alt="Screenshot 2024-07-28 at 2 16 17 AM" src="https://github.com/user-attachments/assets/7f6d2d76-29a5-4cff-aec6-cd9ea680d4c3">
-
-- [ ] Complete [Assignment 1](https://docs.google.com/document/d/1mCWKiYH2ECsEWKuqoyuWFXsW-023crRAwwxGYzpZg4E/edit?usp=sharing) and mark when complete 
 
 
 
