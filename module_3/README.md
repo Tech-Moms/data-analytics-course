@@ -64,9 +64,12 @@ The `ORDER BY` clause sorts the query results based on specified columns, either
 
 ## Hands-on Practice 
 
-Aggregate and Summarize Data
+_Est. Time to Complete: 1 hour_
 
-- [ ] Complete [this](https://www.codecademy.com/enrolled/courses/learn-sql-aggregate-functions) Codecademy course and mark when done
+<img width="500" alt="Screenshot 2024-08-29 at 9 54 48 PM" src="https://github.com/user-attachments/assets/fb429202-68af-4c09-b2c2-dabee5dff8a9">
+
+- [ ] Create a free [Codecademy](https://www.codecademy.com/) account
+- [ ] Complete this [Learn SQL: Aggregate Functions](https://www.codecademy.com/learn/learn-sql-aggregate-functions) course and mark when done
 
 ## Assignment #2:  
 
