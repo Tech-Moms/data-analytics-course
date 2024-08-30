@@ -93,7 +93,7 @@ In the final section, students will learn how to bring together all the skills t
 
 ----
 
-## Wednesday, September 4th: In Class Agenda: 
+## Wednesday, September 4th - In Class Agenda: 
 
 1) Review Video Lessons
 2) Demo & Tutorial for Assignment #1
