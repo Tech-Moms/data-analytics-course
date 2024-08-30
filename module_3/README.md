@@ -64,7 +64,7 @@ The `ORDER BY` clause sorts the query results based on specified columns, either
 
 ## Hands-on Practice 
 
-_Est. Time to Complete: 2 hour_
+_Est. Time to Complete: 2 hours_
 
 <img width="500" alt="Screenshot 2024-08-29 at 9 54 48 PM" src="https://github.com/user-attachments/assets/fb429202-68af-4c09-b2c2-dabee5dff8a9">
 
