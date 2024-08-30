@@ -9,23 +9,38 @@ By the end of the module, students will apply their SQL skills to query the stud
 
 ## Learning Outcomes: 
 
-1. Understand SQL Basics: Demonstrate a foundational understanding of SQL and its role in data analysis, including how to set up and navigate a SQL environment.
-
-2. Retrieve Data Using SQL: Write basic SELECT statements to extract data from a single table, identifying specific columns and rows as needed.
-
-3. Filter and Sort Data: Apply the WHERE clause to filter query results based on specific conditions and use ORDER BY to sort data in ascending or descending order.
-
-4. Aggregate and Summarize Data: Utilize aggregation functions such as COUNT, SUM, AVG, MIN, and MAX to perform calculations on data sets, and group data using GROUP BY to generate summary reports.
-
-5. Conduct Data Analysis: Independently query the student application data used in Module 2, applying SQL techniques learned in the module to analyze the data.
-
-6. Communicate Findings: Compile a long-form report summarizing the findings from their SQL queries, demonstrating their ability to interpret data and present insights in a clear, concise manner.
+1. Understand SQL Basics
+2. Retrieve Data Using SQL
+3. Filter and Sort Data
+4. Aggregate and Summarize Data
+5. Conduct Data Analysis
+6. Communicate Findings
 
 ## Video Lessons: 
 
-Understanding SQL Basics
+What is SQL? 
+
+- [ ] Watch [this](https://www.youtube.com/watch?v=27axs9dO7AE) video and mark when complete
+
+Retrieve Data Using SQL 
+
+- [ ] Watch [this](https://youtu.be/PSNXoAs2FtQ?si=jGa997jsmCZBWjog&t=1484) video and mark when complete
+
+Filter Data
+
+- [ ] Watch [this](https://youtu.be/PSNXoAs2FtQ?si=3A8UCUkLOgGKQ3R_&t=1857) video and mark when complete
+
+Aggregate and Sort Data
+
+- [ ] Watch [this](https://youtu.be/PSNXoAs2FtQ?si=vu1ueCAeZ9jVLMhT&t=2334) video and mark when complete 
+
+## Hands-on Practice 
+
+Aggregate and Summarize Data
+
+- [ ] Complete [this](https://www.codecademy.com/enrolled/courses/learn-sql-aggregate-functions) Codecademy course and mark when done
 
 ## Assignment #2:  
 
-Using Hex & SQL to query Tech Moms applicant data 
+Using Hex & SQL to query Tech Moms applicant data & write a one page written report with sharing visualizations, insights, and recommendations.
 
