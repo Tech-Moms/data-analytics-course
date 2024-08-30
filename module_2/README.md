@@ -91,6 +91,16 @@ In the final section, students will learn how to bring together all the skills t
 
 - [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=HXkI655b-v2RuNvo&t=15881) and mark when complete
 
+----
+
+## In Class Agenda: 
+
+1) Review Video Lessons
+2) Demo & Tutorial for Assignment #1
+3) Q&A 
+
+----
+
 ## Assignment #1 - complete by Saturday, September 7th
 
 In this hands-on project, you will help Tech Moms analyze their applicant and student data in order to complete their annual non-profit report. 
