@@ -71,6 +71,6 @@ If you encounter any difficulties or have questions, don’t hesitate to reach o
 1. **Join Slack Channel**: Join the #2024-fall-data Tech Moms slack channel 
 2. **Review the syllabus**: Familiarize yourself with the course schedule, topics, and important dates.
 
-We are excited to have you on this journey to becoming a future data analyst. Let's do this! 💪
+We are excited to have you on your data analyst journey. Let's do this! 💪 ⚡️
 
 
