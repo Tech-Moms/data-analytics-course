@@ -35,7 +35,7 @@ _click on the image above to access slides for this module_
   - Discuss class cadence - Video Lessons to be viewed prior to Wednesday class & Assignments due on Saturday
      
 - [ ] **GitHub Assessment**
-  - Complete [this]([url](https://docs.google.com/forms/d/e/1FAIpQLSe8zGsKVqqL8pulsJSrxoh0jO_WQThD9iVjX7EruDcE2gz76Q/viewform)) GitHub Assessment to verify retention of new vocabulary words & concepts
+  - Complete [this](https://docs.google.com/forms/d/e/1FAIpQLSe8zGsKVqqL8pulsJSrxoh0jO_WQThD9iVjX7EruDcE2gz76Q/viewform) GitHub Assessment to verify retention of new vocabulary & concepts
  
 ----
 
