@@ -29,7 +29,7 @@ _click on the image above to access slides for this module_
 
 ## 2. GitHub Orientation (30 mins)
 
-- [ ] **How We Will Use GitHub in our Course**
+- [x] **How We Will Use GitHub in our Course**
   - Fork (make a copy of) the Tech Moms Data Analytics Course Repository 
   - Discuss how to navigate the modules & edit READMEs to mark off tasks as complete
   - Discuss class cadence - Video Lessons to be viewed prior to Wednesday class & Assignments due on Saturday
