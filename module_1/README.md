@@ -58,13 +58,13 @@ _click on the image above to access slides for this module_
 
 - [ ] **Definition of Data Analytics:**
   - Explanation of data analytics as the process of examining data sets to draw conclusions about the information they contain.
-  - Discuss the role of data analytics in decision-making, problem-solving, and driving business success.
+  - Discuss the role of data analytics in decision-making, problem-solving, and driving business success. Example: using Geo data to find a centeral location for class.
 
 - [ ] **Importance of Data Literacy:**
   - Data literacy is a vital life skill, useful in various aspects of life, such as creating a personal budget, making informed decisions, and understanding trends.
 
 - [ ] **Real-Life Examples:**
-  - Use examples such as budgeting, tracking expenses, and analyzing household data to show how data analytics can be applied in everyday life.
+  - Use examples such as budgeting, tracking expenses, and analyzing household data to show how data analytics can be applied in everyday life. Example: Using survey data to inform curriculm for this class. 
 
 ---
 
