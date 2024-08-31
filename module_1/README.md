@@ -84,7 +84,8 @@ _click on the image above to access slides for this module_
   - Discuss the scenarios where each type of chart is most effective.
 
 - [ ] **Hands-On Activity:**
-  - Participants create simple visualizations using sample data (e.g., family budget data) in Excel or Google Sheets.
+  - Make a copy of [this spreadsheet](https://docs.google.com/spreadsheets/d/1TfRr0XaNKnrO5xEKXmVRKT-P0o3PRdFi73peTJSsNKQ/edit?usp=sharing) Google Sheets or download to use in Excel
+  - Participants create simple visualizations using sample family budget data in Excel or Google Sheets.
 
 ---
 
