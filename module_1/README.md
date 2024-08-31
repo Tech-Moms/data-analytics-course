@@ -1,4 +1,4 @@
-# Introduction to Data Analytics 
+# Data Analytics Foundations
 
 **Objective:**  
 To provide an overview of data analytics, introduce different roles within the data field, and equip participants with fundamental skills in data analysis and visualization. By the end of the session, participants will understand the importance of data literacy as a life skill and be able to perform basic data analysis.
@@ -42,10 +42,11 @@ _click on the image above to access slides for this module_
 ## 3. Slack Overview (15 mins)
 
 - [ ] **Slack Best Practices**
+    - Review of Tech-Moms [Slack Guidelines](https://docs.google.com/document/d/1g7nEFyEZe8AvSan-bbYAuvJorYvHSdoX55urAGQO_iI/edit?usp=sharing)
     - Link vs Hyperlink vs Remove Link Preview
     - Practice Activity
-    - Using Slack Mark up
-    - ENTER!
+    - Using Slack Markdown
+    - Using Enter
     - Why is this important?  
 
 -----
