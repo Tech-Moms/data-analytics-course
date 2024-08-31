@@ -84,8 +84,14 @@ _click on the image above to access slides for this module_
   - Discuss the scenarios where each type of chart is most effective.
 
 - [ ] **Hands-On Activity:**
-  - Make a copy of [this spreadsheet](https://docs.google.com/spreadsheets/d/1TfRr0XaNKnrO5xEKXmVRKT-P0o3PRdFi73peTJSsNKQ/edit?usp=sharing) Google Sheets or download to use in Excel
+  - Make a copy of [this spreadsheet](https://docs.google.com/spreadsheets/d/1Wx1jsHZEqfdixNXH972T1NU4olafySPUwhrIbJ6sEAY/edit?usp=sharing) Google Sheets or download to use in Excel
   - Participants create simple visualizations using sample family budget data in Excel or Google Sheets.
+     - Insert Pivot Table (new sheet), drag category to Rows, drag amount to Values. 
+        - This will show you the category by amount. 
+     - Insert Pivot Table (new sheet), drag data to Column, drag amount to Values. Right click on date, scroll to create Pivot data group -> Month.
+        - This will show you the total sum of amount by month. 
+     - Highlight data, insert Chart - try out different ones.
+  - [Example completed spreadsheet](https://docs.google.com/spreadsheets/d/1lIW05vgnTm16NF8w24sCgM_x3EKvqwdKwhORIPXnmOM/edit?gid=762388016#gid=762388016)
 
 ---
 
