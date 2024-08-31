@@ -29,14 +29,24 @@ _click on the image above to access slides for this module_
 
 ## 2. GitHub Orientation (30 mins)
 
-- [ ] Loren Ipsom
-- [ ] Loren Ipson
-
+- [ ] **How We Will Use GitHub in our Course**
+  - Fork (make a copy of) the Tech Moms Data Analytics Course Repository 
+  - Discuss how to navigate the modules & edit READMEs to mark off tasks as complete
+  - Discuss class cadence - Video Lessons to be viewed prior to Wednesday class & Assignments due on Saturday
+     
+- [ ] **GitHub Assessment**
+  - Complete [this]([url](https://docs.google.com/forms/d/e/1FAIpQLSe8zGsKVqqL8pulsJSrxoh0jO_WQThD9iVjX7EruDcE2gz76Q/viewform)) GitHub Assessment to verify retention of new vocabulary words & concepts
+ 
 ----
 
 ## 3. Slack Overview (15 mins)
 
-- [ ]
+- [ ] **Slack Best Practices**
+    - Link vs Hyperlink vs Remove Link Preview
+    - Practice Activity
+    - Using Slack Mark up
+    - ENTER!
+    - Why is this important?  
 
 -----
 
