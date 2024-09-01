@@ -41,7 +41,7 @@ _click on the image above to access slides for this module_
 
 ## 3. Slack Overview (15 mins)
 
-- [ ] **Slack Best Practices**
+- [x] **Slack Best Practices**
     - Review of Tech-Moms [Slack Guidelines](https://docs.google.com/document/d/1g7nEFyEZe8AvSan-bbYAuvJorYvHSdoX55urAGQO_iI/edit?usp=sharing)
     - Link vs Hyperlink vs Remove Link Preview
     - Practice Activity
