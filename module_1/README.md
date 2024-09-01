@@ -78,7 +78,7 @@ _click on the image above to access slides for this module_
   - **Analytics Engineer:** Bridges the gap between data engineering and data analysis by building scalable data pipelines and transforming data into a usable format.
   - **People Analyst:** Focuses on understanding and improving human resources practices by analyzing employee data, such as productivity, engagement, and retention.
 
-- [ ] **Activity:**
+- [x] **Activity:**
   - Group discussion on which roles resonate most with participants and why.
 
 ---
