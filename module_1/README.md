@@ -125,7 +125,7 @@ _click on the image above to access slides for this module_
 
 ## 7. Q&A and Closing (15 minutes)
 
-- [ ] **Open Floor for Questions:**
+- [x] **Open Floor for Questions:**
   - Address any questions or concerns from participants.
   
 - [ ] **Closing Remarks:**
