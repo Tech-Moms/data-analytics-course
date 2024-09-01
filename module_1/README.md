@@ -22,7 +22,7 @@ _click on the image above to access slides for this module_
   - Setting yourself up for success - Tech Moms Co-founders 
   
 
-- [ ] **Icebreaker Activity:**
+- [x] **Icebreaker Activity:**
   - Participants introduce themselves and share why they are interested in learning about data analytics.
 
 ---
