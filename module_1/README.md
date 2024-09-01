@@ -91,7 +91,7 @@ _click on the image above to access slides for this module_
   - **[Line Chart](https://www.storytellingwithdata.com/blog/2020/3/24/what-is-a-line-graph):** Useful for showing trends over time.
   - **[Scatter Plot](https://www.storytellingwithdata.com/blog/2020/5/27/what-is-a-scatterplot):** Best for examining relationships between two variables.
 
-- [ ] **When to Use Each Visualization:**
+- [x] **When to Use Each Visualization:**
   - Discuss the scenarios where each type of chart is most effective.
 
 - [ ] **Hands-On Activity:**
