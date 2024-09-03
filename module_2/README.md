@@ -4,9 +4,9 @@
 
 _Edit the markdown file with an x in the checkbox when complete, then commit changes._
 
-- [ ] Watch this 1-minute [video](https://app.screencastify.com/v3/watch/XJp2UYdVvVnFIFr2CjeA) about the next step
-- [ ] Make a copy of the [Pre-Course Checklist Google Doc](https://docs.google.com/document/u/1/d/1DvkYSFrZkkCpClqdR6HO3zsEFOUPDAoqZliurV4QkzA/copy?usp=sharing) and complete
-- [ ] Overview, Outcomes, and Video Lessons below
+- [x] Watch this 1-minute [video](https://app.screencastify.com/v3/watch/XJp2UYdVvVnFIFr2CjeA) about the next step
+- [x] Make a copy of the [Pre-Course Checklist Google Doc](https://docs.google.com/document/u/1/d/1DvkYSFrZkkCpClqdR6HO3zsEFOUPDAoqZliurV4QkzA/copy?usp=sharing) and complete
+- [x] Overview, Outcomes, and Video Lessons below
 
 ## Overview:
 
@@ -51,7 +51,34 @@ _Est. Time to Complete: (20 mins)_
 
 In this section, you will learn the importance of data cleaning as a foundational step in the data analysis process. We will cover techniques to identify and correct errors, handle missing values, standardize data formats, and remove duplicates. By mastering these skills, students will ensure their data is accurate and ready for analysis, setting the stage for meaningful insights.
 
-- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=VzYJ0MCf5Uj7P-2G&t=22498) and mark when complete
+- [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=VzYJ0MCf5Uj7P-2G&t=22498) and mark when complete
+
+#### NOTES
+0:41 [Alex Freeberg](https://www.linkedin.com/in/alex-freeberg), mentions that we can make our free website portfolio
+1:00 [Analyst builder](https://www.analystbuilder.com/)
+2:50 Learn SQL, learn Tableau or PowerBI
+3:55 Learn excel
+4:20 Learn Python
+5:19 Learn a Cloud Platform
+6:30 Youtube channel, Udemy, Coursera, Datacamp, Dataquest (reading and doing) 
+7:15 Build a project - a visualization in Tableau
+7:50 Build a portfolio website
+8:35 Build a data analyst resume
+[US Presidents Dataset](https://www.kaggle.com/datasets/harshitagpt/us-presidents)
+6:15:03 Clean data in Excel
+6:17:00 US_Presidents data to clean
+6:18:00 What to clean? Names in Caps, Party and extra characters or spaces, spelling, dates, duplicated data, currency
+6:19:02 Remove duplicates in sheets - Data Tools select all columns
+6:20:03 President column - Change Name to president_fixed column by applying =UPPER(), =PROPER(), LOWER() functions
+6:22:05 prior column seems to be useless
+6:23:14 Party column - fix spelling 'republicans', extra characters for 'whig'
+6:25:00 Vice column - create a new olumn and use =TRIM() to column, it gets rid of extra spaces in the middle, at the beginning and at the end
+6:27:23 Salary column - fix the currency, we don't need the symbol for current. Change it to be a NUMBER
+6:29:00 Date update and created columns - use SHORT DATE
+6:31:00 Save columns as VALUES
+6:31:20 Delete columns unnecessary
+6:33:00 Updated data
+
 ---
 <img width="500" alt="Screenshot 2024-08-28 at 3 34 17 PM" src="https://github.com/user-attachments/assets/ecd71d2a-d435-44d8-be97-c8baad80300a">
 
