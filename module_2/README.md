@@ -54,29 +54,29 @@ In this section, you will learn the importance of data cleaning as a foundationa
 - [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=VzYJ0MCf5Uj7P-2G&t=22498) and mark when complete
 
 #### NOTES
-0:41 [Alex Freeberg](https://www.linkedin.com/in/alex-freeberg), mentions that we can make our free website portfolio
-1:00 [Analyst builder](https://www.analystbuilder.com/)
-2:50 Learn SQL, learn Tableau or PowerBI
-3:55 Learn excel
-4:20 Learn Python
-5:19 Learn a Cloud Platform
-6:30 Youtube channel, Udemy, Coursera, Datacamp, Dataquest (reading and doing) 
-7:15 Build a project - a visualization in Tableau
-7:50 Build a portfolio website
-8:35 Build a data analyst resume
-[US Presidents Dataset](https://www.kaggle.com/datasets/harshitagpt/us-presidents)
-6:15:03 Clean data in Excel
-6:17:00 US_Presidents data to clean
-6:18:00 What to clean? Names in Caps, Party and extra characters or spaces, spelling, dates, duplicated data, currency
-6:19:02 Remove duplicates in sheets - Data Tools select all columns
-6:20:03 President column - Change Name to president_fixed column by applying =UPPER(), =PROPER(), LOWER() functions
-6:22:05 prior column seems to be useless
-6:23:14 Party column - fix spelling 'republicans', extra characters for 'whig'
-6:25:00 Vice column - create a new olumn and use =TRIM() to column, it gets rid of extra spaces in the middle, at the beginning and at the end
-6:27:23 Salary column - fix the currency, we don't need the symbol for current. Change it to be a NUMBER
-6:29:00 Date update and created columns - use SHORT DATE
-6:31:00 Save columns as VALUES
-6:31:20 Delete columns unnecessary
+0:41 [Alex Freeberg](https://www.linkedin.com/in/alex-freeberg), mentions that we can make our free website portfolio <br>
+1:00 [Analyst builder](https://www.analystbuilder.com/) <br>
+2:50 Learn SQL, learn Tableau or PowerBI <br>
+3:55 Learn excel <br>
+4:20 Learn Python <br>
+5:19 Learn a Cloud Platform <br>
+6:30 Youtube channel, Udemy, Coursera, Datacamp, Dataquest (reading and doing) <br>
+7:15 Build a project - a visualization in Tableau <br>
+7:50 Build a portfolio website <br>
+8:35 Build a data analyst resume <br>
+[US Presidents Dataset](https://www.kaggle.com/datasets/harshitagpt/us-presidents) <br>
+6:15:03 Clean data in Excel <br>
+6:17:00 US_Presidents data to clean <br>
+6:18:00 What to clean? Names in Caps, Party and extra characters or spaces, spelling, dates, duplicated data, currency <br>
+6:19:02 Remove duplicates in sheets - Data Tools select all columns <br>
+6:20:03 President column - Change Name to president_fixed column by applying =UPPER(), =PROPER(), LOWER() functions <br>
+6:22:05 prior column seems to be useless <br>
+6:23:14 Party column - fix spelling 'republicans', extra characters for 'whig' <br>
+6:25:00 Vice column - create a new olumn and use =TRIM() to column, it gets rid of extra spaces in the middle, at the beginning and at the end <br>
+6:27:23 Salary column - fix the currency, we don't need the symbol for current. Change it to be a NUMBER <br>
+6:29:00 Date update and created columns - use SHORT DATE <br>
+6:31:00 Save columns as VALUES <br>
+6:31:20 Delete columns unnecessary <br>
 6:33:00 Updated data
 
 ---
