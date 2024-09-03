@@ -106,7 +106,7 @@ _click on the image above to access slides for this module_
 
 ---
 
-## 6. Basic Statistics: Mean, Median, and Mode (30 minutes)
+## 7. Basic Statistics: Mean, Median, and Mode (30 minutes)
 
 - [ ] [Bill Gates Walks Into a Bar](https://introductorystats.wordpress.com/2011/09/04/when-bill-gates-walks-into-a-bar/)
 
