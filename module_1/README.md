@@ -34,14 +34,14 @@ _click on the image above to access slides for this module_
   - Discuss how to navigate the modules & edit READMEs to mark off tasks as complete
   - Discuss class cadence - Video Lessons to be viewed prior to Wednesday class & Assignments due on Saturday
      
-- [ ] **GitHub Assessment**
+- [x] **GitHub Assessment**
   - Complete [this](https://docs.google.com/forms/d/e/1FAIpQLSe8zGsKVqqL8pulsJSrxoh0jO_WQThD9iVjX7EruDcE2gz76Q/viewform) GitHub Assessment to verify retention of new vocabulary & concepts
  
 ----
 
 ## 3. Slack Overview (15 mins)
 
-- [ ] **Slack Best Practices**
+- [x] **Slack Best Practices**
     - Review of Tech-Moms [Slack Guidelines](https://docs.google.com/document/d/1g7nEFyEZe8AvSan-bbYAuvJorYvHSdoX55urAGQO_iI/edit?usp=sharing)
     - Link vs Hyperlink vs Remove Link Preview
     - Practice Activity
@@ -57,14 +57,14 @@ _click on the image above to access slides for this module_
 
 ## 4. What is Data Analytics? (15 minutes)
 
-- [ ] **Definition of Data Analytics:**
+- [x] **Definition of Data Analytics:**
   - Explanation of data analytics as the process of examining data sets to draw conclusions about the information they contain.
   - Discuss the role of data analytics in decision-making, problem-solving, and driving business success. Example: using Geo data to find a centeral location for class.
 
-- [ ] **Importance of Data Literacy:**
+- [x] **Importance of Data Literacy:**
   - Data literacy is a vital life skill, useful in various aspects of life, such as creating a personal budget, making informed decisions, and understanding trends.
 
-- [ ] **Real-Life Examples:**
+- [x] **Real-Life Examples:**
   - Use examples such as budgeting, tracking expenses, and analyzing household data to show how data analytics can be applied in everyday life. Example: Using survey data to inform curriculm for this class. 
 
 ---
@@ -85,7 +85,7 @@ _click on the image above to access slides for this module_
 
 ## 6. Introduction to Data Visualizations (30 minutes)
 
-- [ ] **Overview of Common Visualizations:**
+- [x] **Overview of Common Visualizations:**
   - **[Pie Chart](https://www.storytellingwithdata.com/blog/2020/5/14/what-is-a-pie-chart):** Best for showing proportions or percentages of a whole.
   - **[Bar Chart](https://www.storytellingwithdata.com/blog/2020/2/19/what-is-a-bar-chart):** Ideal for comparing different groups or categories.
   - **[Line Chart](https://www.storytellingwithdata.com/blog/2020/3/24/what-is-a-line-graph):** Useful for showing trends over time.
@@ -94,7 +94,7 @@ _click on the image above to access slides for this module_
 - [ ] **When to Use Each Visualization:**
   - Discuss the scenarios where each type of chart is most effective.
 
-- [ ] **Hands-On Activity:**
+- [x] **Hands-On Activity:**
   - Make a copy of [this spreadsheet](https://docs.google.com/spreadsheets/d/1Wx1jsHZEqfdixNXH972T1NU4olafySPUwhrIbJ6sEAY/edit?usp=sharing) Google Sheets or download to use in Excel
   - Participants create simple visualizations using sample family budget data in Excel or Google Sheets.
      - Insert Pivot Table (new sheet), drag category to Rows, drag amount to Values. 
