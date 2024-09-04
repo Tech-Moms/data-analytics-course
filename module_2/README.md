@@ -88,6 +88,16 @@ This section introduces essential functions and formulas in Excel and Google She
 
 - [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=0orU_bNAOQuc64fi&t=17175) and mark when complete
 
+#### NOTES
+4:46:00 Formulas in Excel <br>
+4:49:01 MAX(number1, [number2]...), MIN(number1, [number2],...) <br>
+4:50:58 IF(logial_test, [value_if_true], [value_if_false]), IFS(logical_test1, value_if_true1,[logical_test2, value_if_true2],... ) <br>
+4:55:55 LEN(text) ::: Can be use to see difference between 100s and thousands. Can find bad SSNs. <br>
+4:57:00 LEFT(text,[number_of_chars]), RIGHT(text,[number_of_chars]) <br>
+4:59:50 DateToText  -> TEXT(value,format_text) or TEXT(H2,"dd/mm/yyyy") ::: Date format in Excel when converted to General jsut gives numbers, that is why it is needed TEXT() formula <br>
+5:03:20 TRIM(C2) ::: It just removes unwanted spaces on both sides <br>
+5:04:45 CONCATENATE(B2," ",C2) : Joins strings
+
 ---
 
 <img width="500" alt="Screenshot 2024-08-28 at 3 35 02 PM" src="https://github.com/user-attachments/assets/c6895615-c093-4779-bde7-4d52bd74226a">
