@@ -29,7 +29,7 @@ _click on the image above to access slides for this module_
 
 ## 2. GitHub Orientation (30 mins)
 
-- [ ] **How We Will Use GitHub in our Course**
+- [x] **How We Will Use GitHub in our Course**
   - Fork (make a copy of) the Tech Moms Data Analytics Course Repository 
   - Discuss how to navigate the modules & edit READMEs to mark off tasks as complete
   - Discuss class cadence - Video Lessons to be viewed prior to Wednesday class & Assignments due on Saturday
@@ -85,16 +85,16 @@ _click on the image above to access slides for this module_
 
 ## 6. Introduction to Data Visualizations (30 minutes)
 
-- [ ] **Overview of Common Visualizations:**
+- [x] **Overview of Common Visualizations:**
   - **[Pie Chart](https://www.storytellingwithdata.com/blog/2020/5/14/what-is-a-pie-chart):** Best for showing proportions or percentages of a whole.
   - **[Bar Chart](https://www.storytellingwithdata.com/blog/2020/2/19/what-is-a-bar-chart):** Ideal for comparing different groups or categories.
   - **[Line Chart](https://www.storytellingwithdata.com/blog/2020/3/24/what-is-a-line-graph):** Useful for showing trends over time.
   - **[Scatter Plot](https://www.storytellingwithdata.com/blog/2020/5/27/what-is-a-scatterplot):** Best for examining relationships between two variables.
 
-- [ ] **When to Use Each Visualization:**
+- [x] **When to Use Each Visualization:**
   - Discuss the scenarios where each type of chart is most effective.
 
-- [ ] **Hands-On Activity:**
+- [x] **Hands-On Activity:**
   - Make a copy of [this spreadsheet](https://docs.google.com/spreadsheets/d/1Wx1jsHZEqfdixNXH972T1NU4olafySPUwhrIbJ6sEAY/edit?usp=sharing) Google Sheets or download to use in Excel
   - Participants create simple visualizations using sample family budget data in Excel or Google Sheets.
      - Insert Pivot Table (new sheet), drag category to Rows, drag amount to Values. 
@@ -125,7 +125,7 @@ _click on the image above to access slides for this module_
 
 ## 7. Q&A and Closing (15 minutes)
 
-- [ ] **Open Floor for Questions:**
+- [x] **Open Floor for Questions:**
   - Address any questions or concerns from participants.
   
-- [ ] **Closing Remarks:**
+- [x] **Closing Remarks:**
