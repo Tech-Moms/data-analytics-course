@@ -17,7 +17,7 @@ Your deliverable will be a “Student Demographic” Dashboard built in the spre
 ### Step One: Get to Know Your Data
 
 - [X] Review the Tech Moms 2023 Annual Report - paying special attention to the Student Demographic sections
-- [ ] Download the “Tech_Moms_Applicant_Data_ANON_8.29.24.csv”
+- [X] Download the “Tech_Moms_Applicant_Data_ANON_8.29.24.csv”
 - [ ] Open the .csv file in the spreadsheet tool of your choice - Excel or Google Sheets
 - [ ] Start by evaluating the columns to understand what data you’re working with
 - [ ] Create a new tab, “Data Dictionary” and copy the columns -> go to new tab -> paste “transposed”. This will paste the columns vertically.
