@@ -97,6 +97,10 @@ This section introduces essential functions and formulas in Excel and Google She
 4:59:50 DateToText  -> TEXT(value,format_text) or TEXT(H2,"dd/mm/yyyy") - Date format in Excel when converted to General jsut gives numbers, that is why it is needed TEXT() formula <br>
 5:03:20 TRIM(text) or TRIM(C2) - It just removes unwanted spaces on both sides <br>
 5:04:45 CONCATENATE(text1,[text2],[text3], ...) or CONCATENATE(B2," ",C2) - Joins strings
+5:07:05 SUBSTITUTE(text, old_text, new_text,[instance_num]) - replaces text <br>
+5:10:57 SUM(), SUMIF(range, criteria,[]), SUMIFS(sum_range,criteria_range1,criteria1,[criteria_range2,criteria2],...) <br>
+5:14:20 COUNT(value1,[vaue2],..), COUNTIF(range,criteria), COUNTIFS(criteria_range1,criteria1, ...) <br>
+5:16:55 Days-NetworkDays -> DAYS(end_date,start_date), NETWORKDAYS(start_date,end_date,[holidays])
 
 ---
 
