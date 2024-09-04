@@ -51,10 +51,10 @@ _Est. Time to Complete: (40 mins)_
 
 In this section, you will learn the importance of data cleaning as a foundational step in the data analysis process. We will cover techniques to identify and correct errors, handle missing values, standardize data formats, and remove duplicates. By mastering these skills, students will ensure their data is accurate and ready for analysis, setting the stage for meaningful insights.
 
-- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=VzYJ0MCf5Uj7P-2G&t=22498) and mark when complete
-- [ ] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Data%20Cleaning%20Excel%20Tutorial.xlsx)
-- [ ] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1EkdWcu_bYk6DgJ53HQcPxBlTPsKxtwgxM9EpK6Rp8lI/edit?usp=sharing)
-- [ ] Complete the hands-on activity
+- [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=VzYJ0MCf5Uj7P-2G&t=22498) and mark when complete
+- [x] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Data%20Cleaning%20Excel%20Tutorial.xlsx)
+- [x] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1EkdWcu_bYk6DgJ53HQcPxBlTPsKxtwgxM9EpK6Rp8lI/edit?usp=sharing)
+- [x] Complete the hands-on activity
 ---
 <img width="500" alt="Screenshot 2024-08-28 at 3 34 17 PM" src="https://github.com/user-attachments/assets/ecd71d2a-d435-44d8-be97-c8baad80300a">
 
