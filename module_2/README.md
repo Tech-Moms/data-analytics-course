@@ -86,7 +86,7 @@ _Est. Time to Complete: (30 mins)_
 
 This section introduces essential functions and formulas in Excel and Google Sheets that are crucial for data manipulation and analysis. Students will learn how to use functions such as SUM, AVERAGE, COUNT, AND IF statements. By the end of this section, students will be comfortable using these tools to perform calculations and automate repetitive tasks.
 
-- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=0orU_bNAOQuc64fi&t=17175) and mark when complete
+- [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=0orU_bNAOQuc64fi&t=17175) and mark when complete
 
 #### NOTES
 4:46:00 Formulas in Excel <br>
