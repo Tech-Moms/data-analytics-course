@@ -77,7 +77,7 @@ Pivot tables are powerful tools for summarizing, analyzing, and exploring data. 
 
 - [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=DsyZu_e9TrHPrr7o&t=16121) and mark when complete
 - [x] Download dataset from [Kaggle](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe?resource=download) and open in Excel or Google Sheets
-- [ ] Complete the hands-on activity
+- [x] Complete the hands-on activity
 
 ---
 
