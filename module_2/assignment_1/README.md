@@ -20,7 +20,7 @@ Overview Videos: [Part 1](https://www.loom.com/share/5ef6c4a4cb3f4452a24c47a6890
 
 - [x] Review the Tech Moms 2023 Annual Report - paying special attention to the Student Demographic sections
 - [x] Download the “Tech_Moms_Applicant_Data_ANON_8.29.24.csv”
-- [ ] Open the .csv file in the spreadsheet tool of your choice - Excel or Google Sheets
+- [x] Open the .csv file in the spreadsheet tool of your choice - Excel or Google Sheets
 - [ ] Start by evaluating the columns to understand what data you’re working with
 - [ ] Create a new tab, “Data Dictionary” and copy the columns -> go to new tab -> paste “transposed”. This will paste the columns vertically.
 - [ ] Add a row at the top of the Data Dictionary tab. In A1, type “Column Column Name” & in B1, type “Column Description”. Write a short description of each column based on your best-educated guess (you can also use ChatGPT to help with this).
