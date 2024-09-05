@@ -26,7 +26,7 @@ Your deliverable will be a “Student Demographic” Dashboard built in the spre
 
 ### Step Two: Clean the Data
 
-- [ ] You know that you only want data as of July 31th, 2024, so you will make a copy of the “raw” data by duplicating the tab & rename it to “Analysis”. Rename the original tab to “raw”.
+- [X] You know that you only want data as of July 31th, 2024, so you will make a copy of the “raw” data by duplicating the tab & rename it to “Analysis”. Rename the original tab to “raw”.
 - [ ] In the “Analysis” tab, review the data in the “Create Date” column. Sort it from oldest to newest. Scroll to the bottom of the spreadsheet and delete any rows with the creation date after July 31st, 2024.
 - [ ] Check for duplicates and erase any duplicate data.
 
