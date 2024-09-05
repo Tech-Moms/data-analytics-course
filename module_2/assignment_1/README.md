@@ -18,7 +18,7 @@ Overview Videos: [Part 1](https://www.loom.com/share/5ef6c4a4cb3f4452a24c47a6890
 
 ### Step One: Get to Know Your Data
 
-- [ ] Review the Tech Moms 2023 Annual Report - paying special attention to the Student Demographic sections
+- [x] Review the Tech Moms 2023 Annual Report - paying special attention to the Student Demographic sections
 - [ ] Download the “Tech_Moms_Applicant_Data_ANON_8.29.24.csv”
 - [ ] Open the .csv file in the spreadsheet tool of your choice - Excel or Google Sheets
 - [ ] Start by evaluating the columns to understand what data you’re working with
