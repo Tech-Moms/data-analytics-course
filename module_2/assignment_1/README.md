@@ -55,7 +55,7 @@ Create a new tab titled “Functions”. Paste the questions above and answer th
 **Additional Questions:**
 - Question 1:What percentage of applicants do not work outside the home?
 - Question 2:How many applicants work full time jobs!
-- Question 3:What is the percentage of applicants that are single!
+- Question 3:What is the percentage of applicants in cohorts that are single!
 - Question 4:Percentage of applicants that are assigned  cohorts, whose household income is <$15K 
 - Question 5:percentage of applicants in cohorts that are divorced
 
