@@ -40,24 +40,25 @@ Video: [Clean the Data](https://www.loom.com/share/cab3f42f344a4b00a13d52e8bd892
 
 The leadership team has asked you to answer the following questions:
 
-- [ ] How many total applicants are there?
-- [ ] How many applicants were assigned a cohort?
-- [ ] What is the number of total children of all applicants?
-- [ ] What percentage of applicants are veterans?
-- [ ] What percentage of applicants identify as LGBTQ+?
-- [ ] What percentage of applicants do not have laptops?
-- [ ] What is the most number of children of any applicant?
-- [ ] What is the average number of children among all applicants?
-- [ ] What is the average number of children of applicants that were assigned a cohort?
+- [x] How many total applicants are there?
+- [x] How many applicants were assigned a cohort?
+- [x] What is the number of total children of all applicants?
+- [x] What percentage of applicants are veterans?
+- [x] What percentage of applicants identify as LGBTQ+?
+- [x] What percentage of applicants do not have laptops?
+- [x] What is the most number of children of any applicant?
+- [x] What is the average number of children among all applicants?
+- [x] What is the average number of children of applicants that were assigned a cohort?
 
 Create a new tab titled “Functions”. Paste the questions above and answer them using the applicable spreadsheet functions - `COUNT`, `COUNTIF`, `SUM`, `SUMIF`, `MAX`, `MAXIF`, `AVERAGE`, `AVERAGEIF`.
 
 **Additional Questions:**
-- Question 1:
-- Question 2:
-- Question 3:
-- Question 4:
-- Question 5:
+- Question 1:What percentage of applicants do not work outside the home?
+- Question 2:How many applicants work full time jobs!
+- Question 3:What is the percentage of applicants that are single!
+- Question 4:Percentage of applicants that are assigned  cohorts, whose household income is <$15K 
+- Question 5:percentage of applicants in cohorts that are divorced
+
 
 Videos: Fun with Functions - [Part 1](https://www.loom.com/share/0f9ae677ba4c49d7b5c70f498903cba7) | [Part 2](https://www.loom.com/share/9f9080b37c3e470cb32c5b54531f8211) | [Part 3](https://www.loom.com/share/93934778b2c84fc2a373d3ae26e9a1fa)
 
