@@ -110,7 +110,7 @@ _Est. Time to Complete: (15 mins)_
 
 Pivot tables are powerful tools for summarizing, analyzing, and exploring data. In this section, students will learn how to create pivot tables to quickly extract key insights from large datasets. We will cover how to group, filter, and sort data, as well as how to customize the layout to answer specific business questions.
 
-- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=HXkI655b-v2RuNvo&t=15881) and mark when complete
+- [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=HXkI655b-v2RuNvo&t=15881) and mark when complete
 
 ---
 
@@ -120,7 +120,7 @@ _Est. Time to Complete: (15 mins)_
 
 Visualizing data is a critical skill in data analytics. This section will guide students through the process of creating various types of charts, such as bar, line, and pie charts, to represent data clearly and effectively. Students will learn best practices for selecting the right chart type and formatting it to communicate their findings visually.
 
-- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=HXkI655b-v2RuNvo&t=21589) and mark when complete
+- [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=HXkI655b-v2RuNvo&t=21589) and mark when complete
 
 ---
 
@@ -130,7 +130,7 @@ _Est. Time to Complete: (45 mins)_
 
 In the final section, students will learn how to bring together all the skills they've acquired to create an interactive and aesthetic spreadsheet dashboard. This dashboard will serve as a dynamic tool for presenting data insights, including charts, pivot tables, and key metrics. Students will focus on layout, design principles, and interactivity to ensure their dashboards are both functional and visually appealing.
 
-- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=HXkI655b-v2RuNvo&t=15881) and mark when complete
+- [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=HXkI655b-v2RuNvo&t=15881) and mark when complete
 
 ----
 
