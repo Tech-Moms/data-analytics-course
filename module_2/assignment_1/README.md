@@ -31,8 +31,8 @@ Video: [Get to Know Your Data](https://www.loom.com/share/c726c715650a4371bce3ee
 ### Step Two: Clean the Data
 
 - [x] You know that you only want data as of July 31th, 2024, so you will make a copy of the “raw” data by duplicating the tab & rename it to “Analysis”. Rename the original tab to “raw”.
-- [ ] In the “Analysis” tab, review the data in the “Create Date” column. Sort it from oldest to newest. Scroll to the bottom of the spreadsheet and delete any rows with the creation date after July 31st, 2024.
-- [ ] Check for duplicates and erase any duplicate data.
+- [x] In the “Analysis” tab, review the data in the “Create Date” column. Sort it from oldest to newest. Scroll to the bottom of the spreadsheet and delete any rows with the creation date after July 31st, 2024.
+- [x] Check for duplicates and erase any duplicate data.
 
 Video: [Clean the Data](https://www.loom.com/share/cab3f42f344a4b00a13d52e8bd892f87)
 
