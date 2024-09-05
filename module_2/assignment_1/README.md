@@ -20,9 +20,9 @@ Your deliverable will be a “Student Demographic” Dashboard built in the spre
 - [X] Download the “Tech_Moms_Applicant_Data_ANON_8.29.24.csv”
 - [X] Open the .csv file in the spreadsheet tool of your choice - Excel or Google Sheets
 - [X] Start by evaluating the columns to understand what data you’re working with
-- [ ] Create a new tab, “Data Dictionary” and copy the columns -> go to new tab -> paste “transposed”. This will paste the columns vertically.
-- [ ] Add a row at the top of the Data Dictionary tab. In A1, type “Column Column Name” & in B1, type “Column Description”. Write a short description of each column based on your best-educated guess (you can also use ChatGPT to help with this).
-- [ ] Add a tab “Questions” as you come across questions about the data. You can add them here. These are questions you can ask the data owners (aka leadership team) to help clarify any questions you may have about the data set.
+- [X] Create a new tab, “Data Dictionary” and copy the columns -> go to new tab -> paste “transposed”. This will paste the columns vertically.
+- [X] Add a row at the top of the Data Dictionary tab. In A1, type “Column Column Name” & in B1, type “Column Description”. Write a short description of each column based on your best-educated guess (you can also use ChatGPT to help with this).
+- [X] Add a tab “Questions” as you come across questions about the data. You can add them here. These are questions you can ask the data owners (aka leadership team) to help clarify any questions you may have about the data set.
 
 ### Step Two: Clean the Data
 
