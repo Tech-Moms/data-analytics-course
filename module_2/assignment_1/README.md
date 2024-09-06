@@ -12,6 +12,8 @@ The Leadership team is preparing to release their 2024 Tech Moms Annual Report. 
 
 Your deliverable will be a “Student Demographic” Dashboard built in the spreadsheet software of your choice - Excel or Google Sheets.
 
+Overview Videos: [Part 1](https://www.loom.com/share/5ef6c4a4cb3f4452a24c47a689043584) | [Part 2](https://www.loom.com/share/6c97d4b802a449b0848aad9e32f48da7)
+
 ## Complete the Following Steps:
 
 ### Step One: Get to Know Your Data
