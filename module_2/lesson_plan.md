@@ -34,8 +34,7 @@
 - **Functions & Formulas:** Overview of key formulas such as SUM, AVERAGE, and IF.  
 - **Pivot Tables:** How to summarize data and extract insights.  
 - **Charts:** Effective data visualization techniques.  
-**Method:**  
-- Brief live walkthrough with slides summarizing the key takeaways.  
+**Method:**    
 - Quick Q&A to address any lingering questions from the videos.
 
 ---
