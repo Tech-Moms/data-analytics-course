@@ -68,9 +68,9 @@ If you encounter any difficulties or have questions, don’t hesitate to reach o
 ## Getting Started
 
 1. **Fork this Repo**: Click on the fork button at the top of this repository to make a copy of this repo to your personal github profile. 
-1. **Join Slack Channel**: Join the #2024-fall-data Tech Moms slack channel 
-2. **Review the syllabus**: Familiarize yourself with the course schedule, topics, and important dates.
+2. **Join Slack Channel**: Join the #2024-fall-data Tech Moms slack channel 
+3. **Review the syllabus**: Familiarize yourself with the course schedule, topics, and important dates.
 
-We are excited to have you on this journey to becoming a future data analyst. Let's do this! 💪
+We are excited to have you on your data analyst journey. Let's do this! 💪 ⚡️
 
 
