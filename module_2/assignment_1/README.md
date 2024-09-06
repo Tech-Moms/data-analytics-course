@@ -26,11 +26,15 @@ Overview Videos: [Part 1](https://www.loom.com/share/5ef6c4a4cb3f4452a24c47a6890
 - [ ] Add a row at the top of the Data Dictionary tab. In A1, type “Column Column Name” & in B1, type “Column Description”. Write a short description of each column based on your best-educated guess (you can also use ChatGPT to help with this).
 - [ ] Add a tab “Questions” as you come across questions about the data. You can add them here. These are questions you can ask the data owners (aka leadership team) to help clarify any questions you may have about the data set.
 
+Video: [Get to Know Your Data](https://www.loom.com/share/c726c715650a4371bce3ee3c1cec6a4e) 
+
 ### Step Two: Clean the Data
 
 - [ ] You know that you only want data as of July 31th, 2024, so you will make a copy of the “raw” data by duplicating the tab & rename it to “Analysis”. Rename the original tab to “raw”.
 - [ ] In the “Analysis” tab, review the data in the “Create Date” column. Sort it from oldest to newest. Scroll to the bottom of the spreadsheet and delete any rows with the creation date after July 31st, 2024.
 - [ ] Check for duplicates and erase any duplicate data.
+
+Video: [Clean the Data](https://www.loom.com/share/cab3f42f344a4b00a13d52e8bd892f87)
 
 ### Step Three: Start Analyzing (aka Asking Questions of the Data)
 
@@ -54,6 +58,11 @@ Create a new tab titled “Functions”. Paste the questions above and answer th
 - Question 3:
 - Question 4:
 - Question 5:
+
+Videos: Fun with Functions - 
+[Part 1](https://www.loom.com/share/0f9ae677ba4c49d7b5c70f498903cba7) | 
+[Part 2](https://www.loom.com/share/9f9080b37c3e470cb32c5b54531f8211) | 
+[Part 3](https://www.loom.com/share/93934778b2c84fc2a373d3ae26e9a1fa)
 
 ### Step Four: Fun with Pivot Tables
 
