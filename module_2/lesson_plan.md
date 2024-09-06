@@ -11,7 +11,7 @@
 **Objective:** Build connections among participants.  
 **Activity:**  
 - Breakout rooms with 4 participants per room for introductions and discussion.
-- Prompt ➡️ How did the class pre-work go for you?
+- Prompt ➡️ What do you love to do? What do you fan girl about?
 - Person with the longest hair goes first
 
 ---
