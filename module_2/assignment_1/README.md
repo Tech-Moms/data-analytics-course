@@ -18,13 +18,13 @@ Overview Videos: [Part 1](https://www.loom.com/share/5ef6c4a4cb3f4452a24c47a6890
 
 ### Step One: Get to Know Your Data
 
-- [ ] Review the Tech Moms 2023 Annual Report - paying special attention to the Student Demographic sections
-- [ ] Download the “Tech_Moms_Applicant_Data_ANON_8.29.24.csv”
-- [ ] Open the .csv file in the spreadsheet tool of your choice - Excel or Google Sheets
-- [ ] Start by evaluating the columns to understand what data you’re working with
-- [ ] Create a new tab, “Data Dictionary” and copy the columns -> go to new tab -> paste “transposed”. This will paste the columns vertically.
-- [ ] Add a row at the top of the Data Dictionary tab. In A1, type “Column Column Name” & in B1, type “Column Description”. Write a short description of each column based on your best-educated guess (you can also use ChatGPT to help with this).
-- [ ] Add a tab “Questions” as you come across questions about the data. You can add them here. These are questions you can ask the data owners (aka leadership team) to help clarify any questions you may have about the data set.
+- [x] Review the Tech Moms 2023 Annual Report - paying special attention to the Student Demographic sections
+- [x] Download the “Tech_Moms_Applicant_Data_ANON_8.29.24.csv”
+- [x] Open the .csv file in the spreadsheet tool of your choice - Excel or Google Sheets
+- [x] Start by evaluating the columns to understand what data you’re working with
+- [x] Create a new tab, “Data Dictionary” and copy the columns -> go to new tab -> paste “transposed”. This will paste the columns vertically.
+- [x] Add a row at the top of the Data Dictionary tab. In A1, type “Column Column Name” & in B1, type “Column Description”. Write a short description of each column based on your best-educated guess (you can also use ChatGPT to help with this).
+- [x] Add a tab “Questions” as you come across questions about the data. You can add them here. These are questions you can ask the data owners (aka leadership team) to help clarify any questions you may have about the data set.
 
 Video: [Get to Know Your Data](https://www.loom.com/share/c726c715650a4371bce3ee3c1cec6a4e) 
 
