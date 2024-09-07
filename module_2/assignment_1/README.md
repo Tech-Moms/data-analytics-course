@@ -92,6 +92,6 @@ Functions work great for specific calculations while pivot tables are best for s
 
 ### Last Step: Ship it!
 
-- [ ] Write an email to the leadership team (data@techmoms.org) sharing the updated numbers with a screenshot of the dashboard, along with a URL link and additional questions along with summary insights.
-- [ ] Do a little happy dance - you’re crushing it!
+- [X] Write an email to the leadership team (data@techmoms.org) sharing the updated numbers with a screenshot of the dashboard, along with a URL link and additional questions along with summary insights.
+- [X] Do a little happy dance - you’re crushing it!
 
