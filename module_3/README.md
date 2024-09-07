@@ -68,8 +68,8 @@ _Est. Time to Complete: 2 hours_
 
 <img width="500" alt="Screenshot 2024-08-29 at 9 54 48 PM" src="https://github.com/user-attachments/assets/fb429202-68af-4c09-b2c2-dabee5dff8a9">
 
-- [ ] Create a free [Codecademy](https://www.codecademy.com/) account
-- [ ] Complete this [Learn SQL: Aggregate Functions](https://www.codecademy.com/learn/learn-sql-aggregate-functions) course and mark when done
+- [x] Create a free [Codecademy](https://www.codecademy.com/) account
+- [x] Complete this [Learn SQL: Aggregate Functions](https://www.codecademy.com/learn/learn-sql-aggregate-functions) course and mark when done
 - [ ] Complete this [Learn AI for SQL](https://www.codecademy.com/learn/learn-ai-for-sql) course and mark when done
 
 ## Assignment #2:  
