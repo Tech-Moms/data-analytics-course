@@ -53,8 +53,8 @@ In this section, you will learn the importance of data cleaning as a foundationa
 
 - [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=VzYJ0MCf5Uj7P-2G&t=22498) and mark when complete
 - [ ] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Data%20Cleaning%20Excel%20Tutorial.xlsx)
-- [ ] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1EkdWcu_bYk6DgJ53HQcPxBlTPsKxtwgxM9EpK6Rp8lI/edit?usp=sharing)
-- [ ] Complete the hands-on activity
+- [x] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1EkdWcu_bYk6DgJ53HQcPxBlTPsKxtwgxM9EpK6Rp8lI/edit?usp=sharing)
+- [x] Complete the hands-on activity
 
 #### NOTES
 0:41 [Alex Freeberg](https://www.linkedin.com/in/alex-freeberg), mentions that we can make our free website portfolio <br>
