@@ -49,8 +49,8 @@ Use Hex's built-in SQL editor to explore the dataset and answer the following qu
   ```
      
 4. **Etc** 
-  - Leverage your previous Excel/Google Sheets analysis to ask additional questions - but this time in SQL!
-  - Answer at least 10 additional questions using SQL 
+     - Leverage your previous Excel/Google Sheets analysis to ask additional questions - but this time in SQL!
+     - Answer at least 10 additional questions using SQL 
 
 ## Submission
 - After completing the analysis, create a [report](https://github.com/Tech-Moms/data-analytics-course/blob/main/module_3/report.md) in google doc summarizing your findings.
