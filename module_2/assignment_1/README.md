@@ -65,7 +65,7 @@ Videos: Fun with Functions - [Part 1](https://www.loom.com/share/0f9ae677ba4c49d
 
 Functions work great for specific calculations while pivot tables are best for summarizing larger data sets.
 
-- [ ] Create a new tab “Pivot Tables”
+- [X] Create a new tab “Pivot Tables”
 - [ ] Start asking additional questions of the data by creating pivot tables.
 
 **For example:**
