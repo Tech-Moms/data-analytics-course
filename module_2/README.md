@@ -6,7 +6,7 @@ _Edit the markdown file with an x in the checkbox when complete, then commit cha
 
 - [X] Watch this 1-minute [video](https://app.screencastify.com/v3/watch/XJp2UYdVvVnFIFr2CjeA) about the next step
 - [x] Make a copy of the [Pre-Course Checklist Google Doc](https://docs.google.com/document/u/1/d/1DvkYSFrZkkCpClqdR6HO3zsEFOUPDAoqZliurV4QkzA/copy?usp=sharing) and complete
-- [ ] Overview, Outcomes, and Video Lessons below
+- [X] Overview, Outcomes, and Video Lessons below
 
 ## Overview:
 
@@ -75,9 +75,9 @@ _Est. Time to Complete: (30 mins)_
 
 Pivot tables are powerful tools for summarizing, analyzing, and exploring data. In this section, students will learn how to create pivot tables to quickly extract key insights from large datasets. We will cover how to group, filter, and sort data, as well as how to customize the layout to answer specific business questions.
 
-- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=DsyZu_e9TrHPrr7o&t=16121) and mark when complete
-- [ ] Download dataset from [Kaggle](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe?resource=download) and open in Excel or Google Sheets
-- [ ] Complete the hands-on activity
+- [X] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=DsyZu_e9TrHPrr7o&t=16121) and mark when complete
+- [X] Download dataset from [Kaggle](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe?resource=download) and open in Excel or Google Sheets
+- [X] Complete the hands-on activity
 
 ---
 
@@ -100,10 +100,10 @@ _Est. Time to Complete: (1.5 hrs)_
 
 In the final section, students will learn how to bring together all the skills they've acquired to create an interactive and aesthetic spreadsheet dashboard. This dashboard will serve as a dynamic tool for presenting data insights, including charts, pivot tables, and key metrics. Students will focus on layout, design principles, and interactivity to ensure their dashboards are both functional and visually appealing.
 
-- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=Hu0HebxQCSzSWeR4&t=23762) and mark when complete
-- [ ] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
-- [ ] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1885w07YyzbRQqfIGHvJSftNU42rJVOUHpkWfNROLlbM/edit?usp=sharing)
-- [ ] Complete the hands-on activity
+- [X] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=Hu0HebxQCSzSWeR4&t=23762) and mark when complete
+- [X] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
+- [X] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1885w07YyzbRQqfIGHvJSftNU42rJVOUHpkWfNROLlbM/edit?usp=sharing)
+- [X] Complete the hands-on activity
 
 ----
 
