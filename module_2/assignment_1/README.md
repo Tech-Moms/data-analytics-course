@@ -66,7 +66,7 @@ Videos: Fun with Functions - [Part 1](https://www.loom.com/share/0f9ae677ba4c49d
 Functions work great for specific calculations while pivot tables are best for summarizing larger data sets.
 
 - [x] Create a new tab “Pivot Tables”
-- [ ] Start asking additional questions of the data by creating pivot tables.
+- [x] Start asking additional questions of the data by creating pivot tables.
 
 **For example:**
 - What is the employment status of applicants that were assigned a cohort?
@@ -75,7 +75,7 @@ Functions work great for specific calculations while pivot tables are best for s
 - What is the education of the applicants who have been assigned a cohort?
 - What is the race/ethnicity of applicants that were assigned a cohort?
 
-- [ ] Create Calculated Fields to quickly see the percentage of the total for the pivot table data.
+- [x] Create Calculated Fields to quickly see the percentage of the total for the pivot table data.
 
 ### Step Five: Create Charts & Build a Dashboard
 
