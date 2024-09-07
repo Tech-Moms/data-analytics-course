@@ -79,9 +79,9 @@ Functions work great for specific calculations while pivot tables are best for s
 
 ### Step Five: Create Charts & Build a Dashboard
 
-- [ ] For each pivot table, create a chart next to it that visually represents the data. It is up to you to decide what chart will convey the data the best.
-- [ ] Review the Annual Report again and make a list of what was reported last year that you will need to report on this year.
-- [ ] Add another tab “Dashboard” and copy & paste the charts you have made in the Dashboard tab.
+- [X] For each pivot table, create a chart next to it that visually represents the data. It is up to you to decide what chart will convey the data the best.
+- [X] Review the Annual Report again and make a list of what was reported last year that you will need to report on this year.
+- [X] Add another tab “Dashboard” and copy & paste the charts you have made in the Dashboard tab.
 
 ### Step Six: Make it Aesthetic
 
