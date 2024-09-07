@@ -41,7 +41,7 @@ Video: [Clean the Data](https://www.loom.com/share/cab3f42f344a4b00a13d52e8bd892
 The leadership team has asked you to answer the following questions:
 
 - [X] How many total applicants are there?
-- [X ] How many applicants were assigned a cohort?
+- [X] How many applicants were assigned a cohort?
 - [X] What is the number of total children of all applicants?
 - [X] What percentage of applicants are veterans?
 - [X] What percentage of applicants identify as LGBTQ+?
