@@ -48,7 +48,7 @@ _Est. Time to Complete: 8 mins_
 
 The `WHERE` clause in SQL is used to filter records in a query based on specified conditions. It allows you to retrieve only the rows that meet certain criteria, making your data more precise and relevant. For example, `SELECT * FROM employees WHERE department = 'Sales';` retrieves only the rows where the department is "Sales." The `WHERE` clause can use operators like `=`, `>`, `<`, `LIKE`, and `IN` to define the conditions, making it a powerful tool for refining queries and focusing on specific data subsets.
 
-- [ ] Watch [this](https://youtu.be/PSNXoAs2FtQ?si=3A8UCUkLOgGKQ3R_&t=1857) video and mark when complete
+- [x ] Watch [this](https://youtu.be/PSNXoAs2FtQ?si=3A8UCUkLOgGKQ3R_&t=1857) video and mark when complete
 
 ---
 
@@ -60,7 +60,7 @@ In SQL, the `GROUP BY` and `ORDER BY` clauses are used to organize and sort data
 
 The `ORDER BY` clause sorts the query results based on specified columns, either in ascending (`ASC`) or descending (`DESC`) order. For example, `ORDER BY salary DESC` will sort the results by salary from highest to lowest. These clauses help in organizing data for clearer insights and analysis.
 
-- [ ] Watch [this](https://youtu.be/PSNXoAs2FtQ?si=vu1ueCAeZ9jVLMhT&t=2334) video and mark when complete
+- [x] Watch [this](https://youtu.be/PSNXoAs2FtQ?si=vu1ueCAeZ9jVLMhT&t=2334) video and mark when complete
 
 ## Hands-on Practice 
 
@@ -75,4 +75,3 @@ _Est. Time to Complete: 2 hours_
 ## Assignment #2:  
 
 Using Hex & SQL to query Tech Moms applicant data & write a one page written report with sharing visualizations, insights, and recommendations.
-
