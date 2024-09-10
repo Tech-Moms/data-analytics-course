@@ -34,7 +34,7 @@ _click on the image above to access slides for this module_
   - Discuss how to navigate the modules & edit READMEs to mark off tasks as complete
   - Discuss class cadence - Video Lessons to be viewed prior to Wednesday class & Assignments due on Saturday
      
-- [ ] **GitHub Assessment**
+- [x] **GitHub Assessment**
   - Complete [this](https://docs.google.com/forms/d/e/1FAIpQLSe8zGsKVqqL8pulsJSrxoh0jO_WQThD9iVjX7EruDcE2gz76Q/viewform) GitHub Assessment to verify retention of new vocabulary & concepts
  
 ----
