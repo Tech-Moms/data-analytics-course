@@ -2,7 +2,7 @@
 
 # Tech-Moms Student SQL Analysis & Report 
 
-In this assignment, you will use Hex, a data analysis tool, to explore the Tech Moms applicant dataset using SQL. You will upload the applicant dataset into Hex and answer key questions to gain insights from the data.
+In this assignment, you will use Deep Note, a data analysis tool, to explore the Tech Moms applicant dataset using SQL. You will upload the applicant dataset into Hex and answer key questions to gain insights from the data.
 
 ## Step 1: Create a Deep Note Account
 1. Go to [Deep Note](https://deepnote.com/) and create a free account if you haven't already.
@@ -17,7 +17,7 @@ In this assignment, you will use Hex, a data analysis tool, to explore the Tech 
 Use Deep Note's built-in SQL editor to explore the dataset and answer the following questions:
 
 1. **How many applications has Tech Moms received?**
-   - Write a query or script in Hex to count the total number of applications.
+   - Write a query to count the total number of applications.
    - Example SQL:
     ```
     SELECT
