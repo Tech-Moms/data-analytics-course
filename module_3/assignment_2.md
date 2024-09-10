@@ -4,7 +4,7 @@
 
 In this assignment, you will use Hex, a data analysis tool, to explore the Tech Moms applicant dataset using SQL. You will upload the applicant dataset into Hex and answer key questions to gain insights from the data.
 
-## Step 1: Create a Hex Account
+## Step 1: Create a Deep Note Account
 1. Go to [Deep Note](https://deepnote.com/) and create a free account if you haven't already.
 2. Once your account is set up, log in to access the Deep Note workspace.
 
