@@ -2,11 +2,13 @@
 
 # Tech-Moms Student SQL Analysis & Report 
 
-In this assignment, you will use Deep Note, a data analysis tool, to explore the Tech Moms applicant dataset using SQL. You will upload the applicant dataset into Hex and answer key questions to gain insights from the data.
+In this assignment, you will use Deep Note, a data analysis tool, to explore the Tech Moms applicant dataset using SQL. You will upload the applicant dataset into Deep Note and answer key questions to gain insights from the data.
 
 ## Step 1: Create a Deep Note Account
-- [ ]  Go to [Deep Note](https://deepnote.com/) and create a free account if you haven't already.
 
+Deepnote.com is a collaborative data science notebook platform designed for data analytics and data science work. It allows users to write and run code in SQL (as well as Python and R) directly within the browser, making it accessible and easy to use without requiring software installation.
+
+- [ ]  Go to [Deep Note](https://deepnote.com/) and create a free account if you haven't already.
 
 ## Step 2: Upload the Dataset
 - [ ] Download the `.csv` file of the Tech Moms applicant dataset provided to you.
