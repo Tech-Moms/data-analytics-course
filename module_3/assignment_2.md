@@ -10,7 +10,7 @@ In this assignment, you will use Hex, a data analysis tool, to explore the Tech 
 
 ## Step 2: Upload the Dataset
 1. Download the `.csv` file of the Tech Moms applicant dataset provided to you.
-2. In Hex, create a new project.
+2. In Deep Note, create a new project.
 3. Upload the `.csv` file into your project by clicking on the data tab, then “Add Data” and select “Upload Data” to choose your file.
 
 ## Step 3: Analyze the Data
