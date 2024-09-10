@@ -41,7 +41,7 @@ _click on the image above to access slides for this module_
 
 ## 3. Slack Overview (15 mins)
 
-- [ ] **Slack Best Practices**
+- [x] **Slack Best Practices**
     - Review of Tech-Moms [Slack Guidelines](https://docs.google.com/document/d/1g7nEFyEZe8AvSan-bbYAuvJorYvHSdoX55urAGQO_iI/edit?usp=sharing)
     - Link vs Hyperlink vs Remove Link Preview
     - Practice Activity
@@ -108,9 +108,9 @@ _click on the image above to access slides for this module_
 
 ## 7. Basic Statistics: Mean, Median, and Mode (30 minutes)
 
-- [ ] [Bill Gates Walks Into a Bar](https://introductorystats.wordpress.com/2011/09/04/when-bill-gates-walks-into-a-bar/)
+- [x] [Bill Gates Walks Into a Bar](https://introductorystats.wordpress.com/2011/09/04/when-bill-gates-walks-into-a-bar/)
 
-- [ ] **Definitions and Examples:**
+- [x] **Definitions and Examples:**
   - **Mean:** The average of a set of numbers.  
     Example: Calculating the average weekly grocery spend.
   - **Median:** The middle value in a set of numbers.  
@@ -118,7 +118,7 @@ _click on the image above to access slides for this module_
   - **Mode:** The most frequently occurring value in a set of numbers.  
     Example: Identifying the most common grocery item purchased.
 
-- [ ] **Application Exercise:**
+- [x] **Application Exercise:**
   - Participants calculate the mean, median, and mode using a provided data set (e.g., household expenses).
 
 ---
