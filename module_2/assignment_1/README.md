@@ -23,16 +23,16 @@ Overview Videos: [Part 1](https://www.loom.com/share/5ef6c4a4cb3f4452a24c47a6890
 - [X] Open the .csv file in the spreadsheet tool of your choice - Excel or Google Sheets
 - [X] Start by evaluating the columns to understand what data you’re working with
 - [X] Create a new tab, “Data Dictionary” and copy the columns -> go to new tab -> paste “transposed”. This will paste the columns vertically.
-- [X] Add a row at the top of the Data Dictionary tab. In A1, type “Column Column Name” & in B1, type “Column Description”. Write a short description of each column based on your best-educated guess (you can also use ChatGPT to help with this).
+- [X] Add a row at the top of the Data Dictionary tab. In A1, type “Column Column Name” & in B1, type “Column Description”. Write a short description of each column based on your best- educated guess (you can also use ChatGPT to help with this).
 - [X] Add a tab “Questions” as you come across questions about the data. You can add them here. These are questions you can ask the data owners (aka leadership team) to help clarify any questions you may have about the data set.
 
 Video: [Get to Know Your Data](https://www.loom.com/share/c726c715650a4371bce3ee3c1cec6a4e) 
 
 ### Step Two: Clean the Data
 
-- [X] You know that you only want data as of July 31th, 2024, so you will make a copy of the “raw” data by duplicating the tab & rename it to “Analysis”. Rename the original tab to “raw”.
+- [X] You know that you only want data as of July 31th, 2024, so you will make a copy of the “raw” data by duplicating the tab & re-name it to “Analysis”. Rename the original tab to “raw”.
 - [X] In the “Analysis” tab, review the data in the “Create Date” column. Sort it from oldest to newest. Scroll to the bottom of the spreadsheet and delete any rows with the creation date after July 31st, 2024.
-- [ ] Check for duplicates and erase any duplicate data.
+- [X] Check for duplicates and erase any duplicate data.
 
 Video: [Clean the Data](https://www.loom.com/share/cab3f42f344a4b00a13d52e8bd892f87)
 
@@ -48,7 +48,7 @@ The leadership team has asked you to answer the following questions:
 - [X] What percentage of applicants do not have laptops?
 - [X] What is the most number of children of any applicant?
 - [X] What is the average number of children among all applicants?
-- [ X What is the average number of children of applicants that were assigned a cohort?
+- [X] What is the average number of children of applicants that were assigned a cohort?
 
 Create a new tab titled “Functions”. Paste the questions above and answer them using the applicable spreadsheet functions - `COUNT`, `COUNTIF`, `SUM`, `SUMIF`, `MAX`, `MAXIF`, `AVERAGE`, `AVERAGEIF`.
 
@@ -65,7 +65,7 @@ Videos: Fun with Functions - [Part 1](https://www.loom.com/share/0f9ae677ba4c49d
 
 Functions work great for specific calculations while pivot tables are best for summarizing larger data sets.
 
-- [ ] Create a new tab “Pivot Tables”
+- [X] Create a new tab “Pivot Tables”
 - [ ] Start asking additional questions of the data by creating pivot tables.
 
 **For example:**
