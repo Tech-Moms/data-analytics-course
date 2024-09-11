@@ -23,7 +23,7 @@
 - Discuss the income distribution, highlighting that 43% of households have incomes below $50k, which may indicate financial challenges faced by participants.
 
 ### Education Level
-- Compare education levels, noting that the split is fairly even between those with a high school diploma/some college (52%) and those with a bachelor’s degree or higher.
+- Compare education levels, noting that the split is fairly even between those with a high school diploma/some college and those with a bachelor’s degree or higher.
 
 ### Number of Children
 - Describe the distribution of the number of children, noting that most participants have between 1 to 3 children, with fewer having larger families.
