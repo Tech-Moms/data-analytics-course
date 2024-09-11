@@ -47,3 +47,4 @@
   - Summarize key takeaways from the session.
   - Outline upcoming assignments or topics.
   - Encourage continued connections and engagement on the course platform or group chat.
+  - Celebrate 🎉
