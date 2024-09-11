@@ -70,7 +70,7 @@ _Est. Time to Complete: 2 hours_
 
 - [x] Create a free [Codecademy](https://www.codecademy.com/) account
 - [x] Complete this [Learn SQL: Aggregate Functions](https://www.codecademy.com/learn/learn-sql-aggregate-functions) course and mark when done
-- [ ] Complete this [Learn AI for SQL](https://www.codecademy.com/learn/learn-ai-for-sql) course and mark when done
+- [x] Complete this [Learn AI for SQL](https://www.codecademy.com/learn/learn-ai-for-sql) course and mark when done
 
 ## Assignment #2:  
 
