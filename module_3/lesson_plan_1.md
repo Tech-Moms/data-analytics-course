@@ -55,6 +55,10 @@
   - Step-by-step walkthrough of the assignment using Deep Note.
   - Highlight key steps and common pitfalls to watch out for.
   - Pause periodically to check for questions and ensure understanding.
+ 
+* _If time: Demo portfolio project on GitHub._
+* _If time: Demo opening a Pull Request to get edits to fork to show up on contribution chart._
+* _If time: Demo work around for getting contributions to show up going forward. (Push up from the command line or make an edit to resources repo.)_ 
 
 ### 8:50 - 9:00 PM: Wrap-Up
 - **Objective**: Summarize key takeaways and set the tone for the next steps.
