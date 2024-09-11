@@ -69,12 +69,13 @@ Weekly Module videos & hands-on practice are due Wednesdays 11:59 MST.
 
 To get credit:
 1. Edit your module README.md and commit changes.
-2. Share link to completed module in weekly homework roll call in Slack
 
 Weekly Assignments are due Saturdays 11:59pm MST.
 
 To get credit:
 1. Send email with your completed assignment to data@tech-moms.org
+
+Note: Completion of all assignments is required.
 
 _We understand that life happens, if you cannot make the assignment deadlines, email data@tech-moms.org with your status update and plan for completion._
 
