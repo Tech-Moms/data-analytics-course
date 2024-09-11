@@ -50,7 +50,7 @@ To provide you with real-world insights and a broader understanding of the data 
 
 To support your learning, we provide a variety of resources:
 
-- **Lecture Slides and Notes**: Available after each class.
+- **Lecture Videos**: Available after each class.
 - **Video Tutorials**: Recorded sessions and additional tutorials to help you with complex topics.
 - **Class Slack**: A place to ask questions, share insights, and collaborate with peers.
 - **GitHub Repository**: All course materials, assignments, and projects will be available on our GitHub repository.
