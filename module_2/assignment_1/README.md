@@ -76,13 +76,13 @@ Functions work great for specific calculations while pivot tables are best for s
 - What is the education of the applicants who have been assigned a cohort?
 - What is the race/ethnicity of applicants that were assigned a cohort?
 
-- [ ] Create Calculated Fields to quickly see the percentage of the total for the pivot table data.
+- [x] Create Calculated Fields to quickly see the percentage of the total for the pivot table data.
 
 ### Step Five: Create Charts & Build a Dashboard
 
-- [ ] For each pivot table, create a chart next to it that visually represents the data. It is up to you to decide what chart will convey the data the best.
-- [ ] Review the Annual Report again and make a list of what was reported last year that you will need to report on this year.
-- [ ] Add another tab “Dashboard” and copy & paste the charts you have made in the Dashboard tab.
+- [x] For each pivot table, create a chart next to it that visually represents the data. It is up to you to decide what chart will convey the data the best.
+- [x] Review the Annual Report again and make a list of what was reported last year that you will need to report on this year.
+- [x] Add another tab “Dashboard” and copy & paste the charts you have made in the Dashboard tab.
 
 ### Step Six: Make it Aesthetic
 
