@@ -50,7 +50,7 @@ To provide you with real-world insights and a broader understanding of the data 
 
 To support your learning, we provide a variety of resources:
 
-- **Lecture Slides and Notes**: Available after each class.
+- **Lecture Videos**: Available after each class.
 - **Video Tutorials**: Recorded sessions and additional tutorials to help you with complex topics.
 - **Class Slack**: A place to ask questions, share insights, and collaborate with peers.
 - **GitHub Repository**: All course materials, assignments, and projects will be available on our GitHub repository.
@@ -59,11 +59,36 @@ To support your learning, we provide a variety of resources:
 ## Note on Equipment
 To optimize your learning experience, it will be helpful to have a second monitor. This will allow you to follow along with instructions on one screen while practicing and applying concepts on the other, making the process more efficient and manageable.
 
-## Expectations and Support
+## Expectations, Homework Due Dates, and Support 📅
 
-We expect you to engage actively in both in-class and hands-on activities. Consistent practice and application of the concepts learned are crucial for your success in this course.
+We expect you to engage actively in both in-class and video lessons / hands-on activities. Consistent practice and application of the concepts learned are crucial for your success in this course.
 
-If you encounter any difficulties or have questions, don’t hesitate to reach out. We are here to support you every step of the way. Office hours, one-on-one sessions, and peer study groups are available to ensure you have the help you need.
+### Due Dates 
+
+Weekly Module videos & hands-on practice are due Wednesdays 11:59 MST.
+
+To get credit:
+1. Edit your module README.md and commit changes.
+
+Weekly Assignments are due Saturdays 11:59pm MST.
+
+To get credit:
+1. Send email with your completed assignment to data@tech-moms.org
+
+Note: Completion of all assignments is required.
+
+_We understand that life happens, if you cannot make the assignment deadlines, email data@tech-moms.org with your status update and plan for completion._
+
+We are here to support you every step of the way. Our DMs are open. In addition, office hours and peer study groups are available to ensure you have the help you need!
+
+### Office Hours
+
+**Time/Day:**
+- Thursday 10am - 12pm
+- Thursday 7:30pm - 9pm
+- Friday 6pm - 8pm
+
+**Location:** Class Zoom 
 
 ## Getting Started
 
