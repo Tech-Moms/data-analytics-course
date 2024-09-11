@@ -34,14 +34,14 @@ _click on the image above to access slides for this module_
   - Discuss how to navigate the modules & edit READMEs to mark off tasks as complete
   - Discuss class cadence - Video Lessons to be viewed prior to Wednesday class & Assignments due on Saturday
      
-- [ ] **GitHub Assessment**
+- [X] **GitHub Assessment**
   - Complete [this](https://docs.google.com/forms/d/e/1FAIpQLSe8zGsKVqqL8pulsJSrxoh0jO_WQThD9iVjX7EruDcE2gz76Q/viewform) GitHub Assessment to verify retention of new vocabulary & concepts
  
 ----
 
 ## 3. Slack Overview (15 mins)
 
-- [ ] **Slack Best Practices**
+- [X] **Slack Best Practices**
     - Review of Tech-Moms [Slack Guidelines](https://docs.google.com/document/d/1g7nEFyEZe8AvSan-bbYAuvJorYvHSdoX55urAGQO_iI/edit?usp=sharing)
     - Link vs Hyperlink vs Remove Link Preview
     - Practice Activity
@@ -125,7 +125,7 @@ _click on the image above to access slides for this module_
 
 ## 7. Q&A and Closing (15 minutes)
 
-- [ ] **Open Floor for Questions:**
+- [X] **Open Floor for Questions:**
   - Address any questions or concerns from participants.
   
-- [ ] **Closing Remarks:**
+- [X] **Closing Remarks:**
