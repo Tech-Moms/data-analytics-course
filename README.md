@@ -78,7 +78,7 @@ To get credit:
 
 _We understand that life happens, if you cannot make the assignment deadlines, email data@tech-moms.org with your status update and plan for completion._
 
-We are here to support you every step of the way. Our DMs are open. In additional office hours and peer study groups are available to ensure you have the help you need!
+We are here to support you every step of the way. Our DMs are open. In addition, office hours and peer study groups are available to ensure you have the help you need!
 
 ### Office Hours
 
