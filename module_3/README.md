@@ -28,7 +28,7 @@ _Est. Time to Complete: 5 mins_
 
 SQL, or Structured Query Language, is a standard programming language used to manage and manipulate relational databases. It allows users to create, read, update, and delete data within a database, making it essential for tasks like data analysis, reporting, and backend development. SQL is widely used in various fields to efficiently handle large datasets, perform queries, and retrieve meaningful insights from data. It's a powerful tool for anyone working with data, from beginners to advanced users.
 
-- [ ] Watch [this](https://www.youtube.com/watch?v=27axs9dO7AE) video and mark when complete
+- [x] Watch [this](https://www.youtube.com/watch?v=27axs9dO7AE) video and mark when complete
 
 ---
 
