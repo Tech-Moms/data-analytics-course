@@ -87,7 +87,7 @@ Functions work great for specific calculations while pivot tables are best for s
 
 - [X] Evaluate the current dashboard and make some decisions on what would make the dashboard more aesthetically pleasing.
 - [X] Create some new columns either in the “analysis” tab or in the “pivot tables” tab to consolidate data into the minimal number of categories in order to best visually represent it in the dashboard.
-- [ ] Upload the Tech-Moms logo to the dashboard.
+- [X] Upload the Tech-Moms logo to the dashboard.
 - [X] Update the Dashboard theme to use Tech-Moms’ brand colors.
 
 ### Last Step: Ship it!
