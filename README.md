@@ -74,9 +74,20 @@ To get credit:
 Weekly Assignments are due Saturdays 11:59pm MST.
 
 To get credit:
-1. Send email with your completed assignment to data@tech-moms.org 
+1. Send email with your completed assignment to data@tech-moms.org
 
-If you encounter any difficulties or have questions, don’t hesitate to reach out. We are here to support you every step of the way. Office hours, one-on-one sessions, and peer study groups are available to ensure you have the help you need.
+_We understand that life happens, if you cannot make the assignment deadlines, email data@tech-moms.org with your status update and plan for completion._
+
+We are here to support you every step of the way. Our DMs are open. In additional office hours and peer study groups are available to ensure you have the help you need!
+
+### Office Hours
+
+**Time/Day:**
+- Thursday 10am - 12pm
+- Thursday 7:30pm - 9pm
+- Friday 6pm - 8pm
+
+**Location:** Class Zoom 
 
 ## Getting Started
 
