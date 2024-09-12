@@ -22,6 +22,7 @@ In order to get to know your data, you'll want to see a preview of the table. Us
 <img width="1524" alt="Screenshot 2024-09-12 at 8 25 50 AM" src="https://github.com/user-attachments/assets/9b5c2ebb-2428-48e3-91d0-19dd871578ec">
 
 To start, write the following query: 
+
   ```
    SELECT
       *
@@ -50,41 +51,49 @@ In your preferred spreadsheet tool, complete the following tasks:
 
 Now you are ready to run some queries and analyze the data in SQL. 
 
+Note: to skip this step you can use the cleaned tech moms application data [here](https://github.com/Tech-Moms/data-analytics-course/blob/main/module_3/assignment_2/Cleaned_Tech_Moms_Application_Data_9.12.2024.csv). 
+
 ## Step 4: Analyze the Data (aka Ask Questions) 
 
 Use Deep Note's built-in SQL editor to explore the dataset and answer the following questions:
 
-1. **How many applications has Tech Moms received?**
-   - [ ]  Write a query to count the total number of applications.
+1. **How many applications has Tech Moms received?** 
+   - [ ]  Write a query to count the total number of applications. (as of the end of July)
    - Example SQL:
+     
     ```
-    SELECT
-     COUNT(distinct Contact_ID) 
-    FROM [your_table_name];
+    SELECT 
+      COUNT(distinct contact_id) -- to confirm there aren't duplicate use COUNT(distinct)
+    FROM 'Cleaned_Tech_Moms_Application_Data.csv'
+    WHERE create_date <= '2024-07-31' 
     ```
 
-2. **How many applications were assigned a cohort?**
-   - [ ] Determine how many applicants were successfully assigned to a cohort.
-   - Example SQL: 
+2. **How many applications were assigned a cohort?** 
+   - [ ] Determine how many applicants were successfully assigned to a cohort. (as of the end of July)
+   - Example SQL:
+   
    ```
-   SELECT 
-    Applicant_Status, 
-    COUNT(distinct contact_ID) 
-   FROM [your_table_name]
-   WHERE Applicant_Status = 'Assigned Cohort' 
-   GROUP BY Applicant_Status;
+     SELECT 
+      COUNT(distinct contact_id) as total_count --- to rename the column header in your SQL output use `as [new_column_header]`
+     FROM 'Cleaned_Tech_Moms_Application_Data.csv'
+     WHERE applicant_status = 'assigned cohort'
+     AND create_date <= '2024-07-31' 
    ```
 
-3. **How many children are supported through Tech Moms programs?**
-   - [ ] Find out the total number of children supported by the Tech Moms programs using the available data.
+3. **How many children are supported through Tech Moms programs?** 
+   - [ ] Find out the total number of children supported by the Tech Moms programs using the available data. (as of the end of July)
    - Example SQL:
+
    ```
    SELECT
-     SUM(Children)
-   FROM
-     [your_table_name]
-   WHERE Applicant_Status = 'Assigned Cohort';
+     SUM(children) as total_children
+   FROM 
+   'Cleaned_Tech_Moms_Application_Data.csv'
+   WHERE applicant_status = 'assigned cohort'
+   AND create_date <= '2024-07-31' 
    ```
+
+Note: Your numbers here should match your Excel/Google Sheets analysis. 
      
 4. **Etc** 
      - [ ] Answer at least 10 additional questions using SQL
