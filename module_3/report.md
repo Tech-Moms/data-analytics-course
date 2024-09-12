@@ -13,17 +13,17 @@
 ## Detailed Analysis
 
 ### Student Demographics
-- Discuss the total number of students (509) and the high number of children supported (1156).
-- Highlight the percentage of single mothers or heads of households (37%) and BIPOC representation (36%).
+- Discuss the total number of students and the high number of children supported.
+- Highlight the percentage of single mothers or heads of households and BIPOC representation.
 
 ### Employment Status
-- Describe the employment status distribution, emphasizing that the majority are either employed full-time (40.3%) or part-time (28.8%), with a notable portion not employed (30.9%).
+- Describe the employment status distribution, emphasizing that the majority are either employed full-time or part-time, with a notable portion not employed.
 
 ### Household Income
 - Discuss the income distribution, highlighting that 43% of households have incomes below $50k, which may indicate financial challenges faced by participants.
 
 ### Education Level
-- Compare education levels, noting that the split is fairly even between those with a high school diploma/some college (52%) and those with a bachelor’s degree or higher (48%).
+- Compare education levels, noting that the split is fairly even between those with a high school diploma/some college and those with a bachelor’s degree or higher.
 
 ### Number of Children
 - Describe the distribution of the number of children, noting that most participants have between 1 to 3 children, with fewer having larger families.
