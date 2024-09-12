@@ -8,10 +8,17 @@ In this assignment, you will use Deep Note, a data analysis tool, to explore the
 
 Deepnote.com is a collaborative data science notebook platform designed for data analytics and data science work. It allows users to write and run code in SQL (as well as Python and R) directly within the browser, making it accessible and easy to use without requiring software installation.
 
+<<<<<<< HEAD
 - [ ]  Go to [Deep Note](https://deepnote.com/) and create a free account if you haven't already.
 - [ ] Download the `.csv` file of the Tech Moms applicant dataset provided to you.
 - [ ] In Deep Note, create a new project.
 - [ ] Upload the `.csv` file into your project.
+=======
+- [x]  Go to [Deep Note](https://deepnote.com/) and create a free account if you haven't already.
+- [x] Download the `.csv` file of the Tech Moms applicant dataset provided to you.
+- [x] In Deep Note, create a new project.
+- [x] Upload the `.csv` file into your project.
+>>>>>>> 11f8aab (add cleaned data)
 
 Video: [Overview, Create a Deep Note Account, & Upload Data](https://www.loom.com/share/5fc400d191dd414088c900cadbc439e5?sid=80486bf3-c3b9-400d-897e-f8f82eabd741)
 
@@ -22,7 +29,10 @@ In order to get to know your data, you'll want to see a preview of the table. Us
 <img width="1524" alt="Screenshot 2024-09-12 at 8 25 50 AM" src="https://github.com/user-attachments/assets/9b5c2ebb-2428-48e3-91d0-19dd871578ec">
 
 To start, write the following query: 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 11f8aab (add cleaned data)
   ```
    SELECT
       *
@@ -51,12 +61,16 @@ In your preferred spreadsheet tool, complete the following tasks:
 
 Now you are ready to run some queries and analyze the data in SQL. 
 
+<<<<<<< HEAD
 Note: to skip this step you can use the cleaned tech moms application data [here](https://github.com/Tech-Moms/data-analytics-course/blob/main/module_3/assignment_2/Cleaned_Tech_Moms_Application_Data_9.12.2024.csv). 
 
+=======
+>>>>>>> 11f8aab (add cleaned data)
 ## Step 4: Analyze the Data (aka Ask Questions) 
 
 Use Deep Note's built-in SQL editor to explore the dataset and answer the following questions:
 
+<<<<<<< HEAD
 1. **How many applications has Tech Moms received?** 
    - [ ]  Write a query to count the total number of applications. (as of the end of July)
    - Example SQL:
@@ -94,12 +108,50 @@ Use Deep Note's built-in SQL editor to explore the dataset and answer the follow
    ```
 
 Note: Your numbers here should match your Excel/Google Sheets analysis. 
+=======
+1. **How many applications has Tech Moms received?**
+   - [x]  Write a query to count the total number of applications.
+   - Example SQL:
+    ```
+    SELECT
+     COUNT(distinct Contact_ID) 
+    FROM [your_table_name];
+    ```
+
+2. **How many applications were assigned a cohort?**
+   - [x] Determine how many applicants were successfully assigned to a cohort.
+   - Example SQL: 
+   ```
+   SELECT 
+    Applicant_Status, 
+    COUNT(distinct contact_ID) 
+   FROM [your_table_name]
+   WHERE Applicant_Status = 'Assigned Cohort' 
+   GROUP BY Applicant_Status;
+   ```
+
+3. **How many children are supported through Tech Moms programs?**
+   - [x] Find out the total number of children supported by the Tech Moms programs using the available data.
+   - Example SQL:
+   ```
+   SELECT
+     SUM(Children)
+   FROM
+     [your_table_name]
+   WHERE Applicant_Status = 'Assigned Cohort';
+   ```
+>>>>>>> 11f8aab (add cleaned data)
      
 4. **Etc** 
      - [ ] Answer at least 10 additional questions using SQL
 
 ## Step 3: Submission
+<<<<<<< HEAD
 - [ ] Email a [link](https://deepnote.com/workspace/tech-moms-c74a-218b9a89-8e00-4dd9-a40f-fc1925d77d85/project/Tech-Moms-Exploratory-Analysis-fbfb3a5b-034a-4d0c-92d8-005c72020634/notebook/Alyson's%20Tech%20Moms%20Data%20Analysis-acff3488e9ba4193b5fed69fee62b822) to your deep note notebook to data@tech-moms.org
+=======
+- [ ] After completing the SQL analysis & leveraging your previous analysis in Excel/Google Sheet create a [report](https://github.com/Tech-Moms/data-analytics-course/blob/main/module_3/report.md) in a google doc summarizing your findings.
+- [ ] Email your completed google doc & a [link](https://deepnote.com/workspace/tech-moms-c74a-218b9a89-8e00-4dd9-a40f-fc1925d77d85/project/Tech-Moms-Exploratory-Analysis-fbfb3a5b-034a-4d0c-92d8-005c72020634/notebook/Alyson's%20Tech%20Moms%20Data%20Analysis-acff3488e9ba4193b5fed69fee62b822) to your deep note notebook to data@tech-moms.org
+>>>>>>> 11f8aab (add cleaned data)
 
 #### How to Share a Deep Note Link:
 
