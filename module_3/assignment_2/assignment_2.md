@@ -99,8 +99,7 @@ Note: Your numbers here should match your Excel/Google Sheets analysis.
      - [ ] Answer at least 10 additional questions using SQL
 
 ## Step 3: Submission
-- [ ] After completing the SQL analysis & leveraging your previous analysis in Excel/Google Sheet create a [report](https://github.com/Tech-Moms/data-analytics-course/blob/main/module_3/report.md) in a google doc summarizing your findings.
-- [ ] Email your completed google doc & a [link](https://deepnote.com/workspace/tech-moms-c74a-218b9a89-8e00-4dd9-a40f-fc1925d77d85/project/Tech-Moms-Exploratory-Analysis-fbfb3a5b-034a-4d0c-92d8-005c72020634/notebook/Alyson's%20Tech%20Moms%20Data%20Analysis-acff3488e9ba4193b5fed69fee62b822) to your deep note notebook to data@tech-moms.org
+- [ ] Email a [link](https://deepnote.com/workspace/tech-moms-c74a-218b9a89-8e00-4dd9-a40f-fc1925d77d85/project/Tech-Moms-Exploratory-Analysis-fbfb3a5b-034a-4d0c-92d8-005c72020634/notebook/Alyson's%20Tech%20Moms%20Data%20Analysis-acff3488e9ba4193b5fed69fee62b822) to your deep note notebook to data@tech-moms.org
 
 #### How to Share a Deep Note Link:
 
