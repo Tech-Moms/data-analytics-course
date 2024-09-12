@@ -77,7 +77,8 @@ Functions work great for specific calculations while pivot tables are best for s
 
 - [ ] Create Calculated Fields to quickly see the percentage of the total for the pivot table data.
       
-Pivot Table Video: [Part 1](https://www.loom.com/share/fa91b25c236747698de2fccb44779deb)
+Step 4. Pivot Table Video: [Part 1](https://www.loom.com/share/fa91b25c236747698de2fccb44779deb) | [Part 2 w/ Excel](https://www.loom.com/share/6c57ccf4a4374bb3b9604da186b83a5b)
+
 ### Step Five: Create Charts & Build a Dashboard
 
 - [ ] For each pivot table, create a chart next to it that visually represents the data. It is up to you to decide what chart will convey the data the best.
@@ -90,6 +91,8 @@ Pivot Table Video: [Part 1](https://www.loom.com/share/fa91b25c236747698de2fccb4
 - [ ] Create some new columns either in the “analysis” tab or in the “pivot tables” tab to consolidate data into the minimal number of categories in order to best visually represent it in the dashboard.
 - [ ] Upload the Tech-Moms logo to the dashboard.
 - [ ] Update the Dashboard theme to use Tech-Moms’ brand colors.
+
+Step 5 & 6. Create Charts, Build a Dashboard, Make it Aesthetic w/ Excel: [Part 1](https://www.loom.com/share/1440f24a140c4aa29ab9f9b9df4478b9)
 
 ### Last Step: Ship it!
 
