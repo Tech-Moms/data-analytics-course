@@ -76,7 +76,8 @@ Functions work great for specific calculations while pivot tables are best for s
 - What is the race/ethnicity of applicants that were assigned a cohort?
 
 - [ ] Create Calculated Fields to quickly see the percentage of the total for the pivot table data.
-
+      
+Pivot Table Video: [Part 1](https://www.loom.com/share/fa91b25c236747698de2fccb44779deb)
 ### Step Five: Create Charts & Build a Dashboard
 
 - [ ] For each pivot table, create a chart next to it that visually represents the data. It is up to you to decide what chart will convey the data the best.
