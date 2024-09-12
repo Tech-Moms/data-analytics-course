@@ -55,6 +55,6 @@ Use Deep Note's built-in SQL editor to explore the dataset and answer the follow
 
 ## Step 3: Submission
 - [ ] After completing the analysis, create a [report](https://github.com/Tech-Moms/data-analytics-course/blob/main/module_3/report.md) in a google doc summarizing your findings.
-- [ ] Email your completed google doc to data@tech-moms.org
+- [ ] Email your completed google doc & a link to your deep note notebook to data@tech-moms.org
 
   
