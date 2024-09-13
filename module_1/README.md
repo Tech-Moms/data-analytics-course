@@ -29,7 +29,7 @@ _click on the image above to access slides for this module_
 
 ## 2. GitHub Orientation (30 mins)
 
-- [ ] **How We Will Use GitHub in our Course**
+- [x] **How We Will Use GitHub in our Course**
   - Fork (make a copy of) the Tech Moms Data Analytics Course Repository 
   - Discuss how to navigate the modules & edit READMEs to mark off tasks as complete
   - Discuss class cadence - Video Lessons to be viewed prior to Wednesday class & Assignments due on Saturday
@@ -57,14 +57,14 @@ _click on the image above to access slides for this module_
 
 ## 4. What is Data Analytics? (15 minutes)
 
-- [ ] **Definition of Data Analytics:**
+- [x] **Definition of Data Analytics:**
   - Explanation of data analytics as the process of examining data sets to draw conclusions about the information they contain.
   - Discuss the role of data analytics in decision-making, problem-solving, and driving business success. Example: using Geo data to find a centeral location for class.
 
-- [ ] **Importance of Data Literacy:**
+- [x] **Importance of Data Literacy:**
   - Data literacy is a vital life skill, useful in various aspects of life, such as creating a personal budget, making informed decisions, and understanding trends.
 
-- [ ] **Real-Life Examples:**
+- [x] **Real-Life Examples:**
   - Use examples such as budgeting, tracking expenses, and analyzing household data to show how data analytics can be applied in everyday life. Example: Using survey data to inform curriculm for this class. 
 
 ---
@@ -108,9 +108,9 @@ _click on the image above to access slides for this module_
 
 ## 7. Basic Statistics: Mean, Median, and Mode (30 minutes)
 
-- [ ] [Bill Gates Walks Into a Bar](https://introductorystats.wordpress.com/2011/09/04/when-bill-gates-walks-into-a-bar/)
+- [x] [Bill Gates Walks Into a Bar](https://introductorystats.wordpress.com/2011/09/04/when-bill-gates-walks-into-a-bar/)
 
-- [ ] **Definitions and Examples:**
+- [x] **Definitions and Examples:**
   - **Mean:** The average of a set of numbers.  
     Example: Calculating the average weekly grocery spend.
   - **Median:** The middle value in a set of numbers.  
