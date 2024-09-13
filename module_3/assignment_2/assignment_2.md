@@ -96,7 +96,7 @@ Use Deep Note's built-in SQL editor to explore the dataset and answer the follow
 Note: Your numbers here should match your Excel/Google Sheets analysis. 
      
 4. **Etc** 
-     - [ ] Answer at least 10 additional questions using SQL
+     - [x] Answer at least 10 additional questions using SQL
 
 ## Step 3: Submission
 
