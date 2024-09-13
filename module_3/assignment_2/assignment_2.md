@@ -8,10 +8,10 @@ In this assignment, you will use Deep Note, a data analysis tool, to explore the
 
 Deepnote.com is a collaborative data science notebook platform designed for data analytics and data science work. It allows users to write and run code in SQL (as well as Python and R) directly within the browser, making it accessible and easy to use without requiring software installation.
 
-- [ ]  Go to [Deep Note](https://deepnote.com/) and create a free account if you haven't already.
-- [ ] Download the `.csv` file of the Tech Moms applicant dataset provided to you.
-- [ ] In Deep Note, create a new project.
-- [ ] Upload the `.csv` file into your project.
+- [x]  Go to [Deep Note](https://deepnote.com/) and create a free account if you haven't already.
+- [x] Download the `.csv` file of the Tech Moms applicant dataset provided to you.
+- [x] In Deep Note, create a new project.
+- [x] Upload the `.csv` file into your project.
 
 Video: [Overview, Create a Deep Note Account, & Upload Data](https://www.loom.com/share/5fc400d191dd414088c900cadbc439e5?sid=80486bf3-c3b9-400d-897e-f8f82eabd741)
 
@@ -44,10 +44,10 @@ Once you upload the data, you may notice that the data is not in the format that
 Cleaning and formatting data before running SQL queries is crucial because it ensures consistency, accuracy, and compatibility with SQL syntax. Raw data often contains inconsistencies like mixed date formats, extra spaces, missing values, or improperly named columns that can lead to errors or incorrect query results. 
 
 In your preferred spreadsheet tool, complete the following tasks: 
-- [ ] Standardize column names to be SQL-friendly (e.g., replacing spaces with underscores). Example: Edit `Contact ID` to be `Contact_ID`. Edit `Application Status` -> `Application_Status`
-- [ ] Convert data types where necessary, such as ensuring dates are in a proper datetime format. Example: Highlight the `create_date` column in your spreadsheet tool & Format -> Date
-- [ ] Download the new cleaned & formatted `.csv`
-- [ ] Re-upload the new cleaned & formatted `.csv` to Deep Note
+- [] Standardize column names to be SQL-friendly (e.g., replacing spaces with underscores). Example: Edit `Contact ID` to be `Contact_ID`. Edit `Application Status` -> `Application_Status`
+- [] Convert data types where necessary, such as ensuring dates are in a proper datetime format. Example: Highlight the `create_date` column in your spreadsheet tool & Format -> Date
+- [] Download the new cleaned & formatted `.csv`
+- [] Re-upload the new cleaned & formatted `.csv` to Deep Note
 
 Now you are ready to run some queries and analyze the data in SQL. 
 
@@ -58,7 +58,7 @@ Note: to skip this step you can use the cleaned tech moms application data [here
 Use Deep Note's built-in SQL editor to explore the dataset and answer the following questions:
 
 1. **How many applications has Tech Moms received?** 
-   - [ ]  Write a query to count the total number of applications. (as of the end of July)
+   - [x]  Write a query to count the total number of applications. (as of the end of July)
    - Example SQL:
      
     ```
@@ -69,7 +69,7 @@ Use Deep Note's built-in SQL editor to explore the dataset and answer the follow
     ```
 
 2. **How many applications were assigned a cohort?** 
-   - [ ] Determine how many applicants were successfully assigned to a cohort. (as of the end of July)
+   - [x] Determine how many applicants were successfully assigned to a cohort. (as of the end of July)
    - Example SQL:
    
    ```
@@ -81,7 +81,7 @@ Use Deep Note's built-in SQL editor to explore the dataset and answer the follow
    ```
 
 3. **How many children are supported through Tech Moms programs?** 
-   - [ ] Find out the total number of children supported by the Tech Moms programs using the available data. (as of the end of July)
+   - [x] Find out the total number of children supported by the Tech Moms programs using the available data. (as of the end of July)
    - Example SQL:
 
    ```
