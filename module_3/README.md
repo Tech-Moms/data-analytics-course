@@ -14,7 +14,7 @@ By the end of the module, students will apply their SQL skills to query the stud
 3. Filter and Sort Data
 4. Aggregate and Summarize Data
 5. Conduct Data Analysis
-6. Communicate Findings
+6. Share Queries
 
 ## Video Lessons: 
 
