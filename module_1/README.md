@@ -41,7 +41,7 @@ _click on the image above to access slides for this module_
 
 ## 3. Slack Overview (15 mins)
 
-- [ ] **Slack Best Practices**
+- [x] **Slack Best Practices**
     - Review of Tech-Moms [Slack Guidelines](https://docs.google.com/document/d/1g7nEFyEZe8AvSan-bbYAuvJorYvHSdoX55urAGQO_iI/edit?usp=sharing)
     - Link vs Hyperlink vs Remove Link Preview
     - Practice Activity
@@ -78,7 +78,7 @@ _click on the image above to access slides for this module_
   - **Analytics Engineer:** Bridges the gap between data engineering and data analysis by building scalable data pipelines and transforming data into a usable format.
   - **People Analyst:** Focuses on understanding and improving human resources practices by analyzing employee data, such as productivity, engagement, and retention.
 
-- [ ] **Activity:**
+- [x] **Activity:**
   - Group discussion on which roles resonate most with participants and why.
 
 ---
@@ -91,7 +91,7 @@ _click on the image above to access slides for this module_
   - **[Line Chart](https://www.storytellingwithdata.com/blog/2020/3/24/what-is-a-line-graph):** Useful for showing trends over time.
   - **[Scatter Plot](https://www.storytellingwithdata.com/blog/2020/5/27/what-is-a-scatterplot):** Best for examining relationships between two variables.
 
-- [ ] **When to Use Each Visualization:**
+- [x] **When to Use Each Visualization:**
   - Discuss the scenarios where each type of chart is most effective.
 
 - [x] **Hands-On Activity:**
@@ -125,7 +125,7 @@ _click on the image above to access slides for this module_
 
 ## 7. Q&A and Closing (15 minutes)
 
-- [ ] **Open Floor for Questions:**
+- [x] **Open Floor for Questions:**
   - Address any questions or concerns from participants.
   
-- [ ] **Closing Remarks:**
+- [x] **Closing Remarks:**
