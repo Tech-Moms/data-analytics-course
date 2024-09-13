@@ -108,9 +108,9 @@ _click on the image above to access slides for this module_
 
 ## 7. Basic Statistics: Mean, Median, and Mode (30 minutes)
 
-- [ ] [Bill Gates Walks Into a Bar](https://introductorystats.wordpress.com/2011/09/04/when-bill-gates-walks-into-a-bar/)
+- [x] [Bill Gates Walks Into a Bar](https://introductorystats.wordpress.com/2011/09/04/when-bill-gates-walks-into-a-bar/)
 
-- [ ] **Definitions and Examples:**
+- [x] **Definitions and Examples:**
   - **Mean:** The average of a set of numbers.  
     Example: Calculating the average weekly grocery spend.
   - **Median:** The middle value in a set of numbers.  
