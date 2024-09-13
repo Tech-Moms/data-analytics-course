@@ -14,7 +14,7 @@ By the end of the module, students will apply their SQL skills to query the stud
 3. Filter and Sort Data
 4. Aggregate and Summarize Data
 5. Conduct Data Analysis
-6. Communicate Findings
+6. Share Queries
 
 ## Video Lessons: 
 
@@ -72,6 +72,6 @@ _Est. Time to Complete: 2 hours_
 
 ## Assignment #2:  
 
-Using Deep Note & SQL to query Tech Moms applicant data & write a one page written report with sharing visualizations, insights, and recommendations.
+Using Deep Note & SQL to query Tech Moms applicant data & share with leadership data@tech-moms.org
 
 - [ ] [Complete Assignment 2](https://github.com/Tech-Moms/data-analytics-course/blob/main/module_3/assignment_2.md)
