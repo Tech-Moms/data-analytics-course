@@ -8,10 +8,10 @@ In this assignment, you will use Deep Note, a data analysis tool, to explore the
 
 Deepnote.com is a collaborative data science notebook platform designed for data analytics and data science work. It allows users to write and run code in SQL (as well as Python and R) directly within the browser, making it accessible and easy to use without requiring software installation.
 
-- [ ]  Go to [Deep Note](https://deepnote.com/) and create a free account if you haven't already.
-- [ ] Download the `.csv` file of the Tech Moms applicant dataset provided to you.
-- [ ] In Deep Note, create a new project.
-- [ ] Upload the `.csv` file into your project.
+- [x]  Go to [Deep Note](https://deepnote.com/) and create a free account if you haven't already.
+- [x] Download the `.csv` file of the Tech Moms applicant dataset provided to you.
+- [x] In Deep Note, create a new project.
+- [x] Upload the `.csv` file into your project.
 
 Video: [Overview, Create a Deep Note Account, & Upload Data](https://www.loom.com/share/5fc400d191dd414088c900cadbc439e5?sid=80486bf3-c3b9-400d-897e-f8f82eabd741)
 
@@ -58,7 +58,7 @@ Note: to skip this step you can use the cleaned tech moms application data [here
 Use Deep Note's built-in SQL editor to explore the dataset and answer the following questions:
 
 1. **How many applications has Tech Moms received?** 
-   - [ ]  Write a query to count the total number of applications. (as of the end of July)
+   - [x]  Write a query to count the total number of applications. (as of the end of July)
    - Example SQL:
      
     ```
@@ -69,7 +69,7 @@ Use Deep Note's built-in SQL editor to explore the dataset and answer the follow
     ```
 
 2. **How many applications were assigned a cohort?** 
-   - [ ] Determine how many applicants were successfully assigned to a cohort. (as of the end of July)
+   - [x] Determine how many applicants were successfully assigned to a cohort. (as of the end of July)
    - Example SQL:
    
    ```
@@ -81,7 +81,7 @@ Use Deep Note's built-in SQL editor to explore the dataset and answer the follow
    ```
 
 3. **How many children are supported through Tech Moms programs?** 
-   - [ ] Find out the total number of children supported by the Tech Moms programs using the available data. (as of the end of July)
+   - [x] Find out the total number of children supported by the Tech Moms programs using the available data. (as of the end of July)
    - Example SQL:
 
    ```
