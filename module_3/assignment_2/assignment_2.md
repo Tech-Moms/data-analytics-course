@@ -1,6 +1,6 @@
 <img width="200" alt="Tech-Moms Logo Vertical" src="https://github.com/user-attachments/assets/02aae052-a29d-493b-bac1-a884f84a6891">
 
-# Tech-Moms Student SQL Analysis & Report 
+# Tech-Moms Student SQL Analysis 
 
 In this assignment, you will use Deep Note, a data analysis tool, to explore the Tech Moms applicant dataset using SQL. You will upload the applicant dataset into Deep Note and answer key questions to gain insights from the data.
 
@@ -99,6 +99,7 @@ Note: Your numbers here should match your Excel/Google Sheets analysis.
      - [ ] Answer at least 10 additional questions using SQL
 
 ## Step 3: Submission
+
 - [ ] Email a [link](https://deepnote.com/workspace/tech-moms-c74a-218b9a89-8e00-4dd9-a40f-fc1925d77d85/project/Tech-Moms-Exploratory-Analysis-fbfb3a5b-034a-4d0c-92d8-005c72020634/notebook/Alyson's%20Tech%20Moms%20Data%20Analysis-acff3488e9ba4193b5fed69fee62b822) to your deep note notebook to data@tech-moms.org
 
 #### How to Share a Deep Note Link:
