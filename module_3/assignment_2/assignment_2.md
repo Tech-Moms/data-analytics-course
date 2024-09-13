@@ -44,10 +44,10 @@ Once you upload the data, you may notice that the data is not in the format that
 Cleaning and formatting data before running SQL queries is crucial because it ensures consistency, accuracy, and compatibility with SQL syntax. Raw data often contains inconsistencies like mixed date formats, extra spaces, missing values, or improperly named columns that can lead to errors or incorrect query results. 
 
 In your preferred spreadsheet tool, complete the following tasks: 
-- [ ] Standardize column names to be SQL-friendly (e.g., replacing spaces with underscores). Example: Edit `Contact ID` to be `Contact_ID`. Edit `Application Status` -> `Application_Status`
-- [ ] Convert data types where necessary, such as ensuring dates are in a proper datetime format. Example: Highlight the `create_date` column in your spreadsheet tool & Format -> Date
-- [ ] Download the new cleaned & formatted `.csv`
-- [ ] Re-upload the new cleaned & formatted `.csv` to Deep Note
+- [x] Standardize column names to be SQL-friendly (e.g., replacing spaces with underscores). Example: Edit `Contact ID` to be `Contact_ID`. Edit `Application Status` -> `Application_Status`
+- [x] Convert data types where necessary, such as ensuring dates are in a proper datetime format. Example: Highlight the `create_date` column in your spreadsheet tool & Format -> Date
+- [x] Download the new cleaned & formatted `.csv`
+- [x] Re-upload the new cleaned & formatted `.csv` to Deep Note
 
 Now you are ready to run some queries and analyze the data in SQL. 
 
