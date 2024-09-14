@@ -98,6 +98,4 @@ We are here to support you every step of the way. Our DMs are open. In addition,
 
 We are excited to have you on your data analyst journey. Let's do this! 💪 ⚡️
 
-This is a test
-
 
