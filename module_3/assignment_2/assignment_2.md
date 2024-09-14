@@ -58,7 +58,7 @@ Note: to skip this step you can use the cleaned tech moms application data [here
 Use Deep Note's built-in SQL editor to explore the dataset and answer the following questions:
 
 1. **How many applications has Tech Moms received?** 
-   - [ ]  Write a query to count the total number of applications. (as of the end of July)
+   - [x]  Write a query to count the total number of applications. (as of the end of July)
    - Example SQL:
      
     ```
@@ -69,7 +69,7 @@ Use Deep Note's built-in SQL editor to explore the dataset and answer the follow
     ```
 
 2. **How many applications were assigned a cohort?** 
-   - [ ] Determine how many applicants were successfully assigned to a cohort. (as of the end of July)
+   - [x] Determine how many applicants were successfully assigned to a cohort. (as of the end of July)
    - Example SQL:
    
    ```
@@ -81,7 +81,7 @@ Use Deep Note's built-in SQL editor to explore the dataset and answer the follow
    ```
 
 3. **How many children are supported through Tech Moms programs?** 
-   - [ ] Find out the total number of children supported by the Tech Moms programs using the available data. (as of the end of July)
+   - [x] Find out the total number of children supported by the Tech Moms programs using the available data. (as of the end of July)
    - Example SQL:
 
    ```
@@ -96,7 +96,7 @@ Use Deep Note's built-in SQL editor to explore the dataset and answer the follow
 Note: Your numbers here should match your Excel/Google Sheets analysis. 
      
 4. **Etc** 
-     - [ ] Answer at least 10 additional questions using SQL
+     - [x] Answer at least 10 additional questions using SQL
 
 ## Step 3: Submission
 
