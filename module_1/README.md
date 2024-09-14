@@ -41,7 +41,7 @@ _click on the image above to access slides for this module_
 
 ## 3. Slack Overview (15 mins)
 
-- [x] **Slack Best Practices**
+- [ ] **Slack Best Practices**
     - Review of Tech-Moms [Slack Guidelines](https://docs.google.com/document/d/1g7nEFyEZe8AvSan-bbYAuvJorYvHSdoX55urAGQO_iI/edit?usp=sharing)
     - Link vs Hyperlink vs Remove Link Preview
     - Practice Activity
@@ -91,7 +91,7 @@ _click on the image above to access slides for this module_
   - **[Line Chart](https://www.storytellingwithdata.com/blog/2020/3/24/what-is-a-line-graph):** Useful for showing trends over time.
   - **[Scatter Plot](https://www.storytellingwithdata.com/blog/2020/5/27/what-is-a-scatterplot):** Best for examining relationships between two variables.
 
-- [x] **When to Use Each Visualization:**
+- [ ] **When to Use Each Visualization:**
   - Discuss the scenarios where each type of chart is most effective.
 
 - [ ] **Hands-On Activity:**
