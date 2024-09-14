@@ -1,6 +1,6 @@
 <img width="200" alt="Tech-Moms Logo Vertical" src="https://github.com/user-attachments/assets/02aae052-a29d-493b-bac1-a884f84a6891">
 
-# Tech-Moms Student SQL Analysis & Report 
+# Tech-Moms Student SQL Analysis 
 
 In this assignment, you will use Deep Note, a data analysis tool, to explore the Tech Moms applicant dataset using SQL. You will upload the applicant dataset into Deep Note and answer key questions to gain insights from the data.
 
