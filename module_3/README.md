@@ -76,4 +76,4 @@ _Est. Time to Complete: 2 hours_
 
 Using Deep Note & SQL to query Tech Moms applicant data & share with leadership data@tech-moms.org
 
-- [ ] [Complete Assignment 2](https://github.com/Tech-Moms/data-analytics-course/blob/main/module_3/assignment_2.md)
+- [X] [Complete Assignment 2](https://github.com/Tech-Moms/data-analytics-course/blob/main/module_3/assignment_2.md)
