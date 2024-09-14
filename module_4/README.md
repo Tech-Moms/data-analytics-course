@@ -1,4 +1,4 @@
-# Module 4: BI Tooling: Tableau
+# Module 4: BI Tooling - Tableau
 
 ## Overview
 Module 4 introduces students to Tableau, a powerful data visualization tool widely used in the data analytics field. This module will cover the basics of Tableau, including how to connect to data sources, explore and clean data, and create various types of visualizations. Students will learn how to use Tableau to communicate data insights effectively, focusing on practical skills that can be applied in real-world scenarios.
@@ -7,11 +7,10 @@ Module 4 introduces students to Tableau, a powerful data visualization tool wide
 
 1. Navigate Tableau and import data
 2. Create bar charts, line charts, scatter plots, and maps
-3. Build interactive dashboards with filters and parameters
-4. Present geographic data in slide deck
-5. Publish and share using Tableau Public
+3. Build dashboard
+4. Publish and share using Tableau Public
 
-## Video Lessons
+## Video Lessons - Completed by class Wednesday, September 18th
 
 _Watch the videos below, edit the markdown file with an x in the checkbox when complete, then commit changes._
 
@@ -54,6 +53,7 @@ Learn how to use Joins in Tableau to combine data from multiple sources. We'll c
 - [ ] Watch [this](https://www.youtube.com/watch?v=A4SVUF-fTwc&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=4) video, follow along in Tableau, and mark when complete
 
 ---
+## Assignment #3 - Completed by class Saturday, September 21st
 
 <img width="450" alt="Full Beginner Project" src="https://github.com/user-attachments/assets/b9a902b7-5dcf-4ecb-b508-5001c09e067f">
 
@@ -62,10 +62,12 @@ _Est. Time to Complete: 90 mins_
 In this video we'll complete a beginner project in Tableau, from start to finish. Starting with connecting to a new data set, we'll then create & customize visualizations, and build full dashboard, combining all the skills we learned from previous video lessons.
 
 - [ ] Watch [this](https://www.youtube.com/watch?v=zOR0-nygfDE&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=5) video, follow along in Tableau, and mark when complete
+- [ ] Publish your completed workbook to Tableau Public
+- [ ] Send an email to: data@tech-moms.org with: 
+* a screenshot of the dashboard in the body of an email
+* a hyper link to your dashboard
+* bullet points of your top 3 insights 
 
----
 
-## Assignment #3 
 
-- [ ] Use Tableau to connect to Tech-Moms applicant geographic data to create a slide presentation discussing the geo-distribution of Tech-Moms applicants and students. 
 
