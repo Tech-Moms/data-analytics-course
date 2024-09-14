@@ -14,7 +14,7 @@ Module 4 introduces students to Tableau, a powerful data visualization tool wide
 
 _Watch the videos below, edit the markdown file with an x in the checkbox when complete, then commit changes._
 
-<img width="450" alt="Install Tableau" src="https://github.com/user-attachments/assets/395985b8-2f82-45a7-9a0d-c656115309f4">
+<img width="600" alt="Install Tableau" src="https://github.com/user-attachments/assets/0fa38bb3-4624-4eef-b375-096ca57129dc">
 
 _Est. Time to Complete: 30 mins_
 
@@ -24,7 +24,7 @@ In this video, learn how to install Tableau and create your first visualization.
 
 ---
 
-<img width="450" alt="Calculated Fields" src="https://github.com/user-attachments/assets/dd5e4497-094b-41e4-b59e-176053ed6cd0">
+<img width="600" alt="Calculated Fields" src="https://github.com/user-attachments/assets/ef39ec83-d201-4ebb-8be6-92d874dd3cba">
 
 _Est. Time to Complete: 15 mins_
 
@@ -34,7 +34,7 @@ Learn how to use Calculated Fields and Bins in Tableau to enhance your data anal
 
 ---
 
-<img width="450" alt="Create Visulizations" src="https://github.com/user-attachments/assets/41065553-4c59-4fc0-b079-c7804d92d181">
+<img width="600" alt="Create Visulizations" src="https://github.com/user-attachments/assets/a1d93746-0149-4887-934b-7441084c2586">
 
 _Est. Time to Complete: 30 mins_
 
@@ -44,7 +44,7 @@ Learn how to create various visualizations in Tableau, such as bar charts, line 
 
 ---
 
-<img width="450" alt="Use Joins" src="https://github.com/user-attachments/assets/064520ba-9702-4488-b8a0-5da49b6031f8">
+<img width="600" alt="Use Joins" src="https://github.com/user-attachments/assets/17dafa84-f7c7-4b12-9a0d-0e94c5ac3fad">
 
 _Est. Time to Complete: 30 mins_
 
@@ -55,7 +55,7 @@ Learn how to use Joins in Tableau to combine data from multiple sources. We'll c
 ---
 ## Assignment #3 - Complete by class Saturday, September 21st
 
-<img width="450" alt="Full Beginner Project" src="https://github.com/user-attachments/assets/b9a902b7-5dcf-4ecb-b508-5001c09e067f">
+<img width="600" alt="Full Beginner Project" src="https://github.com/user-attachments/assets/cb76f3d3-e77e-4d61-89db-bd6b9c957e4f">
 
 _Est. Time to Complete: 90 mins_
 
