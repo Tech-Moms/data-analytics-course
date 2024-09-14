@@ -10,7 +10,7 @@ Module 4 introduces students to Tableau, a powerful data visualization tool wide
 3. Build dashboard
 4. Publish and share using Tableau Public
 
-## Video Lessons - Completed by class Wednesday, September 18th
+## Video Lessons - Complete by class Wednesday, September 18th
 
 _Watch the videos below, edit the markdown file with an x in the checkbox when complete, then commit changes._
 
@@ -53,7 +53,7 @@ Learn how to use Joins in Tableau to combine data from multiple sources. We'll c
 - [ ] Watch [this](https://www.youtube.com/watch?v=A4SVUF-fTwc&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=4) video, follow along in Tableau, and mark when complete
 
 ---
-## Assignment #3 - Completed by class Saturday, September 21st
+## Assignment #3 - Complete by class Saturday, September 21st
 
 <img width="450" alt="Full Beginner Project" src="https://github.com/user-attachments/assets/b9a902b7-5dcf-4ecb-b508-5001c09e067f">
 
