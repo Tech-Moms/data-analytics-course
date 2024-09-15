@@ -59,6 +59,7 @@ Create a new tab titled “Functions”. Paste the questions above and answer th
 - Question 4:
 - Question 5:
 
+
 Videos: Fun with Functions - [Part 1](https://www.loom.com/share/0f9ae677ba4c49d7b5c70f498903cba7) | [Part 2](https://www.loom.com/share/9f9080b37c3e470cb32c5b54531f8211) | [Part 3](https://www.loom.com/share/93934778b2c84fc2a373d3ae26e9a1fa)
 
 ### Step Four: Fun with Pivot Tables
@@ -92,6 +93,7 @@ Functions work great for specific calculations while pivot tables are best for s
 
 ### Last Step: Ship it!
 
-- [X] Write an email to the leadership team (data@techmoms.org) sharing the updated numbers with a screenshot of the dashboard, along with a URL link and additional questions along with summary insights.
-- [X] Do a little happy dance - you’re crushing it!
+- [ ] Write an email to the leadership team (data@tech-moms.org) sharing the updated numbers with a screenshot of the dashboard, along with a URL link and additional questions along with summary insights.
+- [ ] Do a little happy dance - you’re crushing it!
+
 
