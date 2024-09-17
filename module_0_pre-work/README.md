@@ -8,9 +8,9 @@ Successfully prepare for the Tech Moms' 2.0 Data Analytics Course by completing 
 
 ## Prep Work Assignments
 
-- [x] Assignment #1: Create your own data analytics resources repo (see orientation video/slides)
+- [ ] Assignment #1: Create your own data analytics resources repo (see orientation video/slides)
 
 ## Bonus
 
-- [x] Start a portfolio website (see orientation slides)
+- [ ] Start a portfolio website (see orientation slides)
 
