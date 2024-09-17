@@ -20,7 +20,7 @@ _Est. Time to Complete: 30 mins_
 
 In this video, learn how to install Tableau and create your first visualization. You'll be guided through the setup process and shown the basics of connecting to data and build a simple chart.
 
-- [ ] Watch [this](https://www.youtube.com/watch?v=6xv1KvCMF1Q&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=1) video, follow along in Tableau, and mark when complete
+- [x] Watch [this](https://www.youtube.com/watch?v=6xv1KvCMF1Q&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=1) video, follow along in Tableau, and mark when complete
 
 ---
 
