@@ -38,7 +38,7 @@ _Est. Time to Complete: 5 mins_
 
 In SQL, the `SELECT` and `FROM` statements are fundamental for retrieving data from a database. The `SELECT` statement specifies the columns you want to retrieve, while the `FROM` statement indicates the table where the data is stored. For example, `SELECT name, age FROM users;` retrieves the "name" and "age" columns from the "users" table. These commands allow users to filter and view specific data, making them essential for data querying and analysis in SQL.
 
-- [ ] Watch [this](https://youtu.be/PSNXoAs2FtQ?si=jGa997jsmCZBWjog&t=1484) video and mark when complete
+- [x] Watch [this](https://youtu.be/PSNXoAs2FtQ?si=jGa997jsmCZBWjog&t=1484) video and mark when complete
 
 ----
 
@@ -48,7 +48,7 @@ _Est. Time to Complete: 8 mins_
 
 The `WHERE` clause in SQL is used to filter records in a query based on specified conditions. It allows you to retrieve only the rows that meet certain criteria, making your data more precise and relevant. For example, `SELECT * FROM employees WHERE department = 'Sales';` retrieves only the rows where the department is "Sales." The `WHERE` clause can use operators like `=`, `>`, `<`, `LIKE`, and `IN` to define the conditions, making it a powerful tool for refining queries and focusing on specific data subsets.
 
-- [ ] Watch [this](https://youtu.be/PSNXoAs2FtQ?si=3A8UCUkLOgGKQ3R_&t=1857) video and mark when complete
+- [x] Watch [this](https://youtu.be/PSNXoAs2FtQ?si=3A8UCUkLOgGKQ3R_&t=1857) video and mark when complete
 
 ---
 
