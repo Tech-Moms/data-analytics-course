@@ -88,15 +88,15 @@ Step 4. Pivot Table Video: [Part 1](https://www.loom.com/share/fa91b25c236747698
 
 ### Step Six: Make it Aesthetic
 
-- [ ] Evaluate the current dashboard and make some decisions on what would make the dashboard more aesthetically pleasing.
-- [ ] Create some new columns either in the “analysis” tab or in the “pivot tables” tab to consolidate data into the minimal number of categories in order to best visually represent it in the dashboard.
-- [ ] Upload the Tech-Moms logo to the dashboard.
-- [ ] Update the Dashboard theme to use Tech-Moms’ brand colors.
+- [X] Evaluate the current dashboard and make some decisions on what would make the dashboard more aesthetically pleasing.
+- [X] Create some new columns either in the “analysis” tab or in the “pivot tables” tab to consolidate data into the minimal number of categories in order to best visually represent it in the dashboard.
+- [X] Upload the Tech-Moms logo to the dashboard.
+- [X] Update the Dashboard theme to use Tech-Moms’ brand colors.
 
 Step 5 & 6. Create Charts, Build a Dashboard, Make it Aesthetic w/ Excel: [Part 1](https://www.loom.com/share/1440f24a140c4aa29ab9f9b9df4478b9)
 
 ### Last Step: Ship it!
 
-- [ ] Write an email to the leadership team (data@tech-moms.org) sharing the updated numbers with a screenshot of the dashboard, along with a URL link and additional questions along with summary insights.
-- [ ] Do a little happy dance - you’re crushing it!
+- [X] Write an email to the leadership team (data@tech-moms.org) sharing the updated numbers with a screenshot of the dashboard, along with a URL link and additional questions along with summary insights.
+- [X] Do a little happy dance - you’re crushing it!
 
