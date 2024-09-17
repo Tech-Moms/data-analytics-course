@@ -34,7 +34,7 @@ _click on the image above to access slides for this module_
   - Discuss how to navigate the modules & edit READMEs to mark off tasks as complete
   - Discuss class cadence - Video Lessons to be viewed prior to Wednesday class & Assignments due on Saturday
      
-- [x] **GitHub Assessment**
+- [ ] **GitHub Assessment**
   - Complete [this](https://docs.google.com/forms/d/e/1FAIpQLSe8zGsKVqqL8pulsJSrxoh0jO_WQThD9iVjX7EruDcE2gz76Q/viewform) GitHub Assessment to verify retention of new vocabulary & concepts
  
 ----
@@ -71,30 +71,30 @@ _click on the image above to access slides for this module_
 
 ## 5. Roles in the Data Field (15 minutes)
 
-- [x] **Overview of Key Roles:**
+- [ ] **Overview of Key Roles:**
   - **Data Analyst:** Focuses on interpreting data, analyzing results, and generating reports to help businesses make informed decisions.
   - **Data Scientist:** Uses advanced techniques, such as machine learning and statistical modeling, to predict future trends and solve complex problems.
   - **Data Engineer:** Develops, constructs, tests, and maintains data architectures (e.g., databases and large-scale processing systems).
   - **Analytics Engineer:** Bridges the gap between data engineering and data analysis by building scalable data pipelines and transforming data into a usable format.
   - **People Analyst:** Focuses on understanding and improving human resources practices by analyzing employee data, such as productivity, engagement, and retention.
 
-- [x] **Activity:**
+- [ ] **Activity:**
   - Group discussion on which roles resonate most with participants and why.
 
 ---
 
 ## 6. Introduction to Data Visualizations (30 minutes)
 
-- [x] **Overview of Common Visualizations:**
+- [ ] **Overview of Common Visualizations:**
   - **[Pie Chart](https://www.storytellingwithdata.com/blog/2020/5/14/what-is-a-pie-chart):** Best for showing proportions or percentages of a whole.
   - **[Bar Chart](https://www.storytellingwithdata.com/blog/2020/2/19/what-is-a-bar-chart):** Ideal for comparing different groups or categories.
   - **[Line Chart](https://www.storytellingwithdata.com/blog/2020/3/24/what-is-a-line-graph):** Useful for showing trends over time.
   - **[Scatter Plot](https://www.storytellingwithdata.com/blog/2020/5/27/what-is-a-scatterplot):** Best for examining relationships between two variables.
 
-- [x] **When to Use Each Visualization:**
+- [ ] **When to Use Each Visualization:**
   - Discuss the scenarios where each type of chart is most effective.
 
-- [x] **Hands-On Activity:**
+- [ ] **Hands-On Activity:**
   - Make a copy of [this spreadsheet](https://docs.google.com/spreadsheets/d/1Wx1jsHZEqfdixNXH972T1NU4olafySPUwhrIbJ6sEAY/edit?usp=sharing) Google Sheets or download to use in Excel
   - Participants create simple visualizations using sample family budget data in Excel or Google Sheets.
      - Insert Pivot Table (new sheet), drag category to Rows, drag amount to Values. 
@@ -108,9 +108,9 @@ _click on the image above to access slides for this module_
 
 ## 7. Basic Statistics: Mean, Median, and Mode (30 minutes)
 
-- [x] [Bill Gates Walks Into a Bar](https://introductorystats.wordpress.com/2011/09/04/when-bill-gates-walks-into-a-bar/)
+- [ ] [Bill Gates Walks Into a Bar](https://introductorystats.wordpress.com/2011/09/04/when-bill-gates-walks-into-a-bar/)
 
-- [x] **Definitions and Examples:**
+- [ ] **Definitions and Examples:**
   - **Mean:** The average of a set of numbers.  
     Example: Calculating the average weekly grocery spend.
   - **Median:** The middle value in a set of numbers.  
@@ -118,14 +118,14 @@ _click on the image above to access slides for this module_
   - **Mode:** The most frequently occurring value in a set of numbers.  
     Example: Identifying the most common grocery item purchased.
 
-- [x] **Application Exercise:**
+- [ ] **Application Exercise:**
   - Participants calculate the mean, median, and mode using a provided data set (e.g., household expenses).
 
 ---
 
 ## 7. Q&A and Closing (15 minutes)
 
-- [x] **Open Floor for Questions:**
+- [ ] **Open Floor for Questions:**
   - Address any questions or concerns from participants.
   
-- [x] **Closing Remarks:**
+- [ ] **Closing Remarks:**
