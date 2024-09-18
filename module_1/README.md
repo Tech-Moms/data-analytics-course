@@ -94,7 +94,7 @@ _click on the image above to access slides for this module_
 - [ ] **When to Use Each Visualization:**
   - Discuss the scenarios where each type of chart is most effective.
 
-- [ ] **Hands-On Activity:**
+- [x] **Hands-On Activity:**
   - Make a copy of [this spreadsheet](https://docs.google.com/spreadsheets/d/1Wx1jsHZEqfdixNXH972T1NU4olafySPUwhrIbJ6sEAY/edit?usp=sharing) Google Sheets or download to use in Excel
   - Participants create simple visualizations using sample family budget data in Excel or Google Sheets.
      - Insert Pivot Table (new sheet), drag category to Rows, drag amount to Values. 
