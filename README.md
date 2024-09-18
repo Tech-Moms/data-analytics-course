@@ -96,6 +96,6 @@ We are here to support you every step of the way. Our DMs are open. In addition,
 1. **Join Slack Channel**: Join the #2024-fall-data Tech Moms slack channel 
 2. **Review the syllabus**: Familiarize yourself with the course schedule, topics, and important dates.
 
-We are excited to have you on your data analyst journey. Let's do this! 💪 ⚡️
+We are excited to be a part of your data analyst journey. Let's do this! 💪 ⚡️
 
 
