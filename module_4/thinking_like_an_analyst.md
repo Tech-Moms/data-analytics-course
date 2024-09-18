@@ -1,4 +1,4 @@
-# How to do you Think like an Analyst?
+# How do you Think like an Analyst?
 
 Thinking like an analyst involves adopting a mindset that is curious, methodical, and focused on problem-solving through data. Here are some key principles and steps to help you think like an analyst:
 
