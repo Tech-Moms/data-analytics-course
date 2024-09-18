@@ -40,7 +40,7 @@ _Est. Time to Complete: 30 mins_
 
 Learn how to create various visualizations in Tableau, such as bar charts, line graphs, and scatter plots. We'll walk through the process of selecting data, customizing visuals, and adjusting settings to build clear and effective visual representations of your data.
 
-- [ ] Watch [this](https://www.youtube.com/watch?v=ebjDwX8sUMk&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=3) video, follow along in Tableau, and mark when complete
+- [x] Watch [this](https://www.youtube.com/watch?v=ebjDwX8sUMk&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=3) video, follow along in Tableau, and mark when complete
 
 ---
 
