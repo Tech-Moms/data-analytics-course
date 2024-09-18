@@ -85,7 +85,7 @@ _click on the image above to access slides for this module_
 
 ## 6. Introduction to Data Visualizations (30 minutes)
 
-- [ ] **Overview of Common Visualizations:**
+- [x] **Overview of Common Visualizations:**
   - **[Pie Chart](https://www.storytellingwithdata.com/blog/2020/5/14/what-is-a-pie-chart):** Best for showing proportions or percentages of a whole.
   - **[Bar Chart](https://www.storytellingwithdata.com/blog/2020/2/19/what-is-a-bar-chart):** Ideal for comparing different groups or categories.
   - **[Line Chart](https://www.storytellingwithdata.com/blog/2020/3/24/what-is-a-line-graph):** Useful for showing trends over time.
