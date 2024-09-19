@@ -61,7 +61,7 @@ _Est. Time to Complete: 90 mins_
 
 In this video we'll complete a beginner project in Tableau, from start to finish. Starting with connecting to a new data set, we'll then create & customize visualizations, and build a full dashboard, combining all the skills we learned from previous video lessons.
 
-- [ ] Watch [this](https://www.youtube.com/watch?v=zOR0-nygfDE&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=5) video, follow along in Tableau, and mark when complete
+- [x] Watch [this](https://www.youtube.com/watch?v=zOR0-nygfDE&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=5) video, follow along in Tableau, and mark when complete
 - [ ] Publish your completed workbook to Tableau Public
 - [ ] Send an email to: data@tech-moms.org with: 
 * a screenshot of the dashboard in the body of an email
