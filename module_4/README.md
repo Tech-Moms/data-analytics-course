@@ -59,7 +59,7 @@ Learn how to use Joins in Tableau to combine data from multiple sources. We'll c
 
 _Est. Time to Complete: 90 mins_
 
-In this video we'll complete a beginner project in Tableau, from start to finish. Starting with connecting to a new data set, we'll then create & customize visualizations, and build full dashboard, combining all the skills we learned from previous video lessons.
+In this video we'll complete a beginner project in Tableau, from start to finish. Starting with connecting to a new data set, we'll then create & customize visualizations, and build a full dashboard, combining all the skills we learned from previous video lessons.
 
 - [ ] Watch [this](https://www.youtube.com/watch?v=zOR0-nygfDE&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=5) video, follow along in Tableau, and mark when complete
 - [ ] Publish your completed workbook to Tableau Public
@@ -68,6 +68,11 @@ In this video we'll complete a beginner project in Tableau, from start to finish
 * a hyper link to your dashboard
 * bullet points of your top 3 insights 
 
+---
+
+## Bonus Assignment 
+
+- [ ] Using the Tech Moms Application Data, create a dashboard in Tableau & publish to Tableau Public. 
 
 
 
