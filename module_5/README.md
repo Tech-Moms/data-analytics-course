@@ -6,12 +6,13 @@ Module 5 introduces students to Power BI, a powerful data visualization tool wid
 
 ## Learning Outcomes
 
-1. Navigate Power BI and import data
-2. Create charts 
-3. Build dashboard 
-4. Publish and share using Power BI
+1. Learn why PowerBI is used
+2. Navigate Power BI and import data
+3. Create charts 
+4. Build dashboard 
+5. Publish and share using Power BI
 
-## Video Lessons
+## Video Lessons - Complete by class Wednesday, September 25th
 
 _Watch the videos below, edit the markdown file with an x in the checkbox when complete, then commit changes._
 
@@ -36,6 +37,12 @@ In this video, you'll create your first Power BI dashboard and publish it online
 
 ---
 
-## Assignment #4 
+## Assignment #4 - Complete by class Saturday, September 28th
 
-Use Power BI to connect to the Tech-Moms Application Data to create a dashboard.  
+- [ ] Use Power BI to connect to the Tech-Moms Application Data to create a dashboard 
+- [ ] Publish your completed workbook 
+- [ ] Send an email to: data@tech-moms.org with: 
+* a screenshot of the dashboard in the body of an email
+* a hyper link to your dashboard
+* bullet points of your top 3 insights about the data 
+* bullet points of your top 3 takeaway about the difference between Tableau and Power BI 
