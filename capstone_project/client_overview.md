@@ -26,11 +26,14 @@ We are looking for projects where our students can:
 At the end of the project, your organization will receive:
 
 1. **Data Analysis Summary Report** – A detailed document outlining the analysis, methodology, and key insights.
-2. **Data Visualizations/Dashboard** – Interactive or static dashboards to visualize the findings and communicate them clearly to stakeholders.
+2. **Data Visualizations/Dashboard** – Interactive or static dashboard to visualize the findings and communicate them clearly to stakeholders.
 3. **Presentation of Results** – Students will present their findings to your team, with an opportunity for feedback and refinement.
 
 **Timeline:**  
 The project will span two - three weeks, and students will dedicate their time to analyzing your data and developing deliverables. After an initial project kickoff, regular check-ins will ensure that the project stays on track and meets your expectations.
+
+**Our Only Ask:**  
+If the student provides you with valuable service through this project, we kindly ask that you offer the student a recommendation on LinkedIn to recognize their contributions.
 
 **Next Steps:**  
 If you're interested in partnering with us for this exciting opportunity, please let us know. We are happy to answer any questions and discuss how we can tailor the project to suit your business needs.
