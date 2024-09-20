@@ -1,3 +1,5 @@
+<img width="250" alt="Tech-Moms Logo Vertical" src="https://github.com/user-attachments/assets/b98d7ed8-150c-4a2a-9102-c4cfa4e91d01">
+
 # Capstone Project Outline for Data Analytics Service
 
 **Overview:**  
@@ -41,4 +43,5 @@ If you're interested in partnering with us for this exciting opportunity, please
 We look forward to collaborating with you to create a valuable, real-world learning experience for our students while delivering meaningful data insights for your organization.
 
 **Contact Information:**  
-Please reach out to Alyson La at data@tech-moms.org for more details.
+Please reach out to Alyson La at data@tech-moms.org for more details or book a discovery call with her here: https://calendar.app.google/cw8Zxn4XAD8ssX6k8 
+
