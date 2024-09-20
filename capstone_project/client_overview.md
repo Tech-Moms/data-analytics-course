@@ -3,7 +3,7 @@
 # Capstone Project Outline for Data Analytics Service
 
 **Overview:**  
-We are seeking potential partners for our students' data analytics capstone project. This is a unique opportunity for your business to receive high-quality data analysis services while helping to train the next generation of data analysts. Our students are skilled in using tools like Excel, Google Sheets, SQL, Tableau, Power BI, and other business intelligence platforms, and they are eager to apply their knowledge to real-world challenges.
+We are seeking potential partners for our students' data analytics capstone project. This is a unique opportunity for your business to receive high-quality data analysis services while helping to train the next generation of data analysts. Our students are part of [Tech Moms](https://www.tech-moms.org/), a non-profit focused on upskilling women, particularly mothers, in technical fields. In our data analytics program students learn tools like Excel, Google Sheets, SQL, Tableau, Power BI, and other business intelligence platforms, and they are eager to apply their knowledge to real-world challenges.
 
 **Purpose of the Capstone Project:**  
 The capstone project is designed as a hands-on experience for our students to apply their technical and analytical skills to real-world business data. This project will benefit your organization by providing insights and actionable recommendations based on your data.
