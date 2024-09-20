@@ -38,10 +38,10 @@ The project will span two - three weeks, and students will dedicate their time t
 If the student provides you with valuable service through this project, we kindly ask that you offer the student a recommendation on LinkedIn to recognize their contributions.
 
 **Next Steps:**  
-If you're interested in partnering with us for this exciting opportunity, please let us know. We are happy to answer any questions and discuss how we can tailor the project to suit your business needs.
+If you're interested in partnering with us for this exciting opportunity, please fill out our **[client intake form](https://forms.gle/Kd5z2oyREKDN6h789)**.  This will help us understand your business needs and match you with the right student.
 
 We look forward to collaborating with you to create a valuable, real-world learning experience for our students while delivering meaningful data insights for your organization.
 
 **Contact Information:**  
-Please reach out to Alyson La at data@tech-moms.org for more details or book a discovery call with her here: https://calendar.app.google/cw8Zxn4XAD8ssX6k8 
+Please reach out to Alyson La at data@tech-moms.org for more details or book a discovery call here: https://calendar.app.google/cw8Zxn4XAD8ssX6k8 
 
