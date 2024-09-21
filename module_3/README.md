@@ -50,6 +50,7 @@ The `WHERE` clause in SQL is used to filter records in a query based on specifie
 
 - [x] Watch [this](https://youtu.be/PSNXoAs2FtQ?si=3A8UCUkLOgGKQ3R_&t=1857) video and mark when complete
 
+
 ---
 
 <img width="450" alt="Aggregate and Sort Data" src="https://github.com/user-attachments/assets/af7771f4-c2cc-46e8-9271-c81688ce663b">
@@ -62,6 +63,7 @@ The `ORDER BY` clause sorts the query results based on specified columns, either
 
 - [x] Watch [this](https://youtu.be/PSNXoAs2FtQ?si=vu1ueCAeZ9jVLMhT&t=2334) video and mark when complete
 
+
 ## Hands-on Practice 
 
 _Est. Time to Complete: 2 hours_
@@ -71,6 +73,7 @@ _Est. Time to Complete: 2 hours_
 - [x] Create a free [Codecademy](https://www.codecademy.com/) account
 - [x] Complete this [Learn SQL: Aggregate Functions](https://www.codecademy.com/learn/learn-sql-aggregate-functions) course and mark when done
 - [x] Complete this [Learn AI for SQL](https://www.codecademy.com/learn/learn-ai-for-sql) course and mark when done
+
 
 ## Assignment #2:  
 
