@@ -18,21 +18,21 @@ Overview Videos: [Part 1](https://www.loom.com/share/5ef6c4a4cb3f4452a24c47a6890
 
 ### Step One: Get to Know Your Data
 
-- [ ] Review the Tech Moms 2023 Annual Report - paying special attention to the Student Demographic sections
-- [ ] Download the “Tech_Moms_Applicant_Data_ANON_8.29.24.csv”
-- [ ] Open the .csv file in the spreadsheet tool of your choice - Excel or Google Sheets
-- [ ] Start by evaluating the columns to understand what data you’re working with
-- [ ] Create a new tab, “Data Dictionary” and copy the columns -> go to new tab -> paste “transposed”. This will paste the columns vertically.
-- [ ] Add a row at the top of the Data Dictionary tab. In A1, type “Column Column Name” & in B1, type “Column Description”. Write a short description of each column based on your best-educated guess (you can also use ChatGPT to help with this).
-- [ ] Add a tab “Questions” as you come across questions about the data. You can add them here. These are questions you can ask the data owners (aka leadership team) to help clarify any questions you may have about the data set.
+- [X] Review the Tech Moms 2023 Annual Report - paying special attention to the Student Demographic sections
+- [X] Download the “Tech_Moms_Applicant_Data_ANON_8.29.24.csv”
+- [X] Open the .csv file in the spreadsheet tool of your choice - Excel or Google Sheets
+- [X] Start by evaluating the columns to understand what data you’re working with
+- [X] Create a new tab, “Data Dictionary” and copy the columns -> go to new tab -> paste “transposed”. This will paste the columns vertically.
+- [X] Add a row at the top of the Data Dictionary tab. In A1, type “Column Column Name” & in B1, type “Column Description”. Write a short description of each column based on your best-educated guess (you can also use ChatGPT to help with this).
+- [X] Add a tab “Questions” as you come across questions about the data. You can add them here. These are questions you can ask the data owners (aka leadership team) to help clarify any questions you may have about the data set.
 
 Video: [Get to Know Your Data](https://www.loom.com/share/c726c715650a4371bce3ee3c1cec6a4e) 
 
 ### Step Two: Clean the Data
 
-- [ ] You know that you only want data as of July 31th, 2024, so you will make a copy of the “raw” data by duplicating the tab & rename it to “Analysis”. Rename the original tab to “raw”.
-- [ ] In the “Analysis” tab, review the data in the “Create Date” column. Sort it from oldest to newest. Scroll to the bottom of the spreadsheet and delete any rows with the creation date after July 31st, 2024.
-- [ ] Check for duplicates and erase any duplicate data.
+- [X] You know that you only want data as of July 31th, 2024, so you will make a copy of the “raw” data by duplicating the tab & rename it to “Analysis”. Rename the original tab to “raw”.
+- [X] In the “Analysis” tab, review the data in the “Create Date” column. Sort it from oldest to newest. Scroll to the bottom of the spreadsheet and delete any rows with the creation date after July 31st, 2024.
+- [X] Check for duplicates and erase any duplicate data.
 
 Video: [Clean the Data](https://www.loom.com/share/cab3f42f344a4b00a13d52e8bd892f87)
 
