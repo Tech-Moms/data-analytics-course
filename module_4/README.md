@@ -20,7 +20,7 @@ _Est. Time to Complete: 30 mins_
 
 In this video, learn how to install Tableau and create your first visualization. You'll be guided through the setup process and shown the basics of connecting to data and build a simple chart.
 
-- [X] Watch [this](https://www.youtube.com/watch?v=6xv1KvCMF1Q&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=1) video, follow along in Tableau, and mark when complete
+- [ ] Watch [this](https://www.youtube.com/watch?v=6xv1KvCMF1Q&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=1) video, follow along in Tableau, and mark when complete
 
 ---
 
@@ -30,7 +30,7 @@ _Est. Time to Complete: 15 mins_
 
 Learn how to use Calculated Fields and Bins in Tableau to enhance your data analysis. We cover the basics of creating custom calculations and grouping data into bins, helping you uncover deeper insights and refine your visualizations.
 
-- [X] Watch [this](https://www.youtube.com/watch?v=f6qxxtWkaUg&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=2) video, follow along in Tableau, and mark when complete
+- [ ] Watch [this](https://www.youtube.com/watch?v=f6qxxtWkaUg&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=2) video, follow along in Tableau, and mark when complete
 
 ---
 
