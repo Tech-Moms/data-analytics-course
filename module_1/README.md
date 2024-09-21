@@ -29,19 +29,20 @@ _click on the image above to access slides for this module_
 
 ## 2. GitHub Orientation (30 mins)
 
-- [X] **How We Will Use GitHub in our Course**
+- [x] **How We Will Use GitHub in our Course**
+
   - Fork (make a copy of) the Tech Moms Data Analytics Course Repository 
   - Discuss how to navigate the modules & edit READMEs to mark off tasks as complete
   - Discuss class cadence - Video Lessons to be viewed prior to Wednesday class & Assignments due on Saturday
      
-- [ ] **GitHub Assessment**
+- [x] **GitHub Assessment**
   - Complete [this](https://docs.google.com/forms/d/e/1FAIpQLSe8zGsKVqqL8pulsJSrxoh0jO_WQThD9iVjX7EruDcE2gz76Q/viewform) GitHub Assessment to verify retention of new vocabulary & concepts
  
 ----
 
 ## 3. Slack Overview (15 mins)
 
-- [ ] **Slack Best Practices**
+- [x] **Slack Best Practices**
     - Review of Tech-Moms [Slack Guidelines](https://docs.google.com/document/d/1g7nEFyEZe8AvSan-bbYAuvJorYvHSdoX55urAGQO_iI/edit?usp=sharing)
     - Link vs Hyperlink vs Remove Link Preview
     - Practice Activity
@@ -57,35 +58,39 @@ _click on the image above to access slides for this module_
 
 ## 4. What is Data Analytics? (15 minutes)
 
-- [X] **Definition of Data Analytics:**
+- [x] **Definition of Data Analytics:**
   - Explanation of data analytics as the process of examining data sets to draw conclusions about the information they contain.
   - Discuss the role of data analytics in decision-making, problem-solving, and driving business success. Example: using Geo data to find a centeral location for class.
 
-- [X] **Importance of Data Literacy:**
+- [x] **Importance of Data Literacy:**
   - Data literacy is a vital life skill, useful in various aspects of life, such as creating a personal budget, making informed decisions, and understanding trends.
 
-- [X] **Real-Life Examples:**
+- [x] **Real-Life Examples:**
   - Use examples such as budgeting, tracking expenses, and analyzing household data to show how data analytics can be applied in everyday life. Example: Using survey data to inform curriculm for this class. 
 
 ---
 
 ## 5. Roles in the Data Field (15 minutes)
 
-- [X] **Overview of Key Roles:**
+- [x] **Overview of Key Roles:**
+
   - **Data Analyst:** Focuses on interpreting data, analyzing results, and generating reports to help businesses make informed decisions.
   - **Data Scientist:** Uses advanced techniques, such as machine learning and statistical modeling, to predict future trends and solve complex problems.
   - **Data Engineer:** Develops, constructs, tests, and maintains data architectures (e.g., databases and large-scale processing systems).
   - **Analytics Engineer:** Bridges the gap between data engineering and data analysis by building scalable data pipelines and transforming data into a usable format.
   - **People Analyst:** Focuses on understanding and improving human resources practices by analyzing employee data, such as productivity, engagement, and retention.
 
-- [X] **Activity:**
+
+- [x] **Activity:**
+
   - Group discussion on which roles resonate most with participants and why.
 
 ---
 
 ## 6. Introduction to Data Visualizations (30 minutes)
 
-- [X] **Overview of Common Visualizations:**
+- [x] **Overview of Common Visualizations:**
+
   - **[Pie Chart](https://www.storytellingwithdata.com/blog/2020/5/14/what-is-a-pie-chart):** Best for showing proportions or percentages of a whole.
   - **[Bar Chart](https://www.storytellingwithdata.com/blog/2020/2/19/what-is-a-bar-chart):** Ideal for comparing different groups or categories.
   - **[Line Chart](https://www.storytellingwithdata.com/blog/2020/3/24/what-is-a-line-graph):** Useful for showing trends over time.
@@ -94,7 +99,11 @@ _click on the image above to access slides for this module_
 - [X] **When to Use Each Visualization:**
   - Discuss the scenarios where each type of chart is most effective.
 
-- [X] **Hands-On Activity:**
+- [x] **When to Use Each Visualization:**
+  - Discuss the scenarios where each type of chart is most effective.
+
+- [x] **Hands-On Activity:**
+
   - Make a copy of [this spreadsheet](https://docs.google.com/spreadsheets/d/1Wx1jsHZEqfdixNXH972T1NU4olafySPUwhrIbJ6sEAY/edit?usp=sharing) Google Sheets or download to use in Excel
   - Participants create simple visualizations using sample family budget data in Excel or Google Sheets.
      - Insert Pivot Table (new sheet), drag category to Rows, drag amount to Values. 
@@ -109,8 +118,9 @@ _click on the image above to access slides for this module_
 ## 7. Basic Statistics: Mean, Median, and Mode (30 minutes)
 
 - [X] [Bill Gates Walks Into a Bar](https://introductorystats.wordpress.com/2011/09/04/when-bill-gates-walks-into-a-bar/)
+ 
+- [x] **Definitions and Examples:**
 
-- [X] **Definitions and Examples:**
   - **Mean:** The average of a set of numbers.  
     Example: Calculating the average weekly grocery spend.
   - **Median:** The middle value in a set of numbers.  
@@ -118,14 +128,14 @@ _click on the image above to access slides for this module_
   - **Mode:** The most frequently occurring value in a set of numbers.  
     Example: Identifying the most common grocery item purchased.
 
-- [ ] **Application Exercise:**
+- [x] **Application Exercise:**
   - Participants calculate the mean, median, and mode using a provided data set (e.g., household expenses).
 
----
-
-## 7. Q&A and Closing (15 minutes)
+## 8. Q&A and Closing (15 minutes)
 
 - [X] **Open Floor for Questions:**
   - Address any questions or concerns from participants.
   
 - [X] **Closing Remarks:**
+
+
