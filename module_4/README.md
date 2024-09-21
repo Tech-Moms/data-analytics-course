@@ -68,6 +68,8 @@ In this video we'll complete a beginner project in Tableau, from start to finish
 * a hyper link to your dashboard
 * bullet points of your top 3 insights 
 
+halfwat
+
 
 
 
