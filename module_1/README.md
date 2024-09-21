@@ -128,4 +128,5 @@ _click on the image above to access slides for this module_
 - [X] **Open Floor for Questions:**
   - Address any questions or concerns from participants.
   
-- [X] **Closing Remarks:**
+- [x] **Closing Remarks:**
+
