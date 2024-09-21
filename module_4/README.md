@@ -63,7 +63,7 @@ In this video we'll complete a beginner project in Tableau, from start to finish
 
 - [x] Watch [this](https://www.youtube.com/watch?v=zOR0-nygfDE&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=5) video, follow along in Tableau, and mark when complete
 - [x] Publish your completed workbook to Tableau Public
-- [] Send an email to: data@tech-moms.org with: 
+- [x] Send an email to: data@tech-moms.org with: 
 * a screenshot of the dashboard in the body of an email
 * a hyper link to your dashboard
 * bullet points of your top 3 insights 
@@ -72,7 +72,7 @@ In this video we'll complete a beginner project in Tableau, from start to finish
 
 ## Bonus Assignment 
 
-- [ ] Using the Tech Moms Application Data, create a dashboard in Tableau & publish to Tableau Public. 
+- [] Using the Tech Moms Application Data, create a dashboard in Tableau & publish to Tableau Public. 
 
 
 
