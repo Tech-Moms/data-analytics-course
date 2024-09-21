@@ -18,7 +18,7 @@
 
 - **Objective:** Assess students' understanding of SQL concepts covered in previous lessons.
 - **Activity:**
-  - Distribute a short quiz with 3-5 multiple-choice or true/false questions on basic SQL topics (e.g., `SELECT` statements, `WHERE` clauses, simple functions like `COUNT` or `SUM`).
+  - Distribute a short quiz on SQL concepts via [google form](https://forms.gle/bvaLyU8M7vD7KNWt9). 
   - Allow students 5 minutes to complete the quiz.
   - Collect responses for a quick review or discuss answers after the quiz.
  
