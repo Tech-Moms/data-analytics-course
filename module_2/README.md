@@ -4,10 +4,9 @@
 
 _Edit the markdown file with an x in the checkbox when complete, then commit changes._
 
-- [X] Watch this 1-minute [video](https://app.screencastify.com/v3/watch/XJp2UYdVvVnFIFr2CjeA) about the next step
-- [X] Make a copy of the [Pre-Course Checklist Google Doc](https://docs.google.com/document/u/1/d/1DvkYSFrZkkCpClqdR6HO3zsEFOUPDAoqZliurV4QkzA/copy?usp=sharing) and complete
-- [X] Overview, Outcomes, and Video Lessons below
-
+- [x] Watch this 1-minute [video](https://app.screencastify.com/v3/watch/XJp2UYdVvVnFIFr2CjeA) about the next step
+- [x] Make a copy of the [Pre-Course Checklist Google Doc](https://docs.google.com/document/u/1/d/1DvkYSFrZkkCpClqdR6HO3zsEFOUPDAoqZliurV4QkzA/copy?usp=sharing) and complete
+- [x] Overview, Outcomes, and Video Lessons below
 
 ## Overview:
 
@@ -56,7 +55,6 @@ In this section, you will learn the importance of data cleaning as a foundationa
 - [x] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Data%20Cleaning%20Excel%20Tutorial.xlsx)
 - [x] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1EkdWcu_bYk6DgJ53HQcPxBlTPsKxtwgxM9EpK6Rp8lI/edit?usp=sharing)
 - [x] Complete the hands-on activity
-
 ---
 <img width="500" alt="Screenshot 2024-08-28 at 3 34 17 PM" src="https://github.com/user-attachments/assets/ecd71d2a-d435-44d8-be97-c8baad80300a">
 
@@ -68,7 +66,6 @@ This section introduces essential functions and formulas in Excel and Google She
 - [x] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Formula%20Excel%20Template.xlsx) 
 - [x] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1_m7bzlByhPAjYNglv_Vp6eK4sQxLVAaXDRAfp1yn7iw/edit?usp=sharing)
 - [x] Complete the hands-on activity
-
 
 ---
 
@@ -90,10 +87,10 @@ _Est. Time to Complete: (30 mins)_
 
 Visualizing data is a critical skill in data analytics. This section will guide students through the process of creating various types of charts, such as bar, line, and pie charts, to represent data clearly and effectively. Students will learn best practices for selecting the right chart type and formatting it to communicate their findings visually.
 
-- [X] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=HXkI655b-v2RuNvo&t=21589) and mark when complete
-- [X] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Charts%20Tutorial%20File.xlsx)
-- [X] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1JVPEzRH7ePeK0GaJZJK1SpfnlrDjWOLeQb_8z8vD10I/edit?usp=sharing)
-- [X] Complete the hands-on activity
+- [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=HXkI655b-v2RuNvo&t=21589) and mark when complete
+- [x] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Charts%20Tutorial%20File.xlsx)
+- [x] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1JVPEzRH7ePeK0GaJZJK1SpfnlrDjWOLeQb_8z8vD10I/edit?usp=sharing)
+- [x] Complete the hands-on activity
 
 ---
 
@@ -107,7 +104,6 @@ In the final section, students will learn how to bring together all the skills t
 - [x] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
 - [x] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1885w07YyzbRQqfIGHvJSftNU42rJVOUHpkWfNROLlbM/edit?usp=sharing)
 - [x] Complete the hands-on activity
-
 
 ----
 
