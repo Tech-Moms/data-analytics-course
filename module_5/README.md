@@ -55,4 +55,4 @@ In this video, you'll get an overview of Power BI design tricks and tips.
 * a screenshot of the dashboard in the body of an email
 * a hyper link to your dashboard
 * bullet points of your top 3 insights about the data 
-* bullet points of your top 3 takeaway about the difference between Tableau and Power BI 
+* bullet points of your top 3 takeaways about the difference between Tableau and Power BI 
