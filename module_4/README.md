@@ -72,7 +72,7 @@ In this video we'll complete a beginner project in Tableau, from start to finish
 
 ## Bonus Assignment 
 
-- [ ] Using the Tech Moms Application Data, create a dashboard in Tableau & publish to Tableau Public. 
+- [x] Using the Tech Moms Application Data, create a dashboard in Tableau & publish to Tableau Public. 
 
 
 
