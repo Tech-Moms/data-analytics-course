@@ -33,15 +33,25 @@ _Est. Time to Complete: 40 mins_
 In this video, you'll create your first Power BI dashboard and publish it online.
 
 - [ ] Watch [this](https://www.youtube.com/watch?v=c7LrqSxjJQQ) video, follow along in Power BI, and mark when complete
-- [ ] Download the csv file here
 
 ---
 
+<img width="450" alt="Power BI Design Tricks" src="https://github.com/user-attachments/assets/434f125b-69a9-4970-ac48-679ec57b7143">
+
+_Est. Time to Complete: 60 mins_
+
+In this video, you'll get an overview of Power BI design tricks and tips. 
+
+- [ ] Watch [this](https://www.youtube.com/watch?v=zaFTAT6_jCs) video 
+- [ ] Apply design tricks to your previously completed dashboard 
+
+
 ## Assignment #4 - Complete by class Saturday, September 28th
 
-- [ ] Use Power BI to connect to the Tech-Moms Application Data to create a dashboard 
+- [ ] Use Power BI OR Tableau to connect to the Tech-Moms Application Data to create a dashboard
+- [ ] Use design tips & tricks to make it pretty 💅
 - [ ] Publish your completed workbook 
-- [ ] Send an email to: data@tech-moms.org with: 
+- [ ] Send an email to data@tech-moms.org with: 
 * a screenshot of the dashboard in the body of an email
 * a hyper link to your dashboard
 * bullet points of your top 3 insights about the data 
