@@ -103,7 +103,7 @@ In the final section, students will learn how to bring together all the skills t
 - [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=Hu0HebxQCSzSWeR4&t=23762) and mark when complete
 - [ ] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
 - [x] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1885w07YyzbRQqfIGHvJSftNU42rJVOUHpkWfNROLlbM/edit?usp=sharing)
-- [ ] Complete the hands-on activity
+- [x] Complete the hands-on activity
 
 ----
 
@@ -123,7 +123,7 @@ _Estimated Time to Complete: 6 hours_
 
 <img width="1552" alt="Screenshot 2024-07-28 at 2 16 17 AM" src="https://github.com/user-attachments/assets/7f6d2d76-29a5-4cff-aec6-cd9ea680d4c3">
 
-- [ ] Complete [Assignment 1](https://github.com/Tech-Moms/data-analytics-course/blob/main/module_2/assignment_1/README.md) and mark when complete
+- [x] Complete [Assignment 1](https://github.com/Tech-Moms/data-analytics-course/blob/main/module_2/assignment_1/README.md) and mark when complete
 - [x] (Optional) [Watch Loom Tutorials](https://loom.com/share/folder/a406cdb0c9f54de6bbd9627527f14270) on Assignment 1 steps
 
 
