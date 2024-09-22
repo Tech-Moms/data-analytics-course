@@ -41,7 +41,7 @@ _click on the image above to access slides for this module_
 
 ## 3. Slack Overview (15 mins)
 
-- [ ] **Slack Best Practices**
+- [X] **Slack Best Practices**
     - Review of Tech-Moms [Slack Guidelines](https://docs.google.com/document/d/1g7nEFyEZe8AvSan-bbYAuvJorYvHSdoX55urAGQO_iI/edit?usp=sharing)
     - Link vs Hyperlink vs Remove Link Preview
     - Practice Activity
@@ -57,21 +57,21 @@ _click on the image above to access slides for this module_
 
 ## 4. What is Data Analytics? (15 minutes)
 
-- [ ] **Definition of Data Analytics:**
+- [x] **Definition of Data Analytics:**
   - Explanation of data analytics as the process of examining data sets to draw conclusions about the information they contain.
   - Discuss the role of data analytics in decision-making, problem-solving, and driving business success. Example: using Geo data to find a centeral location for class.
 
-- [ ] **Importance of Data Literacy:**
+- [X] **Importance of Data Literacy:**
   - Data literacy is a vital life skill, useful in various aspects of life, such as creating a personal budget, making informed decisions, and understanding trends.
 
-- [ ] **Real-Life Examples:**
+- [X] **Real-Life Examples:**
   - Use examples such as budgeting, tracking expenses, and analyzing household data to show how data analytics can be applied in everyday life. Example: Using survey data to inform curriculm for this class. 
 
 ---
 
 ## 5. Roles in the Data Field (15 minutes)
 
-- [ ] **Overview of Key Roles:**
+- [X] **Overview of Key Roles:**
   - **Data Analyst:** Focuses on interpreting data, analyzing results, and generating reports to help businesses make informed decisions.
   - **Data Scientist:** Uses advanced techniques, such as machine learning and statistical modeling, to predict future trends and solve complex problems.
   - **Data Engineer:** Develops, constructs, tests, and maintains data architectures (e.g., databases and large-scale processing systems).
@@ -85,13 +85,13 @@ _click on the image above to access slides for this module_
 
 ## 6. Introduction to Data Visualizations (30 minutes)
 
-- [ ] **Overview of Common Visualizations:**
+- [X] **Overview of Common Visualizations:**
   - **[Pie Chart](https://www.storytellingwithdata.com/blog/2020/5/14/what-is-a-pie-chart):** Best for showing proportions or percentages of a whole.
   - **[Bar Chart](https://www.storytellingwithdata.com/blog/2020/2/19/what-is-a-bar-chart):** Ideal for comparing different groups or categories.
   - **[Line Chart](https://www.storytellingwithdata.com/blog/2020/3/24/what-is-a-line-graph):** Useful for showing trends over time.
   - **[Scatter Plot](https://www.storytellingwithdata.com/blog/2020/5/27/what-is-a-scatterplot):** Best for examining relationships between two variables.
 
-- [ ] **When to Use Each Visualization:**
+- [X] **When to Use Each Visualization:**
   - Discuss the scenarios where each type of chart is most effective.
 
 - [ ] **Hands-On Activity:**
