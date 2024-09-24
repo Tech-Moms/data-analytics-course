@@ -50,7 +50,7 @@ _Est. Time to Complete: 30 mins_
 
 Learn how to use Joins in Tableau to combine data from multiple sources. We'll cover the different types of joins, how to set them up, and best practices for merging data to create more comprehensive visualizations.
 
-- [ ] Watch [this](https://www.youtube.com/watch?v=A4SVUF-fTwc&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=4) video, follow along in Tableau, and mark when complete
+- [X] Watch [this](https://www.youtube.com/watch?v=A4SVUF-fTwc&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=4) video, follow along in Tableau, and mark when complete
 
 ---
 ## Assignment #3 - Complete by class Saturday, September 21st
