@@ -1,4 +1,3 @@
-
 # Module 2: Excel and Google Sheets 
 
 ### Do Before Class:  
