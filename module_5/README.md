@@ -22,7 +22,7 @@ _Est. Time to Complete: 10 mins_
 
 In this video, you'll get an overview of Power BI and why to use it. 
 
-- [ ] Watch [this](https://www.youtube.com/watch?v=7ZMQZ0UUuTs&list=PLmHVyfmcRKyzp9Mu-C-Zx8CsPSPelaDR8&index=7) video, follow along in Power BI, and mark when complete
+- [X] Watch [this](https://www.youtube.com/watch?v=7ZMQZ0UUuTs&list=PLmHVyfmcRKyzp9Mu-C-Zx8CsPSPelaDR8&index=7) video, follow along in Power BI, and mark when complete
 
 ---
 
