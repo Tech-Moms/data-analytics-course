@@ -6,7 +6,7 @@ _Edit the markdown file with an x in the checkbox when complete, then commit cha
 
 - [x] Watch this 1-minute [video](https://app.screencastify.com/v3/watch/XJp2UYdVvVnFIFr2CjeA) about the next step
 - [x] Make a copy of the [Pre-Course Checklist Google Doc](https://docs.google.com/document/u/1/d/1DvkYSFrZkkCpClqdR6HO3zsEFOUPDAoqZliurV4QkzA/copy?usp=sharing) and complete
-- [ ] Overview, Outcomes, and Video Lessons below
+- [x] Overview, Outcomes, and Video Lessons below
 
 ## Overview:
 
@@ -88,7 +88,7 @@ _Est. Time to Complete: (30 mins)_
 Visualizing data is a critical skill in data analytics. This section will guide students through the process of creating various types of charts, such as bar, line, and pie charts, to represent data clearly and effectively. Students will learn best practices for selecting the right chart type and formatting it to communicate their findings visually.
 
 - [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=HXkI655b-v2RuNvo&t=21589) and mark when complete
-- [x] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Charts%20Tutorial%20File.xlsx)
+- [ ] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Charts%20Tutorial%20File.xlsx)
 - [x] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1JVPEzRH7ePeK0GaJZJK1SpfnlrDjWOLeQb_8z8vD10I/edit?usp=sharing)
 - [x] Complete the hands-on activity
 
@@ -124,8 +124,8 @@ _Estimated Time to Complete: 6 hours_
 <img width="1552" alt="Screenshot 2024-07-28 at 2 16 17 AM" src="https://github.com/user-attachments/assets/7f6d2d76-29a5-4cff-aec6-cd9ea680d4c3">
 
 
-- [ ] Complete [Assignment 1](https://github.com/Tech-Moms/data-analytics-course/blob/main/module_2/assignment_1/README.md) and mark when complete
-- [ ] (Optional) [Watch Loom Tutorials](https://loom.com/share/folder/a406cdb0c9f54de6bbd9627527f14270) on Assignment 1 steps
+- [x] Complete [Assignment 1](https://github.com/Tech-Moms/data-analytics-course/blob/main/module_2/assignment_1/README.md) and mark when complete
+- [x] (Optional) [Watch Loom Tutorials](https://loom.com/share/folder/a406cdb0c9f54de6bbd9627527f14270) on Assignment 1 steps
 
 
 
