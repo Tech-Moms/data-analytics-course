@@ -28,7 +28,7 @@ _Est. Time to Complete: 5 mins_
 
 SQL, or Structured Query Language, is a standard programming language used to manage and manipulate relational databases. It allows users to create, read, update, and delete data within a database, making it essential for tasks like data analysis, reporting, and backend development. SQL is widely used in various fields to efficiently handle large datasets, perform queries, and retrieve meaningful insights from data. It's a powerful tool for anyone working with data, from beginners to advanced users.
 
-- [ ] Watch [this](https://www.youtube.com/watch?v=27axs9dO7AE) video and mark when complete
+- [x] Watch [this](https://www.youtube.com/watch?v=27axs9dO7AE) video and mark when complete
 
 ---
 
@@ -38,7 +38,7 @@ _Est. Time to Complete: 5 mins_
 
 In SQL, the `SELECT` and `FROM` statements are fundamental for retrieving data from a database. The `SELECT` statement specifies the columns you want to retrieve, while the `FROM` statement indicates the table where the data is stored. For example, `SELECT name, age FROM users;` retrieves the "name" and "age" columns from the "users" table. These commands allow users to filter and view specific data, making them essential for data querying and analysis in SQL.
 
-- [ ] Watch [this](https://youtu.be/PSNXoAs2FtQ?si=jGa997jsmCZBWjog&t=1484) video and mark when complete
+- [x] Watch [this](https://youtu.be/PSNXoAs2FtQ?si=jGa997jsmCZBWjog&t=1484) video and mark when complete
 
 ----
 
@@ -48,7 +48,7 @@ _Est. Time to Complete: 8 mins_
 
 The `WHERE` clause in SQL is used to filter records in a query based on specified conditions. It allows you to retrieve only the rows that meet certain criteria, making your data more precise and relevant. For example, `SELECT * FROM employees WHERE department = 'Sales';` retrieves only the rows where the department is "Sales." The `WHERE` clause can use operators like `=`, `>`, `<`, `LIKE`, and `IN` to define the conditions, making it a powerful tool for refining queries and focusing on specific data subsets.
 
-- [ ] Watch [this](https://youtu.be/PSNXoAs2FtQ?si=3A8UCUkLOgGKQ3R_&t=1857) video and mark when complete
+- [x] Watch [this](https://youtu.be/PSNXoAs2FtQ?si=3A8UCUkLOgGKQ3R_&t=1857) video and mark when complete
 
 ---
 
@@ -60,7 +60,7 @@ In SQL, the `GROUP BY` and `ORDER BY` clauses are used to organize and sort data
 
 The `ORDER BY` clause sorts the query results based on specified columns, either in ascending (`ASC`) or descending (`DESC`) order. For example, `ORDER BY salary DESC` will sort the results by salary from highest to lowest. These clauses help in organizing data for clearer insights and analysis.
 
-- [ ] Watch [this](https://youtu.be/PSNXoAs2FtQ?si=vu1ueCAeZ9jVLMhT&t=2334) video and mark when complete
+- [x] Watch [this](https://youtu.be/PSNXoAs2FtQ?si=vu1ueCAeZ9jVLMhT&t=2334) video and mark when complete
 
 ## Hands-on Practice 
 
@@ -68,9 +68,9 @@ _Est. Time to Complete: 2 hours_
 
 <img width="500" alt="Screenshot 2024-08-29 at 9 54 48 PM" src="https://github.com/user-attachments/assets/fb429202-68af-4c09-b2c2-dabee5dff8a9">
 
-- [ ] Create a free [Codecademy](https://www.codecademy.com/) account
-- [ ] Complete this [Learn SQL: Aggregate Functions](https://www.codecademy.com/learn/learn-sql-aggregate-functions) course and mark when done
-- [ ] Complete this [Learn AI for SQL](https://www.codecademy.com/learn/learn-ai-for-sql) course and mark when done
+- [x] Create a free [Codecademy](https://www.codecademy.com/) account
+- [x] Complete this [Learn SQL: Aggregate Functions](https://www.codecademy.com/learn/learn-sql-aggregate-functions) course and mark when done
+- [x] Complete this [Learn AI for SQL](https://www.codecademy.com/learn/learn-ai-for-sql) course and mark when done
 
 ## Assignment #2:  
 
