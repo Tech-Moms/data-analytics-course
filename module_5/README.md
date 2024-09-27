@@ -54,4 +54,6 @@ In this video, you'll get an overview of Power BI design tricks and tips.
 - [ ] Add your insights to a slide deck - 1 chart per slide & titling the slide with your takeaway from that chart 
 - [ ] Send an email to data@tech-moms.org with your slidedeck & a short paragraph about the project 
 
+test
+
 
