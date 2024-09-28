@@ -44,10 +44,10 @@ Once you upload the data, you may notice that the data is not in the format that
 Cleaning and formatting data before running SQL queries is crucial because it ensures consistency, accuracy, and compatibility with SQL syntax. Raw data often contains inconsistencies like mixed date formats, extra spaces, missing values, or improperly named columns that can lead to errors or incorrect query results. 
 
 In your preferred spreadsheet tool, complete the following tasks: 
-- [ ] Standardize column names to be SQL-friendly (e.g., replacing spaces with underscores). Example: Edit `Contact ID` to be `Contact_ID`. Edit `Application Status` -> `Application_Status`
-- [ ] Convert data types where necessary, such as ensuring dates are in a proper datetime format. Example: Highlight the `create_date` column in your spreadsheet tool & Format -> Date
-- [ ] Download the new cleaned & formatted `.csv`
-- [ ] Re-upload the new cleaned & formatted `.csv` to Deep Note
+- [x] Standardize column names to be SQL-friendly (e.g., replacing spaces with underscores). Example: Edit `Contact ID` to be `Contact_ID`. Edit `Application Status` -> `Application_Status`
+- [x] Convert data types where necessary, such as ensuring dates are in a proper datetime format. Example: Highlight the `create_date` column in your spreadsheet tool & Format -> Date
+- [x] Download the new cleaned & formatted `.csv`
+- [x] Re-upload the new cleaned & formatted `.csv` to Deep Note
 
 Now you are ready to run some queries and analyze the data in SQL. 
 
@@ -58,7 +58,7 @@ Note: to skip this step you can use the cleaned tech moms application data [here
 Use Deep Note's built-in SQL editor to explore the dataset and answer the following questions:
 
 1. **How many applications has Tech Moms received?** 
-   - [ ]  Write a query to count the total number of applications. (as of the end of July)
+   - [x]  Write a query to count the total number of applications. (as of the end of July)
    - Example SQL:
      
     ```
@@ -69,7 +69,7 @@ Use Deep Note's built-in SQL editor to explore the dataset and answer the follow
     ```
 
 2. **How many applications were assigned a cohort?** 
-   - [ ] Determine how many applicants were successfully assigned to a cohort. (as of the end of July)
+   - [x] Determine how many applicants were successfully assigned to a cohort. (as of the end of July)
    - Example SQL:
    
    ```
@@ -81,7 +81,7 @@ Use Deep Note's built-in SQL editor to explore the dataset and answer the follow
    ```
 
 3. **How many children are supported through Tech Moms programs?** 
-   - [ ] Find out the total number of children supported by the Tech Moms programs using the available data. (as of the end of July)
+   - [x] Find out the total number of children supported by the Tech Moms programs using the available data. (as of the end of July)
    - Example SQL:
 
    ```
@@ -96,11 +96,11 @@ Use Deep Note's built-in SQL editor to explore the dataset and answer the follow
 Note: Your numbers here should match your Excel/Google Sheets analysis. 
      
 4. **Etc** 
-     - [ ] Answer at least 10 additional questions using SQL
+     - [x] Answer at least 10 additional questions using SQL
 
 ## Step 3: Submission
 
-- [ ] Email a [link](https://deepnote.com/workspace/tech-moms-c74a-218b9a89-8e00-4dd9-a40f-fc1925d77d85/project/Tech-Moms-Exploratory-Analysis-fbfb3a5b-034a-4d0c-92d8-005c72020634/notebook/Alyson's%20Tech%20Moms%20Data%20Analysis-acff3488e9ba4193b5fed69fee62b822) to your deep note notebook to data@tech-moms.org
+- [x] Email a [link](https://deepnote.com/workspace/tech-moms-c74a-218b9a89-8e00-4dd9-a40f-fc1925d77d85/project/Tech-Moms-Exploratory-Analysis-fbfb3a5b-034a-4d0c-92d8-005c72020634/notebook/Alyson's%20Tech%20Moms%20Data%20Analysis-acff3488e9ba4193b5fed69fee62b822) to your deep note notebook to data@tech-moms.org
 
 #### How to Share a Deep Note Link:
 
