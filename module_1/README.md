@@ -61,7 +61,7 @@ _click on the image above to access slides for this module_
   - Explanation of data analytics as the process of examining data sets to draw conclusions about the information they contain.
   - Discuss the role of data analytics in decision-making, problem-solving, and driving business success. Example: using Geo data to find a centeral location for class.
 
-- [ ] **Importance of Data Literacy:**
+- [x] **Importance of Data Literacy:**
   - Data literacy is a vital life skill, useful in various aspects of life, such as creating a personal budget, making informed decisions, and understanding trends.
 
 - [x] **Real-Life Examples:**
