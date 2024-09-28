@@ -51,4 +51,8 @@ In this video, you'll get an overview of Power BI design tricks and tips.
 - [ ] Use Power BI OR Tableau to connect to the Tech-Moms Application Data to create a dashboard
 - [ ] Publish your completed workbook
 - [ ] Add your insights to a slide deck - 1 chart per slide & titling the slide with your takeaway from that chart 
-- [ ] Send an email to data@tech-moms.org with your slidedeck & a short paragraph about the project 
+- [ ] Send an email to data@tech-moms.org with your slidedeck & a short paragraph about the project
+- [ ] Be prepared to present your data story to the group :) 
+
+* Example slide Deck - [Tech-Moms Geo Analysis](https://docs.google.com/presentation/d/19rwp7Lh5pkN0_ld-0IWYK0g59xyVvb7poJbDb0662BM/edit?usp=sharing)
+
