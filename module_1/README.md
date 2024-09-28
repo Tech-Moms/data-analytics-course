@@ -16,20 +16,20 @@ To provide an overview of data analytics, introduce different roles within the d
 
 _click on the image above to access slides for this module_
 
-- [x] **Welcome Remarks:**
+- [ ] **Welcome Remarks:**
   - Brief introduction to the course and its goals.
   - Acknowledge the unique position of moms returning to work or changing careers and the value of upskilling in data analytics.
   - Setting yourself up for success - Tech Moms Co-founders 
   
 
-- [x] **Icebreaker Activity:**
+- [ ] **Icebreaker Activity:**
   - Participants introduce themselves and share why they are interested in learning about data analytics.
 
 ---
 
 ## 2. GitHub Orientation (30 mins)
 
-- [x] **How We Will Use GitHub in our Course**
+- [ ] **How We Will Use GitHub in our Course**
   - Fork (make a copy of) the Tech Moms Data Analytics Course Repository 
   - Discuss how to navigate the modules & edit READMEs to mark off tasks as complete
   - Discuss class cadence - Video Lessons to be viewed prior to Wednesday class & Assignments due on Saturday
@@ -57,14 +57,14 @@ _click on the image above to access slides for this module_
 
 ## 4. What is Data Analytics? (15 minutes)
 
-- [x] **Definition of Data Analytics:**
+- [ ] **Definition of Data Analytics:**
   - Explanation of data analytics as the process of examining data sets to draw conclusions about the information they contain.
   - Discuss the role of data analytics in decision-making, problem-solving, and driving business success. Example: using Geo data to find a centeral location for class.
 
-- [x] **Importance of Data Literacy:**
+- [ ] **Importance of Data Literacy:**
   - Data literacy is a vital life skill, useful in various aspects of life, such as creating a personal budget, making informed decisions, and understanding trends.
 
-- [x] **Real-Life Examples:**
+- [ ] **Real-Life Examples:**
   - Use examples such as budgeting, tracking expenses, and analyzing household data to show how data analytics can be applied in everyday life. Example: Using survey data to inform curriculm for this class. 
 
 ---
@@ -128,4 +128,4 @@ _click on the image above to access slides for this module_
 - [ ] **Open Floor for Questions:**
   - Address any questions or concerns from participants.
   
-- [ ] **Closing Remarks:**
+- [x] **Closing Remarks:**

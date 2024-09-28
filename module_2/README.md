@@ -4,9 +4,9 @@
 
 _Edit the markdown file with an x in the checkbox when complete, then commit changes._
 
-- [x] Watch this 1-minute [video](https://app.screencastify.com/v3/watch/XJp2UYdVvVnFIFr2CjeA) about the next step
-- [x] Make a copy of the [Pre-Course Checklist Google Doc](https://docs.google.com/document/u/1/d/1DvkYSFrZkkCpClqdR6HO3zsEFOUPDAoqZliurV4QkzA/copy?usp=sharing) and complete
-- [x] Overview, Outcomes, and Video Lessons below
+- [ ] Watch this 1-minute [video](https://app.screencastify.com/v3/watch/XJp2UYdVvVnFIFr2CjeA) about the next step
+- [ ] Make a copy of the [Pre-Course Checklist Google Doc](https://docs.google.com/document/u/1/d/1DvkYSFrZkkCpClqdR6HO3zsEFOUPDAoqZliurV4QkzA/copy?usp=sharing) and complete
+- [ ] Overview, Outcomes, and Video Lessons below
 
 ## Overview:
 
@@ -123,8 +123,10 @@ _Estimated Time to Complete: 6 hours_
 
 <img width="1552" alt="Screenshot 2024-07-28 at 2 16 17 AM" src="https://github.com/user-attachments/assets/7f6d2d76-29a5-4cff-aec6-cd9ea680d4c3">
 
+
 - [ ] Complete [Assignment 1](https://github.com/Tech-Moms/data-analytics-course/blob/main/module_2/assignment_1/README.md) and mark when complete
 - [ ] (Optional) [Watch Loom Tutorials](https://loom.com/share/folder/a406cdb0c9f54de6bbd9627527f14270) on Assignment 1 steps
+
 
 
 
