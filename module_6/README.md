@@ -21,7 +21,7 @@ _Watch the videos below, edit the markdown file with an x in the checkbox when c
 _Estimated total time to complete: 1 hour_
 
 - [ ] Watch [this](https://youtu.be/AaiPFcBDgtk?si=e9VhNCEiZauixPNh&t=1) video and mark when complete
-- [ ] Follow along in Google Looker Data Studio to create your first Looker Dashboard
+- [ ] Follow along in [Google Looker Data Studio](https://lookerstudio.google.com/) to create your first Looker Dashboard
 
 ----
 
@@ -29,7 +29,7 @@ _Estimated total time to complete: 1 hour_
 
 _Estimated total time to complete: 4 hours_
 
-- [ ] Watch [this](https://www.youtube.com/watch?v=fJY49PnJMjg) video and mark when complete
+- [ ] Watch [this](https://www.youtube.com/watch?v=dsAVSsdYC10&t=1s) video and mark when complete
 - [ ] Follow along in Google Looker Data Studio  
 
 ## Assignment #5 - Complete by class Saturday
