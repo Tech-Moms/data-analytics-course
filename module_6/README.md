@@ -20,7 +20,7 @@ _Watch the videos below, edit the markdown file with an x in the checkbox when c
 
 _Estimated total time to complete: 1 hour_
 
-- [ ] Watch [this](https://youtu.be/AaiPFcBDgtk?si=pJDKasdm7iCG2F5z) video and mark when complete
+- [ ] Watch [this](https://youtu.be/AaiPFcBDgtk?si=e9VhNCEiZauixPNh&t=1) video and mark when complete
 - [ ] Follow along in Google Looker Data Studio to create your first Looker Dashboard
 
 ----
