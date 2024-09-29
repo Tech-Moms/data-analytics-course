@@ -22,7 +22,7 @@ _Est. Time to Complete: 10 mins_
 
 In this video, you'll get an overview of Power BI and why to use it. 
 
-- [ ] Watch [this](https://www.youtube.com/watch?v=7ZMQZ0UUuTs&list=PLmHVyfmcRKyzp9Mu-C-Zx8CsPSPelaDR8&index=7) video, follow along in Power BI, and mark when complete
+- [X] Watch [this](https://www.youtube.com/watch?v=7ZMQZ0UUuTs&list=PLmHVyfmcRKyzp9Mu-C-Zx8CsPSPelaDR8&index=7) video, follow along in Power BI, and mark when complete
 
 ---
 
@@ -32,7 +32,7 @@ _Est. Time to Complete: 40 mins_
 
 In this video, you'll create your first Power BI dashboard and publish it online.
 
-- [ ] Watch [this](https://www.youtube.com/watch?v=c7LrqSxjJQQ) video, follow along in Power BI, and mark when complete
+- [X] Watch [this](https://www.youtube.com/watch?v=c7LrqSxjJQQ) video, follow along in Power BI, and mark when complete
 
 ---
 
@@ -42,17 +42,17 @@ _Est. Time to Complete: 60 mins_
 
 In this video, you'll get an overview of Power BI design tricks and tips. 
 
-- [ ] Watch [this](https://www.youtube.com/watch?v=zaFTAT6_jCs) video 
-- [ ] Apply design tricks to your previously completed dashboard 
+- [X] Watch [this](https://www.youtube.com/watch?v=zaFTAT6_jCs) video 
+- [X] Apply design tricks to your previously completed dashboard 
 
 
 ## Assignment #4 - Complete by class Saturday, September 28th
 
-- [ ] Use Power BI OR Tableau to connect to the Tech-Moms Application Data to create a dashboard
-- [ ] Publish your completed workbook
-- [ ] Add your insights to a slide deck - 1 chart per slide & titling the slide with your takeaway from that chart 
-- [ ] Send an email to data@tech-moms.org with your slidedeck & a short paragraph about the project
-- [ ] Be prepared to present your data story to the group :) 
+- [X] Use Power BI OR Tableau to connect to the Tech-Moms Application Data to create a dashboard
+- [X] Publish your completed workbook
+- [X] Add your insights to a slide deck - 1 chart per slide & titling the slide with your takeaway from that chart 
+- [X] Send an email to data@tech-moms.org with your slidedeck & a short paragraph about the project
+- [X] Be prepared to present your data story to the group :) 
 
 * Example slide Deck - [Tech-Moms Geo Analysis](https://docs.google.com/presentation/d/19rwp7Lh5pkN0_ld-0IWYK0g59xyVvb7poJbDb0662BM/edit?usp=sharing)
 
