@@ -22,7 +22,7 @@ _Est. Time to Complete: 10 mins_
 
 In this video, you'll get an overview of Power BI and why to use it. 
 
-- [x] Watch [this](https://www.youtube.com/watch?v=7ZMQZ0UUuTs&list=PLmHVyfmcRKyzp9Mu-C-Zx8CsPSPelaDR8&index=7) video, follow along in Power BI, and mark when complete
+- [ ] Watch [this](https://www.youtube.com/watch?v=7ZMQZ0UUuTs&list=PLmHVyfmcRKyzp9Mu-C-Zx8CsPSPelaDR8&index=7) video, follow along in Power BI, and mark when complete
 
 ---
 
@@ -48,8 +48,8 @@ In this video, you'll get an overview of Power BI design tricks and tips.
 
 ## Assignment #4 - Complete by class Saturday, September 28th
 
-- [x] Use Power BI OR Tableau to connect to the Tech-Moms Application Data to create a dashboard
-- [x] Publish your completed workbook
+- [ ] Use Power BI OR Tableau to connect to the Tech-Moms Application Data to create a dashboard
+- [ ] Publish your completed workbook
 - [ ] Add your insights to a slide deck - 1 chart per slide & titling the slide with your takeaway from that chart 
 - [ ] Send an email to data@tech-moms.org with your slidedeck & a short paragraph about the project
 - [ ] Be prepared to present your data story to the group :) 
