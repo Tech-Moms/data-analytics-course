@@ -28,7 +28,7 @@ _Est. Time to Complete: 5 mins_
 
 SQL, or Structured Query Language, is a standard programming language used to manage and manipulate relational databases. It allows users to create, read, update, and delete data within a database, making it essential for tasks like data analysis, reporting, and backend development. SQL is widely used in various fields to efficiently handle large datasets, perform queries, and retrieve meaningful insights from data. It's a powerful tool for anyone working with data, from beginners to advanced users.
 
-- [ ] Watch [this](https://www.youtube.com/watch?v=27axs9dO7AE) video and mark when complete
+- [x] Watch [this](https://www.youtube.com/watch?v=27axs9dO7AE) video and mark when complete
 
 ---
 
@@ -38,7 +38,7 @@ _Est. Time to Complete: 5 mins_
 
 In SQL, the `SELECT` and `FROM` statements are fundamental for retrieving data from a database. The `SELECT` statement specifies the columns you want to retrieve, while the `FROM` statement indicates the table where the data is stored. For example, `SELECT name, age FROM users;` retrieves the "name" and "age" columns from the "users" table. These commands allow users to filter and view specific data, making them essential for data querying and analysis in SQL.
 
-- [ ] Watch [this](https://youtu.be/PSNXoAs2FtQ?si=jGa997jsmCZBWjog&t=1484) video and mark when complete
+- [x] Watch [this](https://youtu.be/PSNXoAs2FtQ?si=jGa997jsmCZBWjog&t=1484) video and mark when complete
 
 ----
 
