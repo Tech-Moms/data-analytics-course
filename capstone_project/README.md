@@ -6,16 +6,16 @@ The capstone project for our data analytics course offers a practical, hands-on 
 
 ## Project Process
 
-  - [x] **Project Introduction:**  
+  - [ ] **Project Introduction:**  
    Each student will identify and reach out to a local business or non-profit organization to offer their data analysis services. This will involve an interview with the client to understand the data needs of the organization and decide on a project that could help them make data-driven decisions. This will be introduced during a class session where students can discuss their potential projects and approach.
 
-  - [x]  **Project Execution:**  
+  - [ ]  **Project Execution:**  
    Once the business or non-profit agrees, students will collect the relevant data and begin their analysis. This phase should take approximately two weeks, during which students will apply the skills learned in the course, including data cleaning, analysis, and visualization.
 
-- [x]  **Presentation:**  
+- [ ]  **Presentation:**  
    After completing the analysis, students will set up a call with the business or non-profit to present their findings. The presentation should include a clear explanation of the analysis performed, key insights, and any visualizations created (such as dashboards or charts).
 
-- [x]  **Feedback and Refinement:**  
+- [ ]  **Feedback and Refinement:**  
    Following the presentation, students will gather feedback from the organization. If any adjustments or refinements are needed, students will have a short period to make these changes and deliver the final product.
 
 ## Project Goals
