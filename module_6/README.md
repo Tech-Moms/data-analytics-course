@@ -16,40 +16,6 @@ In this module, students will explore Looker, a powerful business intelligence t
 
 _Watch the videos below, edit the markdown file with an x in the checkbox when complete, then commit changes._
 
-<img width="750" alt="Screenshot 2024-09-26 at 2 27 49 PM" src="https://github.com/user-attachments/assets/eb4df28f-906d-40ad-80a4-4e865d2cc5e6">
-
-_Estimated total time to complete: 5 mins_
-
-- [ ] Watch [this](https://www.youtube.com/watch?v=o2dq858V0TY) video and mark when complete
-
----
-
-<img width="750" alt="Screenshot 2024-09-26 at 2 30 35 PM" src="https://github.com/user-attachments/assets/713a6b6f-68dd-44fa-bb3d-336046b46602">
-
-_Estimated total time to complete: 30 mins_ 
-
-- [ ] Watch [this](https://www.youtube.com/watch?v=wA4j8r4Igks) video and mark when complete
-
-----
-
-<img width="750" alt="Screenshot 2024-09-26 at 2 30 35 PM" src="https://github.com/user-attachments/assets/c35a5cf2-54e5-483f-91ba-b032efe343d5">
-
-_Estimated total time to complete: 30 mins_ 
-
-- [ ] Watch [this](https://www.youtube.com/watch?v=jgN33FmKc38) video and mark when complete
-
----
-
-<img width="750" alt="Screenshot 2024-09-26 at 2 30 35 PM" src="https://github.com/user-attachments/assets/c35a5cf2-54e5-483f-91ba-b032efe343d5">
-
-_Estimated total time to complete: 60 mins_ 
-
-- [ ] Watch [this](https://www.youtube.com/watch?v=jgN33FmKc38) video and mark when complete (Part I)
-- [ ] Watch [this](https://www.youtube.com/watch?v=bgSL5wy_QXQ) video and mark when complete (Part II) 
-
----
-
-
 <img width="750" alt="Screenshot 2024-09-26 at 2 21 42 PM" src="https://github.com/user-attachments/assets/760a1cad-df07-470a-b134-620873e239c9">
 
 _Estimated total time to complete: 1 hour_
@@ -68,7 +34,7 @@ _Estimated total time to complete: 4 hours_
 
 ## Assignment #5 - Complete by class Saturday
 
-- [ ] Analyze (anonymized) Tech-Moms Survey Data in Looker
+- [ ] Analyze (anonymized) [Tech-Moms Survey Data](https://docs.google.com/spreadsheets/d/1Rf9-nhBHtUWr0t4c0paNZaaJhFpDMU8lAIbeBR_uk0Q/edit?usp=sharing) in Looker
 - [ ] Choose how you would like to share your findings to data@tech-moms.org:
 - Dashboard with bullet points of insights
 - Slide Deck
