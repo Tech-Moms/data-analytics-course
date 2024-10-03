@@ -1,7 +1,6 @@
 # Lesson Plan for Data Analytics Class (7:00 pm - 9:00 pm)
 
 ## 7:00 - 7:15 pm: Welcome & Networking
-- **Objective:** Ease students into the session, allowing them to connect and warm up before the technical content.
 - **Prompt:** "Share one example where data helped you make a decision in your personal or professional life. What was the data and how did it impact your decision?"
 
 ---
