@@ -12,10 +12,8 @@
   1. **Dashboard Overview:** Recap the purpose of a dashboard and why it's critical for decision-making.
   2. **Creating Metrics:** Guide students on how to define key metrics relevant to their dataset.
   3. **Building Visualizations:** Show how to create different types of charts (e.g., bar charts, pie charts, line graphs) in Looker.
-  4. **Filtering and Segmentation:** Explain how to use filters and segments to make dashboards dynamic and customizable.
   5. **Sharing & Collaboration:** Demonstrate how to share dashboards and collaborate with stakeholders.
-  
-- **Hands-On Activity:** Encourage students to build their own dashboard using a provided dataset, allowing time for questions and troubleshooting.
+
 
 ---
 
