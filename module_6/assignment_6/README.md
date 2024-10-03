@@ -65,7 +65,13 @@ Highlight some quotes from this section to include in your final deliverable.
 2. Slide Deck
 3. Written Report
 
-### Step Four: Ship it! 
+### Step Four: Make it Aesthetic 💅
+
+- [ ] Evaluate the current dashboard and make some decisions on what would make the dashboard more aesthetically pleasing.
+- [ ] Consider using the Tech-Moms logo 
+- [ ] Use Tech-Moms’ brand colors
+
+### Step Five: Ship it! 
 
 - [ ] Send an email to data@tech-moms.org with your final project.
 - [ ] 🎉 Celebrate! You are helping Tech-Moms with a real-world project. 
