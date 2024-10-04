@@ -28,7 +28,7 @@ The first step in any data analytics projects is to get to know your data. What 
 
 ### Step Two: Analyze the Data 
 
-- [ ] Make a list of the questions to answer with this year analysis. 
+- [x] Make a list of the questions to answer with this year analysis. 
 
 ### Quantitative Analysis: 
 
