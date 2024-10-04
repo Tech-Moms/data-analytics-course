@@ -1,10 +1,11 @@
 # Lesson Plan for Data Analytics Class (7:00 pm - 9:00 pm)
 
 ## 7:00 - 7:15 pm: Welcome & Networking
-- **Objective:** Ease students into the session, allowing them to connect and warm up before the technical content.
 - **Prompt:** "Share one example where data helped you make a decision in your personal or professional life. What was the data and how did it impact your decision?"
 
 ---
+
+Module 5 Feedback: https://forms.gle/46zLzQHjw2iBTovr8 
 
 ## 7:15 - 8:00 pm: Review – Making a Dashboard in Looker
 - **Objective:** Reinforce dashboard-building skills in Looker, focusing on hands-on learning.
@@ -12,10 +13,8 @@
   1. **Dashboard Overview:** Recap the purpose of a dashboard and why it's critical for decision-making.
   2. **Creating Metrics:** Guide students on how to define key metrics relevant to their dataset.
   3. **Building Visualizations:** Show how to create different types of charts (e.g., bar charts, pie charts, line graphs) in Looker.
-  4. **Filtering and Segmentation:** Explain how to use filters and segments to make dashboards dynamic and customizable.
   5. **Sharing & Collaboration:** Demonstrate how to share dashboards and collaborate with stakeholders.
-  
-- **Hands-On Activity:** Encourage students to build their own dashboard using a provided dataset, allowing time for questions and troubleshooting.
+
 
 ---
 
