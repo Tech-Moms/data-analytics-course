@@ -18,7 +18,7 @@ Your deliverable will be an analysis of the Tech-Moms survey data in the format 
 ### Step One: Get to Know & Clean the Data
 
 - [x] (Optional) Watch [Loom](https://www.loom.com/share/4038b5ef09a74bcba1d05de09aa8f0b7) part I & mark when complete
-- [ ] (Optional) Watch [Loom](https://www.loom.com/share/61d0bf36e3f8495dbb9db7cdfd1cc41d?sid=42dc15f2-6390-4eb5-b74f-7d8e909d40f4) part II & mark when complete
+- [x] (Optional) Watch [Loom](https://www.loom.com/share/61d0bf36e3f8495dbb9db7cdfd1cc41d?sid=42dc15f2-6390-4eb5-b74f-7d8e909d40f4) part II & mark when complete
 
 ### Step Two: Analyze the Data 
 
