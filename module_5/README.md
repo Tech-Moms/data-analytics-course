@@ -49,6 +49,6 @@ In this video, you'll get an overview of Power BI design tricks and tips.
 ## Assignment #4 - Complete by class Saturday, September 28th
 
 - [x] Use Power BI OR Tableau to connect to the Tech-Moms Application Data to create a dashboard
-- [ ] Publish your completed workbook
-- [ ] Add your insights to a slide deck - 1 chart per slide & titling the slide with your takeaway from that chart 
-- [ ] Send an email to data@tech-moms.org with your slidedeck & a short paragraph about the project 
+- [x] Publish your completed workbook
+- [x] Add your insights to a slide deck - 1 chart per slide & titling the slide with your takeaway from that chart 
+- [x] Send an email to data@tech-moms.org with your slidedeck & a short paragraph about the project 
