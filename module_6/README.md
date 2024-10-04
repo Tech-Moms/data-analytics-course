@@ -29,8 +29,8 @@ _Estimated total time to complete: 1 hour_
 
 _Estimated total time to complete: 4 hours_
 
-- [ ] Watch [this](https://www.youtube.com/watch?v=dsAVSsdYC10&t=1s) video and mark when complete
-- [ ] Follow along in Google Looker Data Studio  
+- [X] Watch [this](https://www.youtube.com/watch?v=dsAVSsdYC10&t=1s) video and mark when complete
+- [X] Follow along in Google Looker Data Studio  
 
 ## Assignment #5 - Complete by class Saturday
 
