@@ -59,7 +59,7 @@ Highlight some quotes from this section to include in your final deliverable.
 
 ### Step Three: Present the Data 
 
-- [ ] Using Google Sheets/Excel + Looker to analyze the qualitative and quantitative data.
+- [x] Using Google Sheets/Excel + Looker to analyze the qualitative and quantitative data.
 - [ ] Choose how you would like to share your analysis with leadership:
 1. Dashboard
 2. Slide Deck
