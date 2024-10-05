@@ -19,7 +19,7 @@ Your deliverable will be an analysis of the Tech-Moms survey data in the format 
 
 The first step in any data analytics projects is to get to know your data. What are the columns and types of data you are working with? 
 
-- [ ] Make a copy of the anonymized [Tech-Moms Annual Survey Data](https://docs.google.com/spreadsheets/d/1Rf9-nhBHtUWr0t4c0paNZaaJhFpDMU8lAIbeBR_uk0Q/edit?usp=sharing) in Google Sheets or download it to Excel
+- [x] Make a copy of the anonymized [Tech-Moms Annual Survey Data](https://docs.google.com/spreadsheets/d/1Rf9-nhBHtUWr0t4c0paNZaaJhFpDMU8lAIbeBR_uk0Q/edit?usp=sharing) in Google Sheets or download it to Excel
 - [ ] Make a Data Dictionary in another tab and review the columns. Add definitions where it makes sense or notes on what column you will use in your analysis.
 - [ ] Review the 2023 Tech-Moms Annual Report to see what was reported on last year & what you will need to report on this year 
 
