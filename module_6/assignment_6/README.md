@@ -28,7 +28,7 @@ The first step in any data analytics projects is to get to know your data. What 
 
 ### Step Two: Analyze the Data 
 
-- [ ] Make a list of the questions to answer with this year analysis. 
+- [x] Make a list of the questions to answer with this year analysis. 
 
 ### Quantitative Analysis: 
 
@@ -59,7 +59,7 @@ Highlight some quotes from this section to include in your final deliverable.
 
 ### Step Three: Present the Data 
 
-- [ ] Using Google Sheets/Excel + Looker to analyze the qualitative and quantitative data.
+- [x] Using Google Sheets/Excel + Looker to analyze the qualitative and quantitative data.
 - [ ] Choose how you would like to share your analysis with leadership:
 1. Dashboard
 2. Slide Deck
