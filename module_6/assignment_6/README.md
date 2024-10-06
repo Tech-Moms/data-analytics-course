@@ -59,22 +59,22 @@ Highlight some quotes from this section to include in your final deliverable.
 
 ### Step Three: Present the Data 
 
-- [ ] Using Google Sheets/Excel + Looker to analyze the qualitative and quantitative data.
-- [ ] Choose how you would like to share your analysis with leadership:
+- [x] Using Google Sheets/Excel + Looker to analyze the qualitative and quantitative data.
+- [x] Choose how you would like to share your analysis with leadership:
 1. Dashboard
 2. Slide Deck
 3. Written Report
 
 ### Step Four: Make it Aesthetic 💅
 
-- [ ] Evaluate the current dashboard and make some decisions on what would make the dashboard more aesthetically pleasing.
-- [ ] Consider using the Tech-Moms logo 
-- [ ] Use Tech-Moms’ brand colors
+- [x] Evaluate the current dashboard and make some decisions on what would make the dashboard more aesthetically pleasing.
+- [x] Consider using the Tech-Moms logo 
+- [x] Use Tech-Moms’ brand colors
 
 ### Step Five: Ship it! 
 
-- [ ] Send an email to data@tech-moms.org with your final project.
-- [ ] 🎉 Celebrate! You are helping Tech-Moms with a real-world project. 
+- [x] Send an email to data@tech-moms.org with your final project.
+- [x] 🎉 Celebrate! You are helping Tech-Moms with a real-world project. 
 
 
 
