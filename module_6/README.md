@@ -34,8 +34,8 @@ _Estimated total time to complete: 4 hours_
 
 ## Assignment #5 - Complete by class Saturday
 
-- [ ] Analyze (anonymized) [Tech-Moms Survey Data](https://docs.google.com/spreadsheets/d/1Rf9-nhBHtUWr0t4c0paNZaaJhFpDMU8lAIbeBR_uk0Q/edit?usp=sharing) in Looker
-- [ ] Choose how you would like to share your findings to data@tech-moms.org:
+- [x] Analyze (anonymized) [Tech-Moms Survey Data](https://docs.google.com/spreadsheets/d/1Rf9-nhBHtUWr0t4c0paNZaaJhFpDMU8lAIbeBR_uk0Q/edit?usp=sharing) in Looker
+- [x] Choose how you would like to share your findings to data@tech-moms.org:
 - Dashboard with bullet points of insights
 - Slide Deck
 - Written Report
