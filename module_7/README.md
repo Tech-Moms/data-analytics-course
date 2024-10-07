@@ -6,7 +6,7 @@ Using our class format  - find a series of video lessons and watch and complete 
 
 - [ ] Curate the videos you watched for your topic of choice and add here under "Video Lessons".
 - [ ] Looker Studio tutorial- (https://www.youtube.com/watch?v=mYet7g4CvFQ)
-- [ ] Ideas for videos could be Alex the Analyst videos on advanced excel topics, intermidiate SQL, or intro to Python from his [Data Analytics Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ) series.
+- [ ] Alex the Analyst-Python for Beginners- (https://www.youtube.com/watch?v=WUeBzT43JyY&list=PLUaB-1hjhk8GHKfndKjyDMHPg_HlQ4vpK)- [ ] Ideas for videos could be Alex the Analyst videos on advanced excel topics, intermidiate SQL, or intro to Python from his [Data Analytics Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ) series.
 
 # Assignment: 
 
