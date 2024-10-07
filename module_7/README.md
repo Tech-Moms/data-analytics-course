@@ -4,9 +4,10 @@ This week is "Choose Your Adventure" week where you go deeper on a topic of your
 Using our class format  - find a series of video lessons and watch and complete them. Then choose a data set and analyze it in your prefered tool, leveraging the video lesson you watched to complete the assignment. 
 # Video Lessons: 
 
-- [ ] Curate the videos you watched for your topic of choice and add here under "Video Lessons".
+- [x] Curate the videos you watched for your topic of choice and add here under "Video Lessons".
 - [ ] Looker Studio tutorial- (https://www.youtube.com/watch?v=mYet7g4CvFQ)
-- [ ] Alex the Analyst-Python for Beginners- (https://www.youtube.com/watch?v=WUeBzT43JyY&list=PLUaB-1hjhk8GHKfndKjyDMHPg_HlQ4vpK)- [ ] Ideas for videos could be Alex the Analyst videos on advanced excel topics, intermidiate SQL, or intro to Python from his [Data Analytics Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ) series.
+- [x] Alex the Analyst-Python for Beginners- (https://www.youtube.com/watch?v=WUeBzT43JyY&list=PLUaB-1hjhk8GHKfndKjyDMHPg_HlQ4vpK)
+- [x] Ideas for videos could be Alex the Analyst videos on advanced excel topics, intermidiate SQL, or intro to Python from his [Data Analytics Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ) series.
 
 # Assignment: 
 
