@@ -73,8 +73,8 @@ Highlight some quotes from this section to include in your final deliverable.
 
 ### Step Five: Ship it! 
 
-- [ ] Send an email to data@tech-moms.org with your final project.
-- [ ] 🎉 Celebrate! You are helping Tech-Moms with a real-world project. 
+- [x] Send an email to data@tech-moms.org with your final project.
+- [x] 🎉 Celebrate! You are helping Tech-Moms with a real-world project. 
 
 
 
