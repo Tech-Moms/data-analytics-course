@@ -188,9 +188,9 @@ Submit:
 
 | **Criteria**          |               |              |                       |     |
 |-----------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|---------------------------------------|
-| **Formulas Applied**   | Correct use of SUMIF, XLOOKUP, and IF statements | Most formulas applied correctly; minor issues | Some formulas used; multiple errors     | Formulas missing or incorrect         |
-| **Data Visualization** | Clear, accurate, and insightful charts and pivot tables | Charts/pivot tables mostly correct; minor mistakes | Charts are unclear or incomplete        | Charts missing or incorrect            |
-| **Reflection**         | Thoughtful analysis with insights about the non-profit’s data | Adequate analysis with basic insights | Reflection lacks depth or clarity       | Reflection missing or incorrect        |
+| **Formulas Applied**   | Correct use of SUMIF, XLOOKUP, and IF statements | 
+| **Data Visualization** | Clear, accurate, and insightful charts and pivot tables |          |
+| **Reflection**         | Thoughtful analysis with insights about the non-profit’s data |
 
 ---
 
