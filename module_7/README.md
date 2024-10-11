@@ -87,7 +87,7 @@ Download the sample dataset . This dataset includes:
 
 ### 4. Create Visualizations   
 Create visual representations of the data:
-- [x] **Pivot Table**: Summarize total student enrollment per program and region.
+- [x] **Pivot Table**: Summarize the total student responses.
 - [x] **Bar Chart**: Compare income amounts by type (e.g. prior income, current income ).
 - [x] **Pie Chart**: Visualize the proportion of "Successful" versus "Needs Improvement" areas.
 
