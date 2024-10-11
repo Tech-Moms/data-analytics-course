@@ -22,16 +22,16 @@ In this hands-on project, you will help Tech Moms analyze their applicant and st
 
 ## Project Overview
 
-The Leadership team is preparing to release their 2024 Tech Moms Survey Report. Survey reports are typically data-driven. They are important for non-profits because they provide transparency and demonstrate impact, which are crucial for sustaining donor support. The team needs to know the updated numbers for their student graduate survey. They share a .csv file titled “Tech_Moms_Applicant_Data_ANON_8.29.24.csv”. The team asks that you analyze the data and provide them with insights into the updated student demographic numbers.
+The Leadership team is preparing to release their 2024 Tech Moms Survey Report. Survey reports are typically data-driven. They are important for non-profits because they provide transparency and demonstrate impact, which are crucial for sustaining donor support. The team needs to know the updated numbers for their student graduate survey. They share a .csv file titled [Tech-Moms Annual Survey Data](https://docs.google.com/spreadsheets/d/1Rf9-nhBHtUWr0t4c0paNZaaJhFpDMU8lAIbeBR_uk0Q/edit?usp=sharing). The team asks that you analyze the data and provide them with insights into the updated student demographic numbers.
 
-Your deliverable will be a “Student ” Dashboard built in the spreadsheet software of your choice - Excel or Google Sheets.
+Your deliverable will be a “Student Survey” Dashboard built in the spreadsheet software of your choice - Excel or Google Sheets.
 
 ## Complete the Following Steps:
 
 ### Step One: Get to Know Your Data
 
 - [x] Review the Tech Moms 2023 Annual Report - paying special attention to the Student Demographic sections
-- [x] Download the “Tech_Moms_Applicant_Data_ANON_8.29.24.csv”
+- [x] Download the [Tech-Moms Annual Survey Data]
 - [x] Open the .csv file in the spreadsheet tool of your choice - Excel or Google Sheets
 - [x] Start by evaluating the columns to understand what data you’re working with
 - [x] Create a new tab, “Data Dictionary” and copy the columns -> go to new tab -> paste “transposed”. This will paste the columns vertically.
@@ -107,4 +107,100 @@ Functions work great for specific calculations while pivot tables are best for s
 
 - [X] Ideas for data sets include asking ChatGPT for a dataset for a certain topic or choosing a data set from "Tidy Tuesdays" [here](https://github.com/rfordatascience/tidytuesday/blob/master/data/2024/readme.md).
 - [x] Email your this edited README with your video lesson links and your completed assignment to data@tech-moms.org
-- [x] Celebrate! Learning how to learning is an important part of learning! 
+- [x] Celebrate! Learning how to learning is an important part of learning!
+
+# Lesson Plan: Intermediate Data Analytics Using Excel for a Non-Profit Organization
+
+**Course**: Data Analytics
+
+**Module**: Intermediate Excel for Data Analytics in Non-Profit Organizations
+
+**Estimated Time to Complete**: 2 hours
+
+**Objective**:  
+Students will:
+- Analyze real-world data from a non-profit organization.
+- Apply intermediate Excel functions: **SUMIF**, **XLOOKUP**, and **IF statements**.
+- Create charts and pivot tables to visualize non-profit data.
+- Reflect on how data analysis can drive decision-making in non-profits.
+
+---
+
+## Scenario  
+You are working as a data analyst for a non-profit organization focused on education. The non-profit collects data on student enrollment in programs, donor contributions, and program outcomes. Your task is to analyze this data to help the organization understand its impact and inform future decisions.
+
+---
+
+## Instructions for Students
+
+### 1. Review Key Concepts (20 minutes)  
+Before working with the dataset, review these Excel functions:
+- **SUMIF**: Sums values based on a specific condition.
+- **XLOOKUP**: Retrieves data from a table based on a lookup value (similar to VLOOKUP but more flexible).
+- **IF Statements**: Allows for logical comparisons and returns different values based on whether a condition is met.
+- **Pivot Tables**: Helps to summarize and analyze large datasets.
+
+**Resources**:
+- Video: [Intermediate Excel for Data Analytics](https://www.youtube.com/watch?v=kghcAk7l6eA).
+- Documentation: [XLOOKUP](https://support.microsoft.com/en-us/office/xlookup-function) and [SUMIF](https://support.microsoft.com/en-us/office/sumif-function-169b8c99-c05c-4483-a712-1697a653039b).
+
+---
+
+### 2. Practice with Non-Profit Data (30 minutes)  
+Download the sample dataset from the non-profit [here] (include link). This dataset includes:
+- **Student Enrollment**: Number of students per program.
+- **Donor Contributions**: Amounts donated by individuals.
+- **Program Outcomes**: Success metrics for each program.
+
+**Tasks**:
+1. Use **XLOOKUP** to find which donors contributed to specific programs.
+2. Apply the **SUMIF** function to calculate total donations from corporate donors.
+3. Create an **IF statement** to label programs as "Successful" or "Needs Improvement" based on their outcome scores (e.g., IF score >= 80, then “Successful”).
+
+---
+
+### 3. Create Visualizations (25 minutes)  
+Create visual representations of the data:
+- **Pivot Table**: Summarize total student enrollment per program and region.
+- **Bar Chart**: Compare donation amounts by type (e.g., individual vs. corporate donors).
+- **Pie Chart**: Visualize the proportion of "Successful" versus "Needs Improvement" programs.
+
+---
+
+### 4. Data Storytelling Reflection (20 minutes)  
+Reflect on your findings by writing a brief analysis (150–250 words), addressing these questions:
+- What trends did you discover in the data?
+- How do donation patterns correlate with program success?
+- How can this data help the non-profit plan for the future?
+
+Submit your Excel file (with formulas and charts) along with your reflection through the course platform by [Due Date].
+
+---
+
+## Submission Guidelines  
+Submit:
+- **Excel File**: Include your dataset with XLOOKUP, SUMIF, and IF statements applied, as well as the visualizations.
+- **Written Reflection**: Upload a document (Word or PDF) containing your data analysis.
+
+---
+
+## Assessment Criteria
+
+| **Criteria**          | **Exemplary** (90-100%)                 | **Proficient** (80-89%)                 | **Basic** (70-79%)                      | **Needs Improvement** (below 70%)     |
+|-----------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|---------------------------------------|
+| **Formulas Applied**   | Correct use of SUMIF, XLOOKUP, and IF statements | Most formulas applied correctly; minor issues | Some formulas used; multiple errors     | Formulas missing or incorrect         |
+| **Data Visualization** | Clear, accurate, and insightful charts and pivot tables | Charts/pivot tables mostly correct; minor mistakes | Charts are unclear or incomplete        | Charts missing or incorrect            |
+| **Reflection**         | Thoughtful analysis with insights about the non-profit’s data | Adequate analysis with basic insights | Reflection lacks depth or clarity       | Reflection missing or incorrect        |
+
+---
+
+## Additional Resources  
+For further support, refer to:
+- **Microsoft Excel Documentation**: [Excel Help Page](https://support.microsoft.com/en-us/excel)
+- **Video Tutorials**: [Excel Intermediate Data Analysis](https://www.youtube.com/watch?v=UeJWCqJysKI).
+
+---
+
+## Support & Contact  
+If you encounter difficulties, contact the instructor during office hours or via email at [Instructor’s Contact Information].
+
