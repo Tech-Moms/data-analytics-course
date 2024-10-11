@@ -131,7 +131,5 @@ Submit :
 
 ---
 
-## Additional Resources  
-For further support, refer to 
 
 
