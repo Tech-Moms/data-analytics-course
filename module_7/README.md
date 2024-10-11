@@ -92,22 +92,13 @@ Create visual representations of the data:
 - [x] **Pie Chart**: Visualize the proportion of "Successful" versus "Needs Improvement" areas.
 
 ---
-
-### 5. Data Storytelling Reflection   
-Reflect on your findings by writing a brief analysis (150–250 words), addressing these questions:
-- [x] What trends did you discover in the data?
-- [x] How can this data help Tech-Moms for the future?
-
-Submit your Excel file (with formulas and charts) along with your reflection through the course platform by [Saturday, October 12].
-
----
-### 6: Create Charts & Build a Dashboard
+### 5: Create Charts & Build a Dashboard
 
 - [x] For each pivot table, create a chart next to it that visually represents the data. It is up to you to decide what chart will convey the data the best.
 - [x] Review the Annual Survey Report again and make a list of what was reported.
 - [x] Add another tab “Dashboard” and copy & paste the charts you have made in the Dashboard tab.
 
-### 7: Make it Aesthetic
+### 6: Make it Aesthetic
 
 - [x] Evaluate the current dashboard and make some decisions on what would make the dashboard more aesthetically pleasing.
 - [x] Create some new columns either in the “analysis” tab or in the “pivot tables” tab to consolidate data into the minimal number of categories in order to best visually represent it in the dashboard.
@@ -122,7 +113,7 @@ Submit your Excel file (with formulas and charts) along with your reflection thr
 ## Submission Guidelines  
 Submit :
 - **Excel File**: Include your dataset with XLOOKUP, SUMIF, and IF statements applied, as well as the visualizations.
-- **Written Reflection**: Upload a document (Word or PDF) containing your data analysis.
+- **Dashboard**: Include a Dashboard (Word or PDF) containing your data analysis. 
 
 ---
 
