@@ -123,7 +123,7 @@ Submit :
 |-----------------------|-----------------------------------------|
 | **Formulas Applied**   | Correct use of SUMIF, XLOOKUP, and IF statements | 
 | **Data Visualization** | Clear, accurate, and insightful charts and pivot tables |          
-| **Reflection**         | Thoughtful analysis with insights about the non-profit’s data |
+| **Reflection**         | Thoughtful analysis with insights about Tech-Mom’s Survey data |
 
 ---
 
