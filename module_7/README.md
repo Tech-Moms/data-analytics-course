@@ -186,7 +186,7 @@ Submit:
 
 ## Assessment Criteria
 
-| **Criteria**          | **Exemplary** (90-100%)                 | **Proficient** (80-89%)                 | **Basic** (70-79%)                      | **Needs Improvement** (below 70%)     |
+| **Criteria**          |               |              |                       |     |
 |-----------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|---------------------------------------|
 | **Formulas Applied**   | Correct use of SUMIF, XLOOKUP, and IF statements | Most formulas applied correctly; minor issues | Some formulas used; multiple errors     | Formulas missing or incorrect         |
 | **Data Visualization** | Clear, accurate, and insightful charts and pivot tables | Charts/pivot tables mostly correct; minor mistakes | Charts are unclear or incomplete        | Charts missing or incorrect            |
