@@ -2,6 +2,7 @@
 
 This week is "Choose Your Adventure" week where you go deeper on a topic of your choice - either Data Visualization, SQL, BI tooling, Excel or Google Sheets, or even trying your hand at Python or R if you are interested! 
 Using our class format  - find a series of video lessons and watch and complete them. Then choose a data set and analyze it in your prefered tool, leveraging the video lesson you watched to complete the assignment. 
+
 # Video Lessons: 
 
 - [x] Curate the videos you watched for your topic of choice and add here under "Video Lessons".
@@ -12,12 +13,18 @@ Using our class format  - find a series of video lessons and watch and complete 
 
 ## Support & Contact  
 
+# Video Lessons: 
+
+- [x] Alex the Analyst (https://youtu.be/WUeBzT43JyY?si=vqQCnRAK04gb_xYt)
 - [x] Ideas for videos could be Alex the Analyst videos on advanced excel topics, intermidiate SQL, or intro to Python from his [Data Analytics Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ) series.
 
 # Assignment: 
 
-- [X] Choose a data set that interest you to analyze, using the skills you learned in the video lessons.
-- [x] Do Before Class on Saturday, October 12.  
+- [x] Choose a data set that interest you to analyze, using the skills you learned in the video lessons.
+- [x] Ideas for data sets include asking ChatGPT for a dataset for a certain topic or choosing a data set from "Tidy Tuesdays" [here](https://github.com/rfordatascience/tidytuesday/blob/master/data/2024/readme.md).
+- [x] Email your this edited README with your video lesson links and your completed assignment to data@tech-moms.org
+- [x] Celebrate! Learning how to learning is an important part of learning! 
+
 
 # Module 7: Intermediate Data Analytics Using Excel for a Non-Profit Organization
 
