@@ -32,8 +32,6 @@ Using our class format  - find a series of video lessons and watch and complete 
 
 **Module**: Intermediate Excel for Data Analytics with Tech-Mom's Data
 
-**Estimated Time to Complete**: (4+ Hours)
-
 **Objective**:  
 Students will:
 - [x] Analyze real-world data from a non-profit organization.
