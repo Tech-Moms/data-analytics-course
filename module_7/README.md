@@ -147,9 +147,8 @@ Before working with the dataset, review these Excel functions:
 ---
 
 ### 2. Practice with Non-Profit Data (30 minutes)  
-Download the sample dataset from the non-profit [here] (include link). This dataset includes:
+Download the sample dataset . This dataset includes:
 - **Student Enrollment**: Number of students per program.
-- **Donor Contributions**: Amounts donated by individuals.
 - **Program Outcomes**: Success metrics for each program.
 
 **Tasks**:
@@ -178,7 +177,7 @@ Submit your Excel file (with formulas and charts) along with your reflection thr
 ---
 
 ## Submission Guidelines  
-Submit:
+Submit :
 - **Excel File**: Include your dataset with XLOOKUP, SUMIF, and IF statements applied, as well as the visualizations.
 - **Written Reflection**: Upload a document (Word or PDF) containing your data analysis.
 
@@ -195,12 +194,8 @@ Submit:
 ---
 
 ## Additional Resources  
-For further support, refer to:
+For further support, refer to [Tech-Moms Annual Survey Data](https://docs.google.com/spreadsheets/d/1Rf9-nhBHtUWr0t4c0paNZaaJhFpDMU8lAIbeBR_uk0Q/edit?usp=sharing):
 - **Microsoft Excel Documentation**: [Excel Help Page](https://support.microsoft.com/en-us/excel)
 - **Video Tutorials**: [Excel Intermediate Data Analysis](https://www.youtube.com/watch?v=UeJWCqJysKI).
 
----
-
-## Support & Contact  
-If you encounter difficulties, contact the instructor during office hours or via email at [Instructor’s Contact Information].
 
