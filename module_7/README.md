@@ -23,7 +23,8 @@ Using our class format  - find a series of video lessons and watch and complete 
 
 # Video Lessons: 
 
-- [x] - **Microsoft Excel Documentation**: [Excel Help Page](https://support.microsoft.com/en-us/excel)
+- [x] - **Microsoft Excel Documentation**: [Excel Help Page](https://support.microsoft.com/en-us/excel).
+- [x] - **Google Sheets Documentation**: [Google Help Page](https://support.google.com/a/users/answer/9282959?hl=en).
 - [x] - **Video Tutorials**: [Excel Intermediate Data Analysis](https://www.youtube.com/watch?v=UeJWCqJysKI).
 
 ---
