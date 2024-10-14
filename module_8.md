@@ -12,7 +12,7 @@ In this module, students will learn how to use Domo to connect data sources, cre
 - Share dashboards and collaborate with teams.
 - Generate reports to drive business decisions.
 
-## Video Lessons - Completed by class Wednesday 
+## Video Lessons 
 
 Total estimated time to complete: ~8 hours
 
