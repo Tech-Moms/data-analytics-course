@@ -5,11 +5,11 @@ Using our class format  - find a series of video lessons and watch and complete 
 # Video Lessons: 
 
 
-- [X] Videos watched were not particularly helpful, wasn't picking the right ones.This is one video I watched, https://www.youtube.com/watch?v=aqI5uXn7UUI.
+- [ ] Videos watched were from Alex the Analyst videos  intro to Python from his [Data Analytics Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ) series.
 
 # Assignment: 
 
-- [x] I used data from within the Tech-Moms applicant system.
-- [x] I researched how to create a field that allowed me to categorize the information into given sections.
+- [x] Used the following data sourse from kaggle "Employee Data Simulation: IT Industry" (https://www.kaggle.com/datasets/abhayayare/employee-data-simulation-it-industry/data)
+- [x] Using jupyter and python to come up with the data and visulizations, then put into a report in google docs located at (https://docs.google.com/document/d/1gZdRC74EfV4yVwhTg9zLJMBzvisfJHKGOC_08vLqCeI/edit?tab=t.0#heading=h.j8vm3zdkpg9q)
 - [x] Email your this edited README with your video lesson links and your completed assignment to data@tech-moms.org
 - [x] Celebrate! Learning how to learning is an important part of learning! 
