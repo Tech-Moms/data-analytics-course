@@ -58,6 +58,10 @@ Est time to complete: ~1 hr 15 mins
 
 - [ ] Watch this [video series 6.1 - 6.5](https://www.youtube.com/watch?v=7ig7GIqQJGQ&list=PLLbgJInsMl7pZp1AdQt47jXBz1E1jT062&index=43) and mark when complete 
 
-## Assignment #6 
+## Assignment #7 
 
-Assignment 6 will be an in-class project. 
+- [ ] Assignment 7 will be an in-class project. 
+
+## Bonus Assignment 
+
+- [ ] As a bonus assignment, analyze the Tech-Moms applicant data in Domo & make a dashboard. What do you notice is similar or different from other tools? 
