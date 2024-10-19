@@ -27,6 +27,7 @@ Total estimated time to complete: ~8 hours
 Est time to complete: ~30 mins 
 
 - [ ] Watch this [video series 1.1 - 1.5](https://www.youtube.com/watch?v=tDxE5VO-dgI&list=PLLbgJInsMl7pZp1AdQt47jXBz1E1jT062&index=1) and mark when complete
+- [ ] Visit https://community-forums.domo.com/main - this is the Domo community forum where you can search and ask questions 
 
 ### Data Aquisition 
 
