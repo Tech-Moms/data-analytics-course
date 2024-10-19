@@ -4,7 +4,7 @@
 
 ## Overview: 
 
-In this module, students will learn how to use Domo to connect data sources, create dashboards, and visualize insights. The focus will be on practical applications, enabling students to analyze data and present findings through dynamic visualizations to support decision-making.
+In this module, students will learn how to use Domo, a Utah-based BI tool, to connect data sources, create dashboards, and visualize insights. 
 
 ## Learning Outcomes:
 
