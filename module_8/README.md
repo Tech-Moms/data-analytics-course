@@ -24,6 +24,8 @@ _Total estimated time to complete: ~10 hours_
 
 ### Domo Overview 
 
+![2](https://github.com/user-attachments/assets/d193e93f-146f-4174-9ae0-1b3a40fa7268)
+
 _Est time to complete: ~1 hour_  
 
 In this first video series you are introduced you to the instructor, provided an overview of what to expect from the course, will explore what makes Domo unique in the BI space. It'll cover the essentials of the Domo community, how it supports learning and collaboration, and compare Domo to other BI tools. Lastly, you'll have a brief tour of the Domo platform.
@@ -33,6 +35,8 @@ In this first video series you are introduced you to the instructor, provided an
 
 ### Data Aquisition 
 
+![3](https://github.com/user-attachments/assets/bcf72810-b112-48eb-ac03-5e5e4b1948c3)
+
 _Est time to complete: ~1 hour_
 
 In this series, you'll be introduced to Domo’s data connectors and explore how to bring data into the platform. You'll learn how to upload files, create webforms, and use email connectors to automate data flows. We’ll also cover hidden tables and how they can enhance data organization. Lastly, the section wraps up with a video summarizing key takeaways.
@@ -40,6 +44,8 @@ In this series, you'll be introduced to Domo’s data connectors and explore how
 - [ ] Watch this [video series 2.1 - 2.7](https://www.youtube.com/watch?v=RAcJJnGSS9Y&list=PLLbgJInsMl7pZp1AdQt47jXBz1E1jT062&index=6) and mark when complete.
 
 ### Data Transformation 
+
+![4](https://github.com/user-attachments/assets/3d501ddb-cbed-4fd8-a6a8-395dcaabc455)
 
 _Est time to complete: ~2 hours_
 
@@ -49,6 +55,8 @@ In this next series, you'll explore the difference between ETL and SQL, followed
 
 ### Data Exploration  
 
+![5](https://github.com/user-attachments/assets/abc2a780-f578-43e4-90b6-cc51252cbfd7)
+
 _Est time to complete: ~30 mins_
 
 This short section focuses on data exploration in Domo. You’ll learn how to set up KPIs to track key metrics and use Domo’s tools to explore datasets efficiently. 
@@ -57,6 +65,8 @@ This short section focuses on data exploration in Domo. You’ll learn how to se
 
 ### Data Visualization 
 
+![6](https://github.com/user-attachments/assets/0f9a0a9f-e927-4a97-8393-f3b4e8a25e79)
+
 _Est time to complete: ~3 hours_
 
 This section covers data visualization in Domo, starting with an introduction to the chart editor. You’ll learn how to create various chart types, including bar, line, area, lollipop, pie, funnel, and map visuals, along with custom charts and gauges. We’ll also explore using tables, text boxes, and filters to enhance dashboards. Advanced visualizations for data science are included, and the section wraps up with key takeaways to solidify your understanding of Domo’s visualization tools.
@@ -64,6 +74,9 @@ This section covers data visualization in Domo, starting with an introduction to
 - [ ] Watch this [video series 5.1 - 5.17](https://www.youtube.com/watch?v=Se9PnwLxE7w&list=PLLbgJInsMl7pZp1AdQt47jXBz1E1jT062&index=26) and mark when complete
 
 ### Dashboarding 
+
+![7](https://github.com/user-attachments/assets/bea60f2d-b2e6-486c-bbcd-5e0633509ab2)
+
 
 _Est time to complete: ~2 hours_
 
