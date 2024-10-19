@@ -24,6 +24,8 @@ Total estimated time to complete: ~8 hours
 
 ### Domo Overview 
 
+In this first video series you are introduced you to the instructor, provided an overview of what to expect from the course, will explore what makes Domo unique in the BI space. It'll cover the essentials of the Domo community, how it supports learning and collaboration, and compare Domo to other BI tools. Lastly, you'll have a brief tour of the Domo platform.
+
 Est time to complete: ~30 mins 
 
 - [ ] Watch this [video series 1.1 - 1.5](https://www.youtube.com/watch?v=tDxE5VO-dgI&list=PLLbgJInsMl7pZp1AdQt47jXBz1E1jT062&index=1) and mark when complete
