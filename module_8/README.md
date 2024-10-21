@@ -16,7 +16,7 @@ In this module, students will learn how to use Domo to connect data sources, cre
 
 ## Getting Started 
 
-- [ ] Visit [domo.com/start/student](https://www.domo.com/start/student) to create a Domo student account using your weber.edu email address
+- [x] Visit [domo.com/start/student](https://www.domo.com/start/student) to create a Domo student account using your weber.edu email address
 
 ## Video Lessons 
 
