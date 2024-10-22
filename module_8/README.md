@@ -51,7 +51,7 @@ _Est time to complete: ~2 hours_
 
 In this next series, you'll explore the difference between ETL and SQL, followed by an introduction to ETLs in Domo. We’ll dive into various ETL functions, including text, date, and numeric transformations, utility functions, and filters. You'll also learn how to combine data, apply aggregation, and use pivot functions to reshape datasets. Advanced topics like data science functions are introduced to enhance analytics capabilities. The section concludes with a wrap-up video to reinforce key concepts and prepare you to apply ETL workflows effectively.
 
-- [ ] Watch this [video series 3.1 - 3.11](https://www.youtube.com/watch?v=tuTq62KPjJ8&list=PLLbgJInsMl7pZp1AdQt47jXBz1E1jT062&index=13) and mark when complete
+- [x] Watch this [video series 3.1 - 3.11](https://www.youtube.com/watch?v=tuTq62KPjJ8&list=PLLbgJInsMl7pZp1AdQt47jXBz1E1jT062&index=13) and mark when complete
 
 ### Data Exploration  
 
