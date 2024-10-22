@@ -30,8 +30,8 @@ _Est time to complete: ~1 hour_
 
 In this first video series you are introduced you to the instructor, provided an overview of what to expect from the course, will explore what makes Domo unique in the BI space. It'll cover the essentials of the Domo community, how it supports learning and collaboration, and compare Domo to other BI tools. Lastly, you'll have a brief tour of the Domo platform.
 
-- [ ] Watch this [video series 1.1 - 1.5](https://www.youtube.com/watch?v=tDxE5VO-dgI&list=PLLbgJInsMl7pZp1AdQt47jXBz1E1jT062&index=1) and mark when complete
-- [ ] Visit https://community-forums.domo.com/main - this is the Domo community forum where you can search and ask questions 
+- [x] Watch this [video series 1.1 - 1.5](https://www.youtube.com/watch?v=tDxE5VO-dgI&list=PLLbgJInsMl7pZp1AdQt47jXBz1E1jT062&index=1) and mark when complete
+- [x] Visit https://community-forums.domo.com/main - this is the Domo community forum where you can search and ask questions 
 
 ### Data Aquisition 
 
