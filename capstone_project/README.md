@@ -6,7 +6,7 @@ The capstone project for our data analytics course offers a practical, hands-on 
 
 ## Project Process
 
-  - [ ] **Project Introduction:**  
+  - [x] **Project Introduction:**  
    Each student will identify and reach out to a local business or non-profit organization to offer their data analysis services. This will involve an interview with the client to understand the data needs of the organization and decide on a project that could help them make data-driven decisions. This will be introduced during a class session where students can discuss their potential projects and approach.
 
   - [ ]  **Project Execution:**  
