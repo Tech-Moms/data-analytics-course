@@ -71,7 +71,7 @@ _Est time to complete: ~3 hours_
 
 This section covers data visualization in Domo, starting with an introduction to the chart editor. You’ll learn how to create various chart types, including bar, line, area, lollipop, pie, funnel, and map visuals, along with custom charts and gauges. We’ll also explore using tables, text boxes, and filters to enhance dashboards. Advanced visualizations for data science are included, and the section wraps up with key takeaways to solidify your understanding of Domo’s visualization tools.
 
-- [ ] Watch this [video series 5.1 - 5.17](https://www.youtube.com/watch?v=Se9PnwLxE7w&list=PLLbgJInsMl7pZp1AdQt47jXBz1E1jT062&index=26) and mark when complete
+- [x] Watch this [video series 5.1 - 5.17](https://www.youtube.com/watch?v=Se9PnwLxE7w&list=PLLbgJInsMl7pZp1AdQt47jXBz1E1jT062&index=26) and mark when complete
 
 ### Dashboarding 
 
