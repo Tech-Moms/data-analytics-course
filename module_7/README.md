@@ -1,10 +1,6 @@
-# Choose Your Adventure Week 
+# Module 7: Choose Your Adventure 
 
-This week is "Choose Your Adventure" week where you go deeper on a topic of your choice - either Data Visualization, SQL, BI tooling, Excel or Google Sheets, or even trying your hand at Python or R if you are interested! 
-Using our class format  - find a series of video lessons and watch and complete them. Then choose a data set and analyze it in your prefered tool, leveraging the video lesson you watched to complete the assignment. 
-
-
-## Support & Contact  
+This week is "Choose Your Adventure" week where you go deeper on a topic of your choice - either Data Visualization, SQL, BI tooling, Excel or Google Sheets, or even trying your hand at Python or R if you are interested! Using our class format  - find a series of video lessons and watch and complete them. Then choose a data set and analyze it in your prefered tool, leveraging the video lesson you watched to complete the assignment. 
 
 # Video Lessons: 
 
@@ -127,6 +123,4 @@ Submit :
 | **Reflection**         | Thoughtful analysis with insights about Tech-Mom’s Survey data |
 
 ---
-
-
 
