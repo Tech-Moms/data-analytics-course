@@ -61,7 +61,7 @@ _Est time to complete: ~30 mins_
 
 This short section focuses on data exploration in Domo. You’ll learn how to set up KPIs to track key metrics and use Domo’s tools to explore datasets efficiently. 
 
-- [ ] Watch this [video series 4.1 - 4.2](https://www.youtube.com/watch?v=UMZAUpfxTRI&list=PLLbgJInsMl7pZp1AdQt47jXBz1E1jT062&index=24) and mark when complete
+- [x] Watch this [video series 4.1 - 4.2](https://www.youtube.com/watch?v=UMZAUpfxTRI&list=PLLbgJInsMl7pZp1AdQt47jXBz1E1jT062&index=24) and mark when complete
 
 ### Data Visualization 
 
