@@ -82,7 +82,7 @@ _Est time to complete: ~2 hours_
 
 In this section on dashboarding, you'll learn how to make visuals stand out, including a fun frittata recipe to illustrate design principles. We’ll cover how to edit and customize your dashboards, followed by a detailed walkthrough of dashboard features. The section wraps up by highlighting additional cool features to enhance functionality and user experience in Domo.
 
-- [ ] Watch this [video series 6.1 - 6.5](https://www.youtube.com/watch?v=7ig7GIqQJGQ&list=PLLbgJInsMl7pZp1AdQt47jXBz1E1jT062&index=43) and mark when complete 
+- [x] Watch this [video series 6.1 - 6.5](https://www.youtube.com/watch?v=7ig7GIqQJGQ&list=PLLbgJInsMl7pZp1AdQt47jXBz1E1jT062&index=43) and mark when complete 
 
 ## Assignment #7 
 
