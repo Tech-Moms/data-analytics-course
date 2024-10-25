@@ -1,4 +1,4 @@
-# Course Curriculm 
+# Course Curriculum 
 
 ## Before Module 1: Prework 
 
