@@ -26,4 +26,4 @@ Learning how to learn is an important part of learning! In this module, students
 
 ## Module 9: Capstone Project 
 
-The capstone project for our data analytics course offers a practical, hands-on experience where students collaborate with local businesses or non-profits to provide data analysis services. This project is designed to help students apply their skills in a real-world setting. Students will work on analyzing a set of data provided by the business or non-profit, which could be used for an annual report, strategic planning, or creating a dashboard. 
+The capstone project for our data analytics course offers a practical, hands-on experience where students collaborate with local businesses or non-profits to provide data analysis services. 
