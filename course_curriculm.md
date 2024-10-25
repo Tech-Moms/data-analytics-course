@@ -18,7 +18,7 @@ Learn important data analytics foundations like data visualizations best practic
 
 ## Module 6: Insights in Tableau 
 
-## Moduele 7: Choose Your Adventure 
+## Module 7: Choose Your Adventure 
 
 Learning how to learn is an important part of learning! In this module, students will dive deeper on a topic of their choice - either Data Visualization, SQL, BI tooling, Excel or Google Sheets, or trying out Python or R.
 
