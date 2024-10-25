@@ -32,7 +32,7 @@ Harness the power of Tableau to transform data into interactive dashboards and v
 
 Learning how to learn is an important part of learning! In this module, students will dive deeper on a topic of their choice - either Data Visualization, SQL, BI tooling, Excel or Google Sheets, or trying out Python or R.
 
-## Module 8: Data cleaning and Dashboarding in Domo 
+## Module 8: Data Cleaning and Dashboarding in Domo 
 
 Master data cleaning and dashboard creation in Domo to streamline workflows, visualize key metrics, and deliver actionable insights. 
 
