@@ -1,3 +1,15 @@
+# Program Overview
+
+## Structure
+* Hybrid course - online Wednesday evenings from 7pm - 9pm & online Saturday mornings from 10am - 12pm
+* Once a month in person meetings 
+* ~30 students
+
+## Each Week 
+* 10 hrs each week of independent work / learning
+* Wednesday class = Homework/assignment overview & lecture 
+* Saturday class = Share & tell + industry guest speaker 
+  
 # Course Curriculum 
 
 ## Before Module 1: Prework 
