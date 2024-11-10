@@ -21,7 +21,7 @@
 
 - [ ] Refine Dashboard / Report / Presentation 
 - [ ] Prepare for Graduation 
-* Show us what you have built (website, coding project, activity, whatever)--how you built it, why you made the choices you did, etc.
+* Show us what you have built (dashboard/analysis etc) --how you built it, why you made the choices you did, etc.
 * Tell us about the biggest challenges you faced during the program and how you got through them.
 * Share your key takeaways--what did you learn that will have the biggest impact on you?
 * Let us know what your plans are--are you leaning toward a specific role and what are your steps to get there?
