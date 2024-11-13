@@ -20,7 +20,7 @@
 - **Teacher Breakout Group**: Individual check-ins with each student to provide feedback and guidance.
 
 ## 5. Wrap-Up
-- This Saturday we'll have [Shannon Peterson]([url](https://www.linkedin.com/in/shannonpeterson-pmp/) - a manager and data consultant join us as guest speaker. 
+- This Saturday we'll have [Shannon Peterson](https://www.linkedin.com/in/shannonpeterson-pmp/) - a manager and data consultant join us as guest speaker. 
 - Next week is Graduation @ Prog Dev Center 10am - 2pm! Lunch will be provided. 
 - See timeline.md for presentation expectations. 
 - Thanks everyone! 
