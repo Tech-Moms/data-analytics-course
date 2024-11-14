@@ -8,7 +8,7 @@
 - **RSVP for the HR Speed Interview** – Sign up [here](https://docs.google.com/spreadsheets/d/1XyTW9AVOQO-XyRoLmesKCMKi6dtLvwtR/edit?gid=863703429#gid=863703429)! 
 - **Capstone Kick-off Form** – Fill out [this form](https://forms.gle/jm8EiGbDbZ2WSS8t8) if you haven’t already.
 
-## 3. Mini Explainer: Writing a Data-Driven Blog Post
+## 3. Mini Lesson: Writing a Data-Driven Blog Post
 
 - Example 1: [GitHub Octoverse Report](https://github.blog/news-insights/octoverse/octoverse-2024/)
 - Example 2: [Stackoverflow Annual Survey](https://survey.stackoverflow.co/2024/developer-profile/) 
