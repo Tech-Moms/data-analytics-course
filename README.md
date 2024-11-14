@@ -86,7 +86,7 @@ We are here to support you every step of the way. Our DMs are open. In addition,
 **Time/Day:**
 - Thursday 10am - 12pm
 - Thursday 7:30pm - 9pm
-- Friday 6pm - 8pm
+- Monday 7:30pm - 9pm 
 
 **Location:** Class Zoom 
 
