@@ -1,11 +1,12 @@
 # 🎓 Capstone Graduation Presentation Guidelines
 
-**Date:** November 23rd, 2024 | 10am - 2pm | Prog Dev Center 
+**Date:** November 23rd, 2024 | 10am - 2pm | [Prog Dev Center](https://maps.app.goo.gl/BXgR83ABid8ZjS5HA) 
+
 **Time Limit:** Each student will have **5–7 minutes** to present their project.
 
 ---
 
-## **Presentation Structure**
+## **Suggested Presentation Structure**
 
 ### 1. **Introduction (1-2 minutes):**
    - State your name and the project title.
@@ -14,32 +15,32 @@
 
 ---
 
-### 2. **The Process (2-3 minutes):**
-   - Describe the steps you took to complete your project:
-     - How you gathered and prepared the data.
-     - Tools and techniques you used (Excel, SQL, BI tools, etc.).
-     - The methodology or thought process behind your analysis.
-   - Highlight any significant milestones or "aha!" moments.
+### 2. **Show Us What You Built (2-3 minutes):**
+   - Present your final deliverable:
+     - Dashboard, analysis, visualizations, or other outputs.
+   - Explain how you built it:
+     - Tools, techniques, and methodologies you used.
+     - Why you made the design and analysis choices you did.
 
 ---
 
-### 3. **Key Findings (1-2 minutes):**
-   - Share your main insights or results.
-   - Show visualizations, dashboards, or any final deliverables.
-   - Explain how your findings could be used or applied in a real-world scenario.
+### 3. **Biggest Challenges and How You Overcame Them (1-2 minutes):**
+   - Share the biggest challenges you faced during the program:
+     - Technical hurdles, time management, or learning new tools.
+   - Explain how you got through them and what you learned from the experience.
 
 ---
 
-### 4. **Challenges and Overcoming Them (1-2 minutes):**
-   - Talk about any roadblocks or difficulties you faced (technical, analytical, or time management-related).
-   - Share how you resolved those challenges and what you learned from the experience.
+### 4. **Key Takeaways (1-2 minutes):**
+   - Reflect on what you learned during the program.
+   - Highlight the insights or skills that will have the **biggest impact** on you moving forward.
 
 ---
 
-### 5. **Conclusion (1 minute):**
-   - Reflect on what you gained from this project.
-   - Mention any skills you improved or how this project prepared you for future opportunities.
-   - Express gratitude to your peers, mentors, and the program for their support.
+### 5. **Your Future Plans (1-2 minutes):**
+   - Let us know what’s next for you:
+     - Are you leaning toward a specific role in the data or tech field?
+     - Share your next steps to reach your goals.
 
 ---
 
