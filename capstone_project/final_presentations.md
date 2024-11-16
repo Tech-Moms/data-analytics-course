@@ -8,14 +8,14 @@
 
 ## **Suggested Presentation Structure**
 
-### 1. **Introduction (1-2 minutes):**
+### 1. **Introduction (1 minute):**
    - State your name and the project title.
    - Briefly describe the problem you aimed to solve or the question you wanted to answer.
    - Share why you chose this project and its relevance.
 
 ---
 
-### 2. **Show Us What You Built (2-3 minutes):**
+### 2. **Show Us What You Built (2 minutes):**
    - Present your final deliverable:
      - Dashboard, analysis, visualizations, or other outputs.
    - Explain how you built it:
@@ -24,14 +24,14 @@
 
 ---
 
-### 3. **Biggest Challenges and How You Overcame Them (1-2 minutes):**
+### 3. **Biggest Challenges and How You Overcame Them (1 minute):**
    - Share the biggest challenges you faced during the program:
      - Technical hurdles, time management, or learning new tools.
    - Explain how you got through them and what you learned from the experience.
 
 ---
 
-### 4. **Key Takeaways (1-2 minutes):**
+### 4. **Key Takeaways (1 minute):**
    - Reflect on what you learned during the program.
    - Highlight the insights or skills that will have the **biggest impact** on you moving forward.
 
