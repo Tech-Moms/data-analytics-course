@@ -2,7 +2,7 @@
 
 **Date:** November 23rd, 2024 | 10am - 2pm | [Prog Dev Center](https://maps.app.goo.gl/BXgR83ABid8ZjS5HA) 
 
-**Time Limit:** Each student will have **5–7 minutes** to present their project.
+**Time Limit:** Each student will have **5 minutes** to present their project.
 
 ---
 
