@@ -37,13 +37,6 @@
 
 ---
 
-### 5. **Your Future Plans (1-2 minutes):**
-   - Let us know what’s next for you:
-     - Are you leaning toward a specific role in the data or tech field?
-     - Share your next steps to reach your goals.
-
----
-
 ## **Encourage Reflection**
 - Remember, the goal is to share your journey, **not to deliver a perfect product**.
 - Challenges are part of the learning process—discussing them is a **strength**.
