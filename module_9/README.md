@@ -84,6 +84,8 @@ Recommended tool: **ChatGPT** (with the Code Interpreter/Advanced Data Analysis 
 
 ### Additional Resources
 
+- https://code.org/curriculum/how-ai-works 
+
 
 
 
