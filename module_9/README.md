@@ -107,6 +107,12 @@ In this video you'll see how to create your very own personalized AI assistant. 
 
 - [ ] Complete [Assignment 1](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/main/module_1/assignment_1.md) and mark when complete. 
 
+---
+
+## Lecture 
+
+ - [ ] [AI in Education and Analytics](https://docs.google.com/presentation/d/1adQsagv1OgYLzNgowLpsEHQqPHiQypYjgNw328Rgz5M/edit?usp=sharing) 
+
 
 
 
