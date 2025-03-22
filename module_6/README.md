@@ -12,7 +12,7 @@ In this module, students will explore Looker, a powerful business intelligence t
 - Apply filters for interactive dashboard elements
 - Share dashboards and schedule reports
 
-## Video Lessons - Complete by class Wednesday
+## Video Lessons - Complete by class Wednesday, March 26th
 
 _Watch the videos below, edit the markdown file with an x in the checkbox when complete, then commit changes._
 
